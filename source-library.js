@@ -70,7 +70,7 @@
     {
       icon: 'PREP',
       title: 'PREP · Đề mẫu và kho PDF',
-      detail: 'Bài viết có cấu trúc đề mẫu và liên kết tới các thư mục Drive. Tên thư mục nêu 20 đề; số lượng/tính toàn vẹn tệp chưa được xác minh.',
+      detail: 'Đã tải riêng PDF 199 trang có tên “20 Mock Tests”. Cần kiểm tra từng bộ và đáp án để loại trùng; con số trong tiêu đề chưa được xác nhận độc lập.',
       link: 'https://prepedu.com/vi/blog/de-thi-mau-vstep',
       label: 'Mở bài viết & kho đề',
       badge: 'Nguồn luyện · cần rà soát'
@@ -166,7 +166,7 @@
             <a class="source-tag" target="_blank" rel="noopener noreferrer" href="${source.link}">${source.label} ↗</a>
           </article>`).join('')}
       </div>
-      <p class="source-library-note">Bản PDF “7 Vstep Tests (B1–B2–C1) – Full Key” cùng 7 MP3 và 3 MP3 lẻ từ thư mục Drive bạn cung cấp đã được giữ trong kho cá nhân trên máy. Chưa xác minh được tác giả/nguồn phát hành, nên không tải lên website hoặc tính là 7 đề thi chính thức.</p>`;
+      <p class="source-library-note">PDF “20 Mock Tests” của PREP và PDF “7 Vstep Tests” từ Drive bạn cung cấp đang nằm riêng trong kho cá nhân. Đã xác nhận tệp PREP dài 199 trang; chưa rà từng bộ để loại trùng, đối chiếu đáp án và ghép audio. Không đưa các PDF/audio lên repo công khai hoặc gọi chúng là đề thi thật của UED.</p>`;
     section.insertAdjacentElement('afterend', practiceSection);
   }
 
