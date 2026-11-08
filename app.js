@@ -62,7 +62,7 @@ function homePage(v){
     <div class="hero-copy">
       <div class="eyebrow" style="color:#d4e4d8">HỆ THỐNG LUYỆN THI VSTEP BẬC 3–5 CHUẨN XÁC</div>
       <h1>Mục tiêu đạt chuẩn C1<br><em>với kho đề mẫu & bài luyện.</em></h1>
-      <p>245 câu hỏi trắc nghiệm (210 Đọc hiểu + 35 Nghe hiểu có Transcript), 33 bài luận & thư cùng 36 nhiệm vụ nói thực tế. Phân tách rõ ràng từng thư mục B1, B2, C1.</p>
+      <p>170 câu Đọc từ các gói mẫu/luyện tập và 35 câu Nghe mô phỏng bằng TTS. Thêm 10 đề thư và 18 đề Nói mô phỏng; đây không phải đề thi thật.</p>
       <div style="display:flex;gap:10px;margin-top:18px;flex-wrap:wrap">
         <button class="button" style="background:#f0d0ae;color:#1e3b2e;padding:12px 18px;font-size:13px" onclick="currentFolderLevel='C1';currentFolderTab='all';nav('practice')">
           🟣 Mở kho tài liệu Bậc C1 →
@@ -518,7 +518,7 @@ function renderReadingFolderSection(icon, title, desc, sets) {
       </div>
       <div class="folder-grid">
         ${sets.map(s => {
-          const isOfficial = s.id.includes('udn') || s.id.includes('qnu') || s.id.includes('ctu') || s.id.includes('official');
+          const isOfficial = s.id.includes('udn') || s.id.includes('qnu') || s.id.includes('official');
           const isMock = s.id.includes('zim') || s.id.includes('prep');
           const badgeText = isOfficial ? 'Đề mẫu chính thức' : (isMock ? 'Bài mẫu luyện thi' : 'Bài luyện C1 tổng hợp');
           const badgeClass = isOfficial ? 'badge-official' : (s.level === 'C1' ? 'badge-c1' : (s.level === 'B2' ? 'badge-b2' : 'badge-b1'));
@@ -561,14 +561,6 @@ function renderExamsFolderSection() {
       packId: 'qnu-vstep-sample-official',
       packUrl: 'packs/vstep-official-sample-qnu.json',
       badge: 'Đề mẫu ĐH Quy Nhơn'
-    },
-    {
-      title: 'Đề mẫu chính thức CFLA Đại học Cần Thơ (2015)',
-      desc: 'Bộ đề thi mẫu chính thức VSTEP Bậc 3-5 do CFLA công bố: 40 câu hỏi Đọc hiểu có bảng đáp án gốc & giải thích chi tiết, 2 bài Viết (Jane & Du lịch cộng đồng) và 3 phần Nói kèm dàn ý C1.',
-      readingSets: ['ctu-sample-r1', 'ctu-sample-r2', 'ctu-sample-r3', 'ctu-sample-r4'],
-      packId: 'vstep-ctu-sample-2015',
-      packUrl: 'packs/vstep-ctu-reading.json',
-      badge: 'Đề mẫu ĐH Cần Thơ 2015'
     },
     {
       title: 'Bài mẫu luyện tập theo nguồn ZIM',
@@ -810,10 +802,10 @@ function msEmptyTitle(){return state.mistakes.length?'Không tìm thấy câu ph
 function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eyebrow">ĐÍCH ĐẾN: C1 · KỲ THI CHUẨN ĐẦU RA ĐHĐN</div><h1>Học liệu & định dạng thi</h1><p>Đợt thi tại ĐH Sư phạm dự kiến ngày 29/11/2026. Dùng định dạng Bậc 3–5 làm khung luyện theo nguồn chính thức, đồng thời phân biệt rõ tài liệu tham khảo với ngân hàng đề riêng của kỳ thi.</p></div><div class="notice"><b>Mục tiêu C1:</b> Bài thi đánh giá chung B1–C1; điểm thi quyết định bậc đạt được. Cấu trúc dưới đây theo định dạng 729/QĐ-BGDĐT được trường công bố. Trang đợt thi xác nhận ngày thi và lệ phí, nhưng người học nên làm theo hướng dẫn dự thi mới nhất của trường nếu có thay đổi.</div><div class="section-head"><div><h2>Khung bài thi Bậc 3–5</h2><p>Bốn kỹ năng · đề đa bậc · thông số theo định dạng công bố</p></div><span class="set-badge">Nguồn: QĐ 729/QĐ-BGDĐT</span></div><div class="level-grid"><article class="level-card"><div class="level-top"><span class="level-tag">LISTENING</span></div><h3>Nghe · khoảng 40 phút</h3><p>35 câu, khoảng 40 phút. Đề mẫu 2025: Part 1 có 8 thông báo ngắn; Part 2 có 3 hội thoại, mỗi hội thoại 4 câu; Part 3 có 3 bài nói/bài giảng, mỗi bài 5 câu. Bản mẫu hướng dẫn nghe mỗi bản ghi một lần.</p><div class="level-meta"><span>Chi tiết · ý chính · suy luận</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">READING</span></div><h3>Đọc · 60 phút</h3><p>40 câu trắc nghiệm trên 4 bài đọc, 10 câu mỗi bài. Dạng trọng tâm: chi tiết, ý chính, thái độ/quan điểm, suy luận và từ vựng trong ngữ cảnh.</p><div class="level-meta"><span>4 bài · tăng dần độ khó</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">WRITING</span></div><h3>Viết · 60 phút</h3><p>60 phút: thư/email tối thiểu khoảng 120 từ, chiếm 1/3 điểm Viết; bài luận tối thiểu khoảng 250 từ, chiếm 2/3 điểm.</p><div class="level-meta"><span>Task 1 + Task 2</span></div></article></div><div class="quick-grid" style="margin-top:12px"><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · khoảng 12 phút</h3><p>12 phút: Part 1 tương tác xã hội, Part 2 chọn và bảo vệ giải pháp, Part 3 phát triển chủ đề và trả lời câu hỏi phụ. Đề mẫu chia thời gian lần lượt 3, 4 và 5 phút.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Quy đổi bậc tham khảo</h3><p>Điểm trung bình 4 kỹ năng được làm tròn theo bước 0,5: 4,0–5,5 = B1; 6,0–8,0 = B2; 8,5–10 = C1. Xác nhận quy tắc áp dụng với thông báo kỳ thi hiện hành.</p></article></div><div class="section-head"><div><h2>Cách luyện theo từng kỹ năng</h2><p>Chiến thuật tóm tắt cho bài đa bậc; đối chiếu chỉ dẫn trên đề thật</p></div></div><div class="resource-grid"><article class="resource-card"><div class="resource-icon">🎧</div><h3>Nghe · đọc trước, bắt ý rồi kiểm chứng</h3><p>Trước audio, lướt câu hỏi và gạch từ khóa. Khi nghe, ghi ý/quan hệ giữa người nói; tránh chọn đáp án chỉ vì nghe thấy một từ giống lựa chọn.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Đọc · xác định bằng chứng trong đoạn</h3><p>Đọc câu hỏi trước để định hướng, tìm vị trí thông tin, phân biệt chi tiết với suy luận. Với câu từ vựng, đọc cả câu và các câu lân cận.</p></article><article class="resource-card"><div class="resource-icon">✎</div><h3>Viết · lập dàn ý, trả lời đủ yêu cầu</h3><p>Task 1: xác định người nhận, mục đích và các ý bắt buộc. Task 2: nêu lập trường, phát triển luận điểm bằng giải thích/ví dụ và dành thời gian rà soát.</p></article><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · trả lời trực tiếp rồi mở rộng</h3><p>Part 1: trả lời và thêm lý do/ví dụ. Part 2: so sánh giải pháp, chọn và biện minh. Part 3: trình bày quan điểm có cấu trúc, liên kết ý và đáp câu hỏi mở rộng.</p></article></div><div class="section-head"><div><h2>Tính điểm mục tiêu</h2><p>Nhập điểm thử 4 kỹ năng để xem trung bình và bậc tham khảo</p></div></div><div class="result-card"><div class="filter-row"><label class="score-field">Nghe <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Đọc <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Viết <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Nói <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label></div><div id="score-output" class="answer-feedback">Nhập điểm từng kỹ năng để tính kết quả tham khảo.</div></div><div class="section-head"><div><h2>Nguồn luyện tập & kho đề mẫu</h2><p>Đề mẫu chính thức, bài mẫu luyện thi và gói tự biên soạn; nạp trực tiếp để luyện</p></div><a class="button ghost small" href="content-pack-template.json" download>Tải mẫu JSON</a><button class="button secondary small" onclick="document.querySelector('#pack-file').click()">Nhập gói từ file JSON</button><input id="pack-file" type="file" accept=".json,application/json" hidden></div><div class="preset-banner" style="background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px;margin:14px 0">
   <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;margin-bottom:12px">
     <div>
-      <strong style="font-size:13px;color:var(--ink);display:block">⚡ Kho đề thi & bài luyện chuẩn hóa (245 câu Đọc/Nghe · 69 nhiệm vụ Viết/Nói)</strong>
-      <p style="font-size:11.5px;color:var(--muted);margin:3px 0 0">Tự động nạp 9 bộ đề chuẩn: đề mẫu ĐHĐN 2025, ĐH Quy Nhơn, ZIM, PREP, Gói C1 tổng hợp, Đề Nghe 35 câu có Transcript, 10 Đề thư Task 1, 18 Đề Nói mở rộng và Đề mẫu ĐH Cần Thơ 2015:</p>
+      <strong style="font-size:13px;color:var(--ink);display:block">⚡ Kho đề mẫu có nguồn & bài luyện (170 câu Đọc · 35 câu Nghe TTS mô phỏng · 64 nhiệm vụ Viết/Nói)</strong>
+      <p style="font-size:11.5px;color:var(--muted);margin:3px 0 0">Tự động nạp 8 gói: đề mẫu ĐHĐN, Quy Nhơn, bài mẫu ZIM/PREP, gói C1 Lingua và ba gói luyện mô phỏng Nghe/Viết/Nói:</p>
     </div>
-    <span class="set-badge" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0">Đã đồng bộ 9 bộ đề</span>
+    <span class="set-badge" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0">Đã đồng bộ 8 gói</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:8px">
     <button class="button small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-official-sample-udn.json','Đề mẫu ĐHĐN 2025')">
@@ -822,23 +814,23 @@ function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eye
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-official-sample-qnu.json','Đề mẫu ĐH Quy Nhơn')">
       📥 <strong>ĐH Quy Nhơn & ĐH Đồng Tháp</strong> · 40 Đọc + 5 Viết/Nói
     </button>
-    <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-ctu-reading.json','Đề mẫu ĐH Cần Thơ 2015')">
-      📥 <strong>ĐH Cần Thơ (CFLA 2015)</strong> · 40 Đọc + 5 Viết/Nói
-    </button>
+    <a class="button secondary small" style="text-align:left;justify-content:flex-start" href="https://cfla.ctu.edu.vn/tai-lieu" target="_blank" rel="noopener">
+      🔗 <strong>Đề mẫu CFLA · ĐH Cần Thơ (2015)</strong> · Mở tài liệu gốc
+    </a>
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-sample-zim.json','Đề mẫu luyện tập ZIM')">
       📥 <strong>Đề mẫu luyện tập ZIM</strong> · 40 Đọc + 5 Viết/Nói
     </button>
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-sample-prep.json','Đề mẫu luyện tập PREP')">
       📥 <strong>Đề mẫu luyện tập PREP</strong> · 40 Đọc + 5 Viết/Nói
     </button>
-    <button class="button small" style="text-align:left;justify-content:flex-start;background:#0284c7" onclick="loadPresetPack('packs/vstep-listening-full.json','Đề Nghe Chuẩn Quốc Gia')">
-      🎧 <strong>Đề Nghe Chuẩn Quốc Gia</strong> · 35 câu 3 phần có Transcript
+    <button class="button small" style="text-align:left;justify-content:flex-start;background:#0284c7" onclick="loadPresetPack('packs/vstep-listening-full.json','Nghe mô phỏng VSTEP · TTS')">
+      🎧 <strong>Nghe mô phỏng VSTEP · TTS</strong> · 35 câu, lời thoại hiển thị
     </button>
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-writing-task1-expanded.json','10 Đề Viết Thư Task 1')">
-      ✍️ <strong>10 Đề Viết Thư Task 1 Mở Rộng</strong> · B1–B2 đủ dạng thư
+      ✍️ <strong>Viết thư Task 1 mô phỏng</strong> · B1–B2 đủ dạng thư
     </button>
-    <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-speaking-expanded.json','18 Đề Nói Mở Rộng')">
-      🎤 <strong>18 Đề Nói Mở Rộng</strong> · 10 Part 1 + 8 Part 2
+    <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-speaking-expanded.json','Nói mô phỏng Part 1 & 2')">
+      🎤 <strong>Nói mô phỏng Part 1 & 2</strong> · 10 Part 1 + 8 Part 2
     </button>
     <button class="button small" style="text-align:left;justify-content:flex-start;grid-column:1/-1" onclick="loadPresetPack('packs/vstep-hot-topics-c1.json','Gói luyện C1 tự biên soạn')">
       🔥 <strong>Gói luyện C1 tự biên soạn · chủ đề 2025–2026</strong> · 10 Đọc + 16 nhiệm vụ Viết/Nói
@@ -863,10 +855,9 @@ document.querySelector('#export-btn').addEventListener('click',()=>{const blob=n
   {id:'vstep-sample-zim',url:'packs/vstep-sample-zim.json',label:'ZIM · bài mẫu luyện tập'},
   {id:'vstep-sample-prep',url:'packs/vstep-sample-prep.json',label:'PREP · bài mẫu luyện tập'},
   {id:'lingua-vstep-hot-topics-c1-2026',url:'packs/vstep-hot-topics-c1.json',label:'Lingua · gói luyện C1 tổng hợp'},
-  {id:'vstep-listening-simulated-2026-11',url:'packs/vstep-listening-full.json',label:'Đề Nghe Chuẩn Quốc Gia (35 câu có Transcript)'},
-  {id:'vstep-writing-task1-simulated-2026-11',url:'packs/vstep-writing-task1-expanded.json',label:'10 Đề Viết Thư Task 1 Toàn Diện'},
-  {id:'vstep-speaking-simulated-2026-11',url:'packs/vstep-speaking-expanded.json',label:'18 Đề Nói Mở Rộng Part 1 & 2'},
-  {id:'vstep-ctu-sample-2015',url:'packs/vstep-ctu-reading.json',label:'ĐH Cần Thơ 2015 (40 Đọc + 5 Viết/Nói)'}
+  {id:'vstep-listening-simulated-2026-11',url:'packs/vstep-listening-full.json',label:'Nghe mô phỏng VSTEP · TTS (35 câu)'},
+  {id:'vstep-writing-task1-simulated-2026-11',url:'packs/vstep-writing-task1-expanded.json',label:'Viết thư Task 1 mô phỏng (10 đề)'},
+  {id:'vstep-speaking-simulated-2026-11',url:'packs/vstep-speaking-expanded.json',label:'Nói mô phỏng Part 1 & 2 (18 đề)'},
 ];
 async function autoLoadPacks(){
   let anyNew=false;
@@ -876,8 +867,7 @@ async function autoLoadPacks(){
       ||(p.id==='lingua-vstep-hot-topics-c1-2026'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-hot-topics-c1-ws').length<16)
       ||(p.id==='vstep-listening-simulated-2026-11'&&(state.customQuestions||[]).filter(q=>q.skill==='Listening').length<35)
       ||(p.id==='vstep-writing-task1-simulated-2026-11'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-task1-expanded-ws').length<10)
-      ||(p.id==='vstep-speaking-simulated-2026-11'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-speaking-expanded-ws').length<18)
-      ||(p.id==='vstep-ctu-sample-2015'&&(state.customQuestions||[]).filter(q=>q.setId&&q.setId.startsWith('ctu-sample-r')).length<40);
+      ||(p.id==='vstep-speaking-simulated-2026-11'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-speaking-expanded-ws').length<18);
     if(needUpdate){
       try{
         const res=await fetch(p.url);
