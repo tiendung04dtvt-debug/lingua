@@ -8,6 +8,7 @@
 | File | Content | Provenance |
 |---|---|---|
 | `packs/writing-speaking-practice.json` | 44 open tasks: 23 Writing and 21 Speaking, across estimated B1/B2/C1 practice levels | Original Lingua simulated prompts; not live exam questions and not represented as official past papers |
+| `packs/source-task-index.json` | 70 source-linked guides: 10 task references matched to UFL and QNU published sample PDFs; 60 short guides linking to third-party Writing/Speaking topic banks | UFL/QNU are institutional sample papers; third-party topic collections are provider-created practice, not verified live exam questions. Full prompt text and model answers remain on the linked pages. |
 | `packs/vocabulary.tsv` | 226 English vocabulary flashcards: 80 B1, 72 B2, 74 C1 | Curated study vocabulary and example collocations; CEFR tier is approximate instructional guidance |
 | `content-pack-template.json` | Example schema for original Writing/Speaking tasks | Template only |
 
@@ -21,6 +22,10 @@ Reading and Listening question-pack JSONs were removed from the current public s
 | UFL sample paper, 2025 | Published sample showing the common Bậc 3–5 task style; it is not a live UED paper | [Official sample PDF](https://vstep.ufl.udn.vn/files/2025/2025_9_3_41_23_569_de_thi_mau_vstep_3.5.pdf) |
 | Can Tho University CFLA | Institutional public resources; consult the source page for its sample materials | [CFLA resources](https://cfla.ctu.edu.vn/tai-lieu) |
 | QNU, ZIM, PREP, VSTEP.edu.vn, Luyenthivstep.vn | Additional sample/practice leads for learner review; not independently treated as UED live papers | [QNU](https://qnu.edu.vn/Resources/Docs/SubDomain/ttnn/%C4%90%E1%BB%81%20thi%20minh%20h%E1%BB%8Da%20b%E1%BA%ADc%203%20%C4%91%E1%BA%BFn%205.pdf), [ZIM](https://zim.vn/de-thi-vstep), [PREP](https://prepedu.com/vi/blog/de-thi-mau-vstep), [VSTEP.edu.vn](https://vstep.edu.vn/de-thi-mau-chung-chi-b1-b2-c1-tieng-anh-theo-dinh-dang-vstep), [Luyenthivstep](https://luyenthivstep.vn/de-thi-vstep) |
+
+## Additional Writing/Speaking banks reviewed on 9 November 2026
+
+Luyenthivstep.vn publishes topic collections for Speaking Parts 1–3, formal Writing Task 1, Writing Task 2, and informal Task 1. Lingua stores concise topic guides linked to the source pages; it does not claim they are administered exam prompts. See the [Speaking collection](https://luyenthivstep.vn/de-thi-vstep), [formal letters](https://luyenthivstep.vn/cam-nang-vstep/top-10-de-kinh-dien-vstep-writing-part-1), [essay topics](https://luyenthivstep.vn/cam-nang-vstep/top-10-de-kinh-dien-vstep-writing-part-2), and [informal letter topics](https://luyenthivstep.vn/cam-nang-vstep/20-de-vstep-writing-part-1-moi-nhat-nam-2026-p1). ZIM describes its four-skill sample as designed to simulate the official format and difficulty; it is modeled practice, not a live paper.
 
 ## Format summary used by Lingua
 

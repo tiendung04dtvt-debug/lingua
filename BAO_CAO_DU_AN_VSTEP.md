@@ -8,6 +8,7 @@
 
 - Bản public hiện chỉ tải nội dung Writing, Speaking và từ vựng. Các ngân hàng câu hỏi Reading/Listening cũ đã được gỡ khỏi nhánh hiện hành.
 - Bộ luyện gồm **44 nhiệm vụ mô phỏng do Lingua biên soạn**: 23 Writing và 21 Speaking. Chúng không phải câu hỏi đã xác minh từ kỳ thi thật. Bài làm có ô nháp, lưu cục bộ, bộ đếm từ, checklist, đồng hồ/thời lượng gợi ý và xuất tiến độ.
+- Đã bổ sung **70 mục dẫn đề có nguồn**: 10 mục tham chiếu đến đề mẫu PDF UFL/QNU đã đối chiếu; 60 mô tả ngắn dẫn đến các ngân hàng luyện/bài mẫu Writing–Speaking bên thứ ba (30 Viết, 30 Nói). Mục bên thứ ba là bài luyện do nhà cung cấp biên soạn/tổng hợp, không phải đề thi thật đã xác minh. Đề đầy đủ và bài mẫu mở tại nguồn; Lingua không chép toàn văn.
 - Bộ từ gồm **226 flashcard**: 80 B1, 72 B2, 74 C1, phân loại theo chủ đề và lịch ôn đơn giản. Các mức là phân tầng học tập ước lượng, không phải nhãn chính thức cho đề thi.
 - Trang cấu trúc tóm tắt đề Bậc 3–5: Speaking 3 phần trong khoảng 12 phút; Writing 2 nhiệm vụ trong 60 phút. B1/B2/C1 không phải ba lựa chọn đề riêng trong format này; mức chứng nhận được xác định theo kết quả bài thi.
 - Có thể kết nối chấm bài AI qua Cloudflare Worker. Worker mẫu đã được thêm, nhưng dịch vụ **chưa hoạt động trực tuyến** cho đến khi chủ dự án triển khai Worker, thêm bí mật `GEMINI_API_KEY` và nhập URL Worker vào ứng dụng. Phản hồi Speaking hiện chỉ chấm transcript, không đánh giá phát âm.

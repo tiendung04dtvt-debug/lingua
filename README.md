@@ -5,6 +5,7 @@ Lingua is a private-study focused static site for VSTEP Bậc 3–5, organized a
 ## Study features
 
 - Writing and Speaking prompts labeled by estimated practice level. All currently published prompts are original Lingua simulations, not recovered live exam questions.
+- 70 source-linked guides: 10 point to prompts matched against the published UFL 2025 and QNU sample PDFs; 60 summarize topics from third-party Writing/Speaking practice banks (30 per skill). Full text and model answers open at the source; third-party collections are not verified live questions.
 - 226 vocabulary flashcards in `packs/vocabulary.tsv` (80 B1, 72 B2, 74 C1). Level assignment is an instructional estimate. Cards can be filtered and reviewed with a simple spaced schedule.
 - Local draft saving, word counter, checklists, progress export, and optional AI feedback.
 - AI feedback uses a separately deployed Cloudflare Worker. Follow [AI_SETUP.md](AI_SETUP.md); never put an API key in browser code or GitHub Pages. Text-only Speaking feedback cannot assess pronunciation.
