@@ -56,8 +56,14 @@ The UFL page hosts the PDF and all three audio files: [official UFL sample paper
 
 A second official provider, ULIS-VNU, publishes a B2 course-exit template bundle for Listening, Reading, Writing, and Speaking. These templates have overlapping task forms but are institution/course-exit documents, not UFL live papers or confirmed UED exam papers; keep them categorized as supplementary institutional references. The official UFL 2024 format and the other provider's word-count descriptions are not identical, so this app follows UFL's published specification for the target format and defers to UED's latest candidate instructions for local rules.
 
+## Additional public VSTEP samples found on 8 November 2026
+
+The first source pass was incomplete. A broader search located more publicly hosted Bậc 3–5 samples: QNU, DThU, TVU, AJC, UFM, and FTU, in addition to the UFL sample already collected. The QNU and DThU PDFs are byte-identical and count as one paper, leaving six distinct full samples collected locally. HCMUE also lists an online Bậc 3–5 trial test. A private source-by-source review, including local filenames, additional leads, and the limits of each source, is recorded in `packs/private/reference-materials/public-vstep-sources-2026-11-08.md`.
+
+These are genuine published sample/practice papers from identifiable providers, not verified copies of the live monthly exams. No public UED-specific past-paper bank has been confirmed. Do not label a provider's sample as a UED past paper or infer official B1/B2/C1 tags for individual questions.
+
 ## Remaining research gaps
 
-- No public UED-specific past-paper bank or full UED sample was located; the UFL VSTEP sample is the closest verified official published paper found for the shared Bậc 3–5 format.
+- No public UED-specific past-paper bank or full UED sample was located. Multiple official-provider samples are now collected; UFL remains the closest regional source for the shared Bậc 3–5 format.
 - Confirm with UED candidate instructions whether the 29 November sitting uses the UFL format unchanged, including interface and section timing.
 - Search for additional freely published official sample papers from authorized providers; label each provider and format. Do not present unofficially claimed past questions as verified.
