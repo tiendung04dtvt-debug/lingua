@@ -58,7 +58,7 @@ A second official provider, ULIS-VNU, publishes a B2 course-exit template bundle
 
 ## Additional public VSTEP samples found on 8 November 2026
 
-The first source pass was incomplete. A broader search located more publicly hosted Bậc 3–5 samples: QNU, DThU, TVU, AJC, UFM, and FTU, in addition to the UFL sample already collected. The QNU and DThU PDFs are byte-identical and count as one paper, leaving six distinct full samples collected locally. HCMUE also lists an online Bậc 3–5 trial test. A private source-by-source review, including local filenames, additional leads, and the limits of each source, is recorded in `packs/private/reference-materials/public-vstep-sources-2026-11-08.md`.
+The first source pass was incomplete. A broader search located more publicly hosted Bậc 3–5 samples: QNU, DThU, TVU, AJC, UFM, and FTU, in addition to the UFL sample already collected. The QNU and DThU PDFs are byte-identical and count as one paper, leaving six distinct full samples at that review point. A later pass added one official Can Tho University sample, bringing the local distinct institutional-sample count to seven. The HCMUE online sample lead is excluded pending verification because its indexed page currently renders unrelated spam. A private source-by-source review, including local filenames, additional leads, and the limits of each source, is recorded in `packs/private/reference-materials/public-vstep-sources-2026-11-08.md`.
 
 These are genuine published sample/practice papers from identifiable providers, not verified copies of the live monthly exams. No public UED-specific past-paper bank has been confirmed. Do not label a provider's sample as a UED past paper or infer official B1/B2/C1 tags for individual questions.
 
@@ -73,3 +73,11 @@ For offline study, private copies were also saved from the PREP sample page and 
 - No public UED-specific past-paper bank or full UED sample was located. Multiple official-provider samples are now collected; UFL remains the closest regional source for the shared Bậc 3–5 format.
 - Confirm with UED candidate instructions whether the 29 November sitting uses the UFL format unchanged, including interface and section timing.
 - Search for additional freely published official sample papers from authorized providers; label each provider and format. Do not present unofficially claimed past questions as verified.
+
+### Additional collection update — Can Tho University
+
+The official CFLA Can Tho reference-materials page was reviewed on 8 November 2026. Its 22-page May 2015 VSTEP sample and one-page Reading answer key are stored privately at `packs/private/reference-materials/official-supplementary/ctu/`. The sample includes Listening, Reading, Writing, and Speaking sections. The public download page did not expose a matching Listening audio, transcript, or Listening answer key, so the file is not yet a complete Listening practice package. It has not been added to the public app. See the source review log for file sizes and SHA-256 hashes.
+
+## Review note — locally added but unverified draft packs
+
+The current working tree contains an uncommitted `app.js` change and three untracked draft packs (`vstep-listening-full.json`, `vstep-writing-task1-expanded.json`, `vstep-speaking-expanded.json`). They are not part of the verified content inventory. The JSON metadata lacks item-level source links; the Listening file contains `stimulusText` read aloud with browser TTS, not an original VSTEP recording. Do not cite these as real exam questions or verified provider materials, and do not deploy them until their provenance and format are reviewed. Their draft counts are 35 Listening items, 10 Writing tasks, and 18 Speaking tasks; these are not included in the validated counts above.
