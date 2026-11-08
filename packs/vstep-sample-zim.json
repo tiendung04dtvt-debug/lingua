@@ -1,0 +1,997 @@
+{
+  "schema_version": "1.1.0",
+  "pack_metadata": {
+    "pack_id": "vstep-sample-zim",
+    "title": "Đề thi VSTEP Chuẩn ZIM Academy (Full 4 Kỹ Năng)",
+    "source": "Hệ thống tài liệu thi VSTEP chuẩn - ZIM Academy",
+    "version": "2026.1",
+    "description": "Trọn bộ 40 câu hỏi Đọc hiểu (4 bài đọc: Môi trường làm việc cực hạn, Rạn san hô, Xung đột địa chính trị, Nguồn gốc ngôn ngữ) cùng 5 nhiệm vụ Viết & Nói có đáp án chuẩn và hướng dẫn dàn ý chi tiết.",
+    "target_levels": [
+      "B1",
+      "B2",
+      "C1"
+    ]
+  },
+  "sets": [
+    {
+      "id": "zim-sample-r1",
+      "level": "B1",
+      "title": "ZIM Bài 1 · Extreme Environments",
+      "subtitle": "Đọc · 10 câu trắc nghiệm",
+      "count": 10,
+      "icon": "1"
+    },
+    {
+      "id": "zim-sample-r2",
+      "level": "B2",
+      "title": "ZIM Bài 2 · Coral Reefs",
+      "subtitle": "Đọc · 10 câu trắc nghiệm",
+      "count": 10,
+      "icon": "2"
+    },
+    {
+      "id": "zim-sample-r3",
+      "level": "B2",
+      "title": "ZIM Bài 3 · International Conflict",
+      "subtitle": "Đọc · 10 câu trắc nghiệm",
+      "count": 10,
+      "icon": "3"
+    },
+    {
+      "id": "zim-sample-r4",
+      "level": "C1",
+      "title": "ZIM Bài 4 · Human Language Origins",
+      "subtitle": "Đọc · 10 câu trắc nghiệm",
+      "count": 10,
+      "icon": "4"
+    }
+  ],
+  "questions": [
+    {
+      "id": "zim-r-q1",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "In the first paragraph, what does Liam mean by saying “Diving into the unknown is both exhilarating and terrifying”?",
+      "options": [
+        "He enjoys the danger of his job.",
+        "His job is exciting but can be dangerous.",
+        "He knows everything about his work environment.",
+        "His work involves studying marine species."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q2",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "What is the most dangerous aspect of Liam’s job?",
+      "options": [
+        "Repairing pipelines",
+        "Encountering marine life",
+        "Incorrect decompression",
+        "Investigating shipwrecks"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q3",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "The word “isolation” in line 9 could best be replaced by",
+      "options": [
+        "separation",
+        "loneliness",
+        "remoteness",
+        "boredom"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q4",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "What motivates Emma to continue working in Antarctica despite the challenges?",
+      "options": [
+        "The chance to study rare animals",
+        "The beauty of the environment and meaningful work",
+        "The opportunity to work in complete darkness",
+        "The satisfaction of living in a unique location"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q5",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "What does Raj emphasize about his work?",
+      "options": [
+        "The need for teamwork",
+        "The difficulty of traveling to remote areas",
+        "The patience and resilience required",
+        "The importance of preserving wildlife"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q6",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "The word “altitude” in line 18 is closest in meaning to",
+      "options": [
+        "height",
+        "temperature",
+        "location",
+        "condition"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q7",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "According to the passage, who frequently deals with life-threatening conditions?",
+      "options": [
+        "Liam",
+        "Emma",
+        "Raj",
+        "Sofia"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q8",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "According to the passage, who works in a highly isolated environment?",
+      "options": [
+        "Liam",
+        "Emma",
+        "Raj",
+        "Sofia"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q9",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "The word “heartbreaking” in line 23 refers to something that",
+      "options": [
+        "causes deep sadness",
+        "is physically exhausting",
+        "gives a sense of purpose",
+        "inspires hope"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q10",
+      "setId": "zim-sample-r1",
+      "provider": "ZIM Academy",
+      "level": "B1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Working in Extreme Environments",
+      "stimulusText": "Passage 1:",
+      "prompt": "What is the main purpose of this passage?",
+      "options": [
+        "To describe the daily routines of professionals in extreme jobs.",
+        "To highlight the challenges and rewards of working in extreme environments.",
+        "To compare the environment that people with different types of extreme jobs have to work in.",
+        "To explain how people train for jobs in harsh conditions."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q11",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The word \"host\" in the first paragraph is closest in meaning to _________.",
+      "options": [
+        "produce",
+        "accommodate",
+        "threaten",
+        "remove"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q12",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The author’s main point is _________.",
+      "options": [
+        "to describe the ecological importance and threats to coral reefs.",
+        "to explain how coral reefs protect human populations.",
+        "to outline the process of coral bleaching in detail.",
+        "to emphasize the role of coral reefs in scientific research."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q13",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The author implies that coral reefs are unique in that _________.",
+      "options": [
+        "they are made entirely of algae.",
+        "they cover a vast portion of the ocean floor.",
+        "they support a disproportionate amount of marine biodiversity.",
+        "they can recover quickly from environmental damage."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q14",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The word \"barriers\" in the third paragraph is closest in meaning to _________.",
+      "options": [
+        "obstacles",
+        "shelters",
+        "divisions",
+        "filters"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q15",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The word \"their\" in the third paragraph refers to _________.",
+      "options": [
+        "humans'",
+        "corals'",
+        "coastlines'",
+        "organisms'"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q16",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The phrase \"turn white\" in the fourth paragraph refers to _________.",
+      "options": [
+        "the process of coral skeleton formation",
+        "the impact of algae on coral coloration",
+        "the bleaching effect caused by stress factors",
+        "the natural color of healthy corals"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q17",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The author suggests that coral bleaching _________.",
+      "options": [
+        "is a reversible process if addressed quickly",
+        "occurs naturally without human interference",
+        "results in the immediate death of all corals",
+        "is unrelated to climate change"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q18",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The author mentions carbon dioxide to illustrate _________.",
+      "options": [
+        "the main reason that caused coral reef degradation",
+        "the primary culprit of ocean acidification",
+        "the economic impact of coral reef tourism",
+        "the biodiversity of coral reef ecosystems"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q19",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The term \"marine protected areas\" in the last paragraph refers to _________.",
+      "options": [
+        "zones where fishing is banned permanently",
+        "regions designated for research on marine species",
+        "areas where human activities are regulated to conserve marine life",
+        "locations that are inaccessible to tourists"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q20",
+      "setId": "zim-sample-r2",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: The Secrets of Coral Reefs",
+      "stimulusText": "Passage 2:",
+      "prompt": "The author concludes that _________.",
+      "options": [
+        "conservation efforts are futile in protecting coral reefs",
+        "humans are the primary reason for coral reef destruction",
+        "awareness and cooperation are essential to saving coral reefs",
+        "coral reefs are more resilient than most ecosystems"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q21",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "In paragraph 1, what does the phrase \"causing concern among global leaders\" mean?",
+      "options": [
+        "It is attracting attention from world leaders.",
+        "It is making world leaders angry.",
+        "It is preventing world leaders from making decisions.",
+        "It is leading to economic collapse worldwide."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q22",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "What is the main reason for the political conflict between Country X and Country Y?",
+      "options": [
+        "A long-standing rivalry based on historical issues",
+        "A disagreement over international diplomatic alliances",
+        "Economic differences that affect global trade",
+        "Disputes over valuable land and natural resources"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q23",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "What is the author’s purpose in mentioning the \"territorial disputes over land\" in paragraph 2?",
+      "options": [
+        "To highlight the importance of the region’s natural resources",
+        "To explain why the two countries are unwilling to compromise",
+        "To show that the conflict has been going on for a very long time",
+        "To demonstrate the complexity of the conflict’s historical background"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q24",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "What can the word \"complicated\" in line 16 be best replaced by?",
+      "options": [
+        "Simple",
+        "Unclear",
+        "Challenging",
+        "Unlikely"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q25",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "According to paragraph 3, what makes the conflict more difficult to resolve?",
+      "options": [
+        "The interference of external powers with their own agendas",
+        "The desire of both countries to negotiate peace",
+        "The willingness of both sides to compromise",
+        "The inability of the international community to intervene"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q26",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "Which of the following best describes the \"broader political and economic factors\" mentioned in paragraph 4?",
+      "options": [
+        "A competition for political and economic influence between the two countries",
+        "The desire to protect valuable land from foreign investment",
+        "The need for both countries to increase their military power",
+        "The struggle to maintain global trade relations"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q27",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "In which space (marked A, B, C, and D in the passage) will the following sentence fit?\nThe military build-up in the region has made neighboring countries increasingly nervous.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q28",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "According to paragraph 5, what does the author imply about the ongoing peace talks?",
+      "options": [
+        "They are unlikely to lead to a long-lasting resolution.",
+        "They represent a positive step toward peace, despite the challenges.",
+        "They are not important to the future of the two countries.",
+        "They are being sabotaged by external forces."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q29",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "Which of the following best describes the tone of the author in this passage?",
+      "options": [
+        "Hopeful",
+        "Pessimistic",
+        "Critical",
+        "Neutral"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q30",
+      "setId": "zim-sample-r3",
+      "provider": "ZIM Academy",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Geopolitical Conflict and International Diplomacy",
+      "stimulusText": "Passage 3:",
+      "prompt": "Which of the following could best describe the message that the author wants to convey to readers?",
+      "options": [
+        "The international community must take action to stop the conflict.",
+        "Resolving the territorial dispute will require more than just military intervention.",
+        "Peace is unlikely unless both countries agree to external mediation.",
+        "The situation can only be solved through peaceful negotiations and compromises."
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q31",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "The word ‘it’ in paragraph 1 refers to:",
+      "options": [
+        "Communication",
+        "Language",
+        "Origin",
+        "Theory"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q32",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "According to the passage, which of the following is a possible cause for the emergence of language?",
+      "options": [
+        "A sudden cognitive leap",
+        "The need for increased social cooperation",
+        "A mutation in vocal cords",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q33",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "The phrase ‘gradually developed’ in line 5 is closest in meaning to:",
+      "options": [
+        "Quickly evolved",
+        "Developed over time",
+        "Evolved in stages",
+        "Became less complex"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q34",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "According to the passage, which of the following is NOT true about the gestural communication theory?",
+      "options": [
+        "It explain the start of vocalization in the emergence of language.",
+        "It suggests that language emerged suddenly due to a mutation.",
+        "It is supported by evidence from modern sign languages.",
+        "It is the most widely accepted theory among linguists."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q35",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "According to the passage, what is one piece of evidence for the gestural communication theory?",
+      "options": [
+        "The complexity of modern human language",
+        "The presence of cave paintings from early humans",
+        "The use of sign language by deaf communities",
+        "The discovery of ancient vocalization tools"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q36",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "What is meant by \"a genetic mutation\" in the context of the second theory?",
+      "options": [
+        "A random change in the genetic code that allowed for more complex communication.",
+        "A purposeful alteration in human DNA to facilitate language.",
+        "A shift in human culture that led to the need for new sounds.",
+        "An adaptation to environmental changes that enhanced speech production."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q37",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "Which of the following statements would support the theory that language developed as a social tool?",
+      "options": [
+        "Language evolved from gestures used in early human societies.",
+        "Humans needed to work together for survival, leading to the development of communication.",
+        "Humans were able to make a wide variety of sounds, improving vocal communication.",
+        "The development of language was tied to the creation of written forms of communication."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q38",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "Which of the following is NOT mentioned as a theory for the origin of language?",
+      "options": [
+        "Language arose due to a genetic mutation.",
+        "Language began as a means of social cooperation.",
+        "Language was invented as a tool for written communication.",
+        "Language developed from gestural communication."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q39",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "Which conclusion can be drawn from the passage?",
+      "options": [
+        "Language is a unique trait found in certain human societies.",
+        "There is no single, universally accepted theory about the origin of language.",
+        "Language evolved gradually over thousands of years without any sudden changes.",
+        "Language is mostly a product of written communication and culture."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    },
+    {
+      "id": "zim-r-q40",
+      "setId": "zim-sample-r4",
+      "provider": "ZIM Academy",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The Origins and Evolution of Human Language",
+      "stimulusText": "Passage 4:",
+      "prompt": "Which of the following best describes the organization of this passage?",
+      "options": [
+        "A presentation of different theories followed by an analysis of their strengths and weaknesses.",
+        "A discussion of the role of language in society, followed by an exploration of its origins.",
+        "An explanation of the importance of language, followed by a list of competing theories.",
+        "A general overview of the history of language, followed by a discussion of its impact.\n\nXem thêm: Cách ôn thi VSTEP Reading hiệu quả"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chuẩn ZIM Academy cho đề thi VSTEP Bậc 3-5.",
+      "reviewStatus": "reviewed",
+      "source": "ZIM Academy - Đề thi mẫu VSTEP Bậc 3-5"
+    }
+  ],
+  "open_tasks": [
+    {
+      "task_id": "zim-sample-w1",
+      "set_id": "zim-sample-ws",
+      "level": "B1",
+      "skill": "Writing",
+      "task_type": "Email to British friend about camping trip experience",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You live in Hanoi. Recently, you went on a camping trip to Cat Ba Island with your British friend named Alex. After returning to London, Alex sent you an email expressing how much he loved exploring the island with you, asking if you had trouble getting back to Hanoi, and suggesting another outdoor adventure this summer. Write a reply to Alex telling him that you enjoyed the trip and why, describing a challenge you faced during the trip, and suggesting a location and time for your next adventure together.",
+      "planning_steps": [
+        "Salutation: Friendly greeting to Alex (Dear Alex,)",
+        "Opening: Express delight recalling the Cat Ba trip and give reasons why it was memorable.",
+        "Challenge faced: Describe a specific hurdle (e.g. unexpected storm, boat delay, steep terrain).",
+        "Future proposal: Suggest destination (e.g. Ha Giang or Phong Nha) and ideal summer month.",
+        "Sign-off: Warm closing and invitation to discuss details."
+      ],
+      "self_review": [
+        "Addressed all 3 bullet points: why enjoyed, challenge encountered, next location & time?",
+        "Warm and informal/semi-formal tone appropriate for a close friend?",
+        "Length at least 120 words with varied descriptive adjectives and connectors?"
+      ]
+    },
+    {
+      "task_id": "zim-sample-w2",
+      "set_id": "zim-sample-ws",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Essay discussing effects of urbanization on cities and inhabitants",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "\"Urbanization is increasing rapidly worldwide, with more people moving to cities than ever before. Some argue that this trend brings economic growth and development, while others believe it leads to overcrowded cities and environmental problems.\" Write an essay to an educated reader discussing the effects of urbanization on cities and their inhabitants. Include reasons and relevant examples to support your answer.",
+      "planning_steps": [
+        "Introduction: Paraphrase the trend of rapid global urbanization; state thesis that it fuels economic opportunities yet exerts severe pressure on urban infrastructure and living conditions.",
+        "Body Paragraph 1 (Positive Impacts): Economic vitality, specialized employment clusters, access to superior healthcare, higher education, and advanced technology infrastructure.",
+        "Body Paragraph 2 (Negative Impacts): Overburdened public transport, severe housing shortages/slums, traffic congestion, and critical air/noise pollution.",
+        "Body Paragraph 3 / Synthesis: Solutions including decentralized satellite cities and green infrastructure investments.",
+        "Conclusion: Restate thesis with balanced evaluation and long-term outlook."
+      ],
+      "self_review": [
+        "Balanced coverage of both positive economic dynamics and negative infrastructure/environmental impacts?",
+        "High-level C1 academic vocabulary (e.g. socio-economic disparity, unprecedented influx, decentralized planning, municipal governance)?",
+        "Word count >= 250 words with cohesive paragraph progression?"
+      ]
+    },
+    {
+      "task_id": "zim-sample-s1",
+      "set_id": "zim-sample-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Social Interaction (Part 1)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nTopic 1: Daily Routine\n- What time do you usually wake up in the morning?\n- How do you get to work or school?\n- Do you prefer to follow a routine or be spontaneous during the day?\n- What part of your daily routine do you enjoy the most?\n\nTopic 2: Food & Diet\n- What kind of food do you like to eat?\n- Do you prefer home-cooked meals or eating out?\n- Is there any food you don’t like?\n- Do you think it’s important to eat healthy food? Why or why not?",
+      "planning_steps": [
+        "Answer directly + elaborate with 2-3 supporting sentences per question.",
+        "Use natural frequency adverbs and descriptive vocabulary for daily habits.",
+        "Provide concrete nutritional and cultural reasons for dietary preferences."
+      ],
+      "self_review": [
+        "Fluency maintained without long hesitation?",
+        "Grammar variety: present simple, present continuous, modal verbs, conditionals?"
+      ]
+    },
+    {
+      "task_id": "zim-sample-s2",
+      "set_id": "zim-sample-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Solution Discussion (Part 2)",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A group of colleagues is planning to organize a team-building event. They are considering three types of activities:\n1. A cooking competition\n2. A sports day\n3. A quiz game\nWhich activity do you think would be the most enjoyable and beneficial for the team? Why?",
+      "planning_steps": [
+        "Selection & Justification: Choose cooking competition or sports day as optimal.",
+        "Highlight benefits: collaborative teamwork, informal bonding, inclusivity regardless of athletic prowess.",
+        "Critique remaining options: Sports day risks excluding less athletic staff; quiz games can become academic and passive."
+      ],
+      "self_review": [
+        "Clear statement of chosen option right in the introduction?",
+        "Solid contrast and counter-arguments evaluating the two rejected alternatives?"
+      ]
+    },
+    {
+      "task_id": "zim-sample-s3",
+      "set_id": "zim-sample-ws",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Topic Development (Part 3)",
+      "part": "Part 3",
+      "time_minutes": 5,
+      "prompt": "Topic: The importance of physical exercise for teenagers.\n\nIdea mindmap:\n- Improves health & cardiovascular fitness\n- Builds discipline and time management\n- Enhances social skills and teamwork\n- [Your own ideas]\n\nFollow-up questions:\n1. How important do you think sports are for teenagers’ holistic development?\n2. Do you think schools should offer more physical education classes? Why or why not?\n3. What role do parents play in encouraging teenagers to stay physically active?",
+      "planning_steps": [
+        "Introduction: Introduce the holistic necessity of physical exercise during developmental teenage years.",
+        "Body: Develop the 3 mindmap points with real-world examples (mitigating sedentary lifestyle, team camaraderie, stress relief).",
+        "Add own idea: Mental resilience and reduction of academic anxiety.",
+        "Address the 3 follow-up questions with insightful societal perspectives."
+      ],
+      "self_review": [
+        "Cohesive discourse markers (Moreover, In addition to physiological benefits, From a pedagogical standpoint)?",
+        "Advanced vocabulary appropriate for B2/C1 speaking band?"
+      ]
+    }
+  ]
+}

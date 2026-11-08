@@ -11,7 +11,8 @@
       "accessed_date": "2026-11-08",
       "reuse_notes": "Bộ đề thực chiến tổng hợp từ các dạng đề thi thử và chủ đề xuất hiện nhiều nhất trong các đợt thi VSTEP 2025-2026."
     },
-    "review_status": "reviewed"
+    "review_status": "reviewed",
+    "description": "Bộ đề trọng điểm thực chiến VSTEP C1 (2025–2026): 10 câu hỏi đọc hiểu C1 phân tích sâu, 10 chủ đề viết luận Task 2 thi thật mới nhất kèm dàn ý C1 chuẩn mực, 3 đề thư Task 1 và 3 phần thi Nói hoàn chỉnh."
   },
   "sets": [
     {
@@ -367,6 +368,229 @@
         "Did I deliver analytical depth on both follow-up questions within the allocated timing?",
         "Did I demonstrate sophisticated intonation, pacing, and precise C1 collocations?"
       ]
+    },
+    {
+      "task_id": "real-w2-ai-education",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some educators believe that artificial intelligence (AI) tools like ChatGPT improve student learning efficiency. Others worry that relying on AI reduces critical thinking skills and encourages plagiarism. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Introduce the rise of generative AI in academia; state that while AI accelerates personalized learning, unchecked reliance risks cognitive passivity; argue for balanced pedagogical integration.",
+        "Body Paragraph 1 (AI Benefits): Adaptive feedback, 24/7 tutoring, streamlining research collation, enabling self-paced mastery.",
+        "Body Paragraph 2 (AI Risks): Diminishing analytical reasoning, academic dishonesty, hallucinations, passive dependency on algorithmic output.",
+        "Body Paragraph 3 (Author Opinion & Solutions): Shift evaluation toward in-class synthesis, oral defenses, and prompt-engineering literacy.",
+        "Conclusion: Reiterate that AI must serve as an intellectual multiplier rather than a cognitive surrogate."
+      ],
+      "self_review": [
+        "Discussed both perspectives equally before articulating clear personal stance?",
+        "High-level vocabulary: cognitive complacency, algorithmic assistance, formative assessment, pedagogical framework?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-online-shopping",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Outweigh Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In many countries, more and more people are choosing to buy goods online instead of going to physical shops and markets. Do the advantages of this trend outweigh its disadvantages?",
+      "planning_steps": [
+        "Introduction: Paraphrase the booming e-commerce transition; clearly declare that while brick-and-mortar decline is regrettable, consumer convenience and economic scale decisively outweigh the drawbacks.",
+        "Body Paragraph 1 (Disadvantages acknowledged): Impact on local retail employment, carbon footprint from individual delivery packaging, inability to inspect goods physically before purchase.",
+        "Body Paragraph 2 (Decisive Advantages): Unparalleled price transparency, 24/7 accessibility for rural/disabled consumers, cross-border commerce opportunities for micro-enterprises.",
+        "Conclusion: Confirm that e-commerce advantages decisively prevail, especially as hybrid logistics evolve."
+      ],
+      "self_review": [
+        "Explicitly evaluated the balance (outweigh) in intro and conclusion?",
+        "Cohesive comparative markers (While it is undeniable that..., the countervailing merits...)?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-single-use-plastic",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Agree / Disagree Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Plastic pollution has reached alarming levels worldwide. Some people propose that governments should completely ban all single-use plastic products. To what extent do you agree or disagree with this proposal?",
+      "planning_steps": [
+        "Introduction: Highlight the ecological catastrophe of microplastics; agree to a substantial extent while asserting that phased substitution is required for medical and hygienic necessities.",
+        "Body Paragraph 1 (Why Ban is Necessary): Non-biodegradable accumulation in marine food chains, microplastic toxicity in human organs, inadequacy of voluntary recycling schemes.",
+        "Body Paragraph 2 (Practical Caveats & Alternative Materials): In medical contexts (syringes, sterile packaging), immediate outright bans are unfeasible; governments must subsidize biodegradable polymers (PLA/PHA) and enforce EPR frameworks.",
+        "Conclusion: Reiterate strong endorsement of punitive plastic bans coupled with green material innovation."
+      ],
+      "self_review": [
+        "Clear, nuanced stance (agree to a large extent with critical exceptions)?",
+        "Environmental terminology: bioaccumulation, endocrine disruptors, non-biodegradable, biodegradable polymers?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-youth-mental-health",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Causes and Solutions Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "An increasing number of young people today report suffering from chronic stress, anxiety, and mental exhaustion. What are the primary causes of this issue, and what solutions can be implemented to address it?",
+      "planning_steps": [
+        "Introduction: Paraphrase the youth mental health crisis; state that hyper-competitive environments and digital hyper-connectivity are the core drivers, necessitating systemic reforms.",
+        "Body Paragraph 1 (Root Causes): Intense academic pressure in credentialist societies; toxic social media comparison cycles and fear of missing out (FOMO); uncertain economic futures.",
+        "Body Paragraph 2 (Targeted Solutions): Educational reform emphasizing holistic wellbeing over standardized testing; institutionalizing qualified school counselors; digital detox education and parental support.",
+        "Conclusion: Summarize causes and reiterate that safeguarding youth mental health requires collective societal commitment."
+      ],
+      "self_review": [
+        "Direct causal linkage between each identified cause and proposed solution?",
+        "Sophisticated emotional & psychological lexicon: cognitive fatigue, social comparison theory, institutionalized counseling?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-cashless-society",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Positive or Negative Development Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In many parts of the world, physical banknotes and coins are being rapidly replaced by electronic transactions, mobile banking, and digital wallets. Do you think this transition toward a cashless society is a positive or negative development?",
+      "planning_steps": [
+        "Introduction: Contextualize the fintech revolution; argue that a cashless society is predominantly a positive leap forward, provided cybersecurity and financial inclusion safeguards are upheld.",
+        "Body Paragraph 1 (Positive Impacts): Drastic drop in street crime/robbery, effortless transaction audits preventing black economy evasion, heightened trade efficiency, seamless split-second micropayments.",
+        "Body Paragraph 2 (Risks & Mitigation): Vulnerabilities to cyberattacks, tech outages, and marginalization of elderly/unbanked citizens; necessity of digital literacy drives and resilient fallback networks.",
+        "Conclusion: Affirm that the digital financial architecture represents undeniable progress toward economic agility."
+      ],
+      "self_review": [
+        "Definitive stance in both introduction and conclusion?",
+        "Economic and technological vocabulary: fiscal transparency, tax evasion mitigation, digital divide, fintech integration?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-remote-hybrid-work",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Advantages & Disadvantages Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Technological breakthroughs now allow many employees to work from home instead of commuting to an office every day. Discuss the advantages and disadvantages of remote working for both businesses and employees.",
+      "planning_steps": [
+        "Introduction: Define the permanent shift toward telecommuting; formulate balanced thesis addressing corporate cost-efficiency vs cohesion, and worker flexibility vs psychological isolation.",
+        "Body Paragraph 1 (Advantages): Reduced overhead for corporations; wider talent acquisition without geographical constraints; improved work-life integration and commute-free days for workers.",
+        "Body Paragraph 2 (Disadvantages): Fragmentation of organizational culture; onboarding difficulties; blurred boundaries between work and personal life causing burnout; data security vulnerabilities.",
+        "Conclusion: Propose hybrid working arrangements as the optimal equilibrium."
+      ],
+      "self_review": [
+        "Covered perspectives of both employers and employees for both pros and cons?",
+        "Rich academic vocabulary: telecommuting, organizational cohesion, spatial flexibility, corporate overhead?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-free-public-transport",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Traffic congestion in major metropolitan areas is deteriorating rapidly. Some propose that the best way to resolve this is to make all public transport completely free of charge. Others argue that this policy is too costly and ineffective. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Note escalating urban gridlock; state both views on fare elimination versus system enhancement; argue that service reliability and transit frequency matter far more than zero fares.",
+        "Body Paragraph 1 (Arguments for Fare-Free Transit): Inexpensive social welfare measure; immediate incentive to leave personal vehicles; carbon emission abatement.",
+        "Body Paragraph 2 (Arguments Against / Municipal Realities): Crippling municipal budget strain; potential overcrowding and service degradation; transit research shows commuters prioritize punctuality and safety over free fares.",
+        "Body Paragraph 3 (Author Opinion): Propose reinvesting fare revenue into expanding rapid rail coverage, dedicated bus lanes, and congestion pricing for private vehicles.",
+        "Conclusion: Conclude that transit excellence and reliability are vastly more effective than blanket fare elimination."
+      ],
+      "self_review": [
+        "Clear, evidence-backed evaluation of transit economics?",
+        "Urban planning lexicon: metropolitan congestion, dedicated bus rapid transit (BRT), congestion charging, municipal fiscal solvency?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-university-vs-vocational",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some believe that obtaining a traditional university degree is the best pathway to career success. Others argue that attending vocational training courses is more advantageous in today's job market. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Contrast the prestige of conventional higher education with the pragmatic allure of technical and trade certification; state that career success hinges on domain requirements rather than a single universal path.",
+        "Body Paragraph 1 (Case for University Degrees): Foundational theoretical mastery, broad critical inquiry, eligibility for research, medicine, corporate management, and high-level professions.",
+        "Body Paragraph 2 (Case for Vocational Training): Faster labor market entry, zero/minimal student debt, urgent global shortages in skilled trades (electricians, technicians, coders), hands-on experiential mastery.",
+        "Body Paragraph 3 (Personal View): Acknowledge symbiotic synergy—advocate for dual tertiary models integrating theoretical foundations with applied apprenticeships.",
+        "Conclusion: Reiterate that both educational paradigms hold equal merit depending on individual vocational objectives."
+      ],
+      "self_review": [
+        "Nuanced comparison without superficial bias toward either academic or trade tracks?",
+        "Tertiary education vocabulary: pedagogical theory, experiential apprenticeship, vocational competence, credentialism?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-culture-globalization",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Agree / Disagree Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Because of globalization, young generations worldwide are adopting universal lifestyles and entertainment, leading to the erosion of indigenous cultures and traditions. To what extent do you agree or disagree that governments should strictly regulate media and cultural imports to protect national identity?",
+      "planning_steps": [
+        "Introduction: Acknowledge the homogenization of pop culture; disagree with strict authoritarian censorship; argue instead for proactive state patronage of domestic arts and creative revival.",
+        "Body Paragraph 1 (Why Protectionism Fails): Heavy-handed media quotas and bans alienate youth, encourage underground consumption, and violate creative freedoms.",
+        "Body Paragraph 2 (Effective Alternatives): Investing state endowments into indigenous cinema, folklore curricula in schools, cultural tourism, and empowering local creators to make tradition attractive to youth.",
+        "Conclusion: Conclude that dynamic revitalisation rather than repressive protectionism ensures lasting cultural preservation."
+      ],
+      "self_review": [
+        "Convincing counter-arguments addressing state censorship versus cultural vitality?",
+        "Cultural studies vocabulary: cultural homogenization, indigenous patrimony, state patronage, ideological protectionism?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1"
+    },
+    {
+      "task_id": "real-w2-renewable-energy-responsibility",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some argue that governments alone must bear the responsibility for investing in renewable energy transition. Others believe private corporations must take the leading financial role. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Highlight the urgency of net-zero transitions; discuss the respective capacities of the public sector and private enterprise; assert that public-private partnerships (PPPs) are essential.",
+        "Body Paragraph 1 (Role of Governments): Setting legislative mandates, carbon pricing, subsidizing high-risk early research, establishing national grid infrastructure.",
+        "Body Paragraph 2 (Role of Private Corporations): Deploying private equity at scale, driving commercial efficiency, technological innovation, managing corporate ESG commitments.",
+        "Body Paragraph 3 (Synthesis & Opinion): Government must de-risk initial capital expenditures while private enterprise scales operational rollout.",
+        "Conclusion: Reiterate that solitary action by either sector is doomed; integrated tripartite collaboration is crucial."
+      ],
+      "self_review": [
+        "Sophisticated energy economics terminology: feed-in tariffs, public-private partnerships, de-risking capital, decarbonization?",
+        "Word count >= 250 words with airtight cohesion?"
+      ],
+      "level": "C1"
     }
   ]
 }
