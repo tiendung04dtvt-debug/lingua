@@ -44,8 +44,8 @@ function homePage(v){
   v.innerHTML=`<div class="hero">
     <div class="hero-copy">
       <div class="eyebrow" style="color:#d4e4d8">HỆ THỐNG LUYỆN THI VSTEP BẬC 3–5 CHUẨN XÁC</div>
-      <h1>Mục tiêu đạt chuẩn C1<br><em>với kho đề thực chiến.</em></h1>
-      <p>170 câu hỏi đọc hiểu từ đề mẫu chính thức và đề chuẩn thi thử, 21 bài luận & thư, cùng 15 nhiệm vụ nói có dàn ý C1 và checklist chi tiết.</p>
+      <h1>Mục tiêu đạt chuẩn C1<br><em>với kho đề mẫu & bài luyện.</em></h1>
+      <p>170 câu hỏi đọc từ đề mẫu và bài luyện, 21 bài luận & thư cùng 15 nhiệm vụ nói. Nguồn và mức độ xác minh được ghi rõ trong từng bộ.</p>
       <div style="display:flex;gap:10px;margin-top:18px;flex-wrap:wrap">
         <button class="button" style="background:#f0d0ae;color:#1e3b2e;padding:12px 18px;font-size:13px" onclick="currentFolderLevel='C1';currentFolderTab='all';nav('practice')">
           🟣 Mở kho tài liệu Bậc C1 →
@@ -109,7 +109,7 @@ function homePage(v){
         <span class="level-arrow">↗</span>
       </div>
       <h3>C1 · Làm chủ phản biện</h3>
-      <p>17 bài luận học thuật (10 đề thi thật 2026), 7 bài phát triển chủ đề Nói Part 3, 7 bài đọc chuyên sâu.</p>
+      <p>17 bài luận học thuật (gồm 10 chủ đề luyện tập tổng hợp), 7 bài Nói Part 3 và 7 bài đọc chuyên sâu.</p>
       <div class="level-meta" style="color:#6b21a8;font-weight:700">
         <span>📖 <b>${counts.C1.read}</b> bài đọc</span>
         <span>✍️ <b>${counts.C1.write}</b> bài luận</span>
@@ -162,7 +162,7 @@ function practicePage(v) {
       <div class="eyebrow" style="color:var(--green);font-weight:700">THƯ MỤC LUYỆN THI VSTEP · B1 – B2 – C1</div>
       <h1 style="color:var(--ink);letter-spacing:-1px">Kho đề luyện thi 4 kỹ năng</h1>
       <p style="color:var(--muted);font-size:14px;line-height:1.6">
-        Hệ thống đề thực chiến đã được phân loại rõ ràng theo từng <strong>Kỹ năng</strong> (Nói, Viết, Đọc) và từng <strong>Bậc trình độ</strong> (B1, B2, C1). Nhấp vào bài để bắt đầu luyện tập hoặc xem dàn ý mẫu.
+        Thư mục được sắp theo <strong>Kỹ năng</strong> (Nói, Viết, Đọc) và <strong>trình độ luyện tập</strong> (B1, B2, C1). Nhấp vào bài để bắt đầu hoặc xem dàn ý mẫu.
       </p>
     </div>
 
@@ -284,8 +284,8 @@ function renderPracticeFolders() {
     if ((lvl === 'all' || lvl === 'C1') && wrC1.length) {
       html += renderFolderSection(
         '✍️',
-        'Thư mục: Viết Bậc C1 — Task 2: 17 Bài luận học thuật & Phản biện (10 đề thi thật 2026)',
-        'Tổng hợp 10 bài luận thi thật 2026 (AI giáo dục, Xã hội không tiền mặt, Rác nhựa, v.v.) cùng các bài luận chuẩn thi khác. Mỗi đề đều có dàn ý mẫu & từ vựng C1.',
+        'Thư mục: Viết Bậc C1 — Task 2: 17 bài luận học thuật & phản biện',
+        'Gồm 10 chủ đề luyện tập tổng hợp (AI giáo dục, xã hội không tiền mặt, rác nhựa, v.v.) cùng các bài luận luyện khác. Chưa xác minh chúng xuất hiện trong kỳ thi thật nào.',
         wrC1,
         'writing'
       );
@@ -419,7 +419,7 @@ function renderReadingFolderSection(icon, title, desc, sets) {
         ${sets.map(s => {
           const isOfficial = s.id.includes('udn') || s.id.includes('qnu') || s.id.includes('official');
           const isMock = s.id.includes('zim') || s.id.includes('prep');
-          const badgeText = isOfficial ? 'Đề mẫu chính thức' : (isMock ? 'Đề thi chuẩn thi thử' : 'C1 Thực chiến 2026');
+          const badgeText = isOfficial ? 'Đề mẫu chính thức' : (isMock ? 'Bài mẫu luyện thi' : 'Bài luyện C1 tổng hợp');
           const badgeClass = isOfficial ? 'badge-official' : (s.level === 'C1' ? 'badge-c1' : (s.level === 'B2' ? 'badge-b2' : 'badge-b1'));
           return `
             <article class="folder-card">
@@ -447,14 +447,14 @@ function renderExamsFolderSection() {
   const exams = [
     {
       title: 'Đề mẫu chính thức ĐH Ngoại ngữ Đà Nẵng 2025',
-      desc: 'Bản đề chuẩn bị cho đợt thi ĐH Sư phạm 29/11/2026. Gồm 40 câu hỏi Đọc hiểu (4 bài đọc), 2 nhiệm vụ Viết và 3 phần Nói kèm đáp án chính thức.',
+      desc: 'Đề mẫu do ĐH Ngoại ngữ Đà Nẵng công bố năm 2025; dùng tham khảo cấu trúc cho đợt UED, không phải đề thi riêng của UED. Có 40 câu Reading và nhiệm vụ Writing/Speaking.',
       readingSets: ['udn-sample-r1', 'udn-sample-r2', 'udn-sample-r3', 'udn-sample-r4'],
       packId: 'udn-vstep-sample-2025',
       packUrl: 'packs/vstep-official-sample-udn.json',
       badge: 'Đề mẫu ĐHĐN 2025'
     },
     {
-      title: 'Đề thi mẫu chuẩn ĐH Quy Nhơn & ĐH Đồng Tháp',
+      title: 'Đề mẫu ĐH Quy Nhơn',
       desc: 'Bộ đề thi chuẩn VSTEP Bậc 3-5 do trường công bố: 40 câu hỏi Đọc hiểu, 2 bài Viết (Thư tư vấn tour cho Richard & Luận) và 3 phần thi Nói.',
       readingSets: ['qnu-sample-r1', 'qnu-sample-r2', 'qnu-sample-r3', 'qnu-sample-r4'],
       packId: 'qnu-vstep-sample-official',
@@ -462,28 +462,28 @@ function renderExamsFolderSection() {
       badge: 'Đề mẫu ĐH Quy Nhơn'
     },
     {
-      title: 'Đề thi VSTEP Chuẩn ZIM Academy (Full Test)',
-      desc: 'Trọn bộ 4 kỹ năng: 40 câu hỏi Đọc hiểu (Môi trường cực hạn, Rạn san hô, Xung đột quốc tế, Nguồn gốc ngôn ngữ), Viết luận Đô thị hóa và Nói 3 phần.',
+      title: 'Bài mẫu luyện tập theo nguồn ZIM',
+      desc: 'Gói luyện 4 kỹ năng, 40 câu Reading và nhiệm vụ Writing/Speaking; nguồn trang mô tả là bài mô phỏng để tham khảo.',
       readingSets: ['zim-sample-r1', 'zim-sample-r2', 'zim-sample-r3', 'zim-sample-r4'],
       packId: 'vstep-sample-zim',
       packUrl: 'packs/vstep-sample-zim.json',
-      badge: 'Đề thi ZIM Academy'
+      badge: 'Bài mẫu mô phỏng · ZIM'
     },
     {
-      title: 'Đề thi VSTEP Chuẩn PrepEdu (Full Test)',
+      title: 'Bài mẫu luyện tập theo nguồn PREP',
       desc: 'Trọn bộ 4 kỹ năng có lời giải chi tiết: 40 câu hỏi Đọc hiểu (Remote work, Chánh niệm, E-waste, Tượng Moai), Viết luận Toàn cầu hóa và Nói 3 phần.',
       readingSets: ['prep-sample-r1', 'prep-sample-r2', 'prep-sample-r3', 'prep-sample-r4'],
       packId: 'vstep-sample-prep',
       packUrl: 'packs/vstep-sample-prep.json',
-      badge: 'Đề thi PrepEdu'
+      badge: 'Bài mẫu · PREP'
     },
     {
-      title: 'VSTEP C1 Trọng điểm & 10 Bài luận thi thật 2026',
-      desc: 'Bộ sưu tập 10 đề luận Task 2 thi thật mới nhất 2026 (AI trong giáo dục, Xã hội không tiền mặt, Rác nhựa...) kèm dàn ý C1 và 10 câu đọc chuyên sâu.',
+      title: 'Gói luyện C1 tổng hợp · Chủ đề 2025–2026',
+      desc: '10 câu Reading với bài đọc tổng hợp và 16 nhiệm vụ Writing/Speaking. Nội dung luyện tập; chưa xác minh là đề thi thật.',
       readingSets: ['set-c1-reading-hot'],
       packId: 'lingua-vstep-hot-topics-c1-2026',
       packUrl: 'packs/vstep-hot-topics-c1.json',
-      badge: 'C1 Thực chiến 2026'
+      badge: 'Bài luyện tổng hợp · Lingua'
     }
   ];
 
@@ -698,7 +698,7 @@ function drawReview(){const l=document.querySelector('#review-level')?.value||'a
 function mistakesPage(v){const ms=state.mistakes;v.innerHTML=`<div class="page-heading"><div class="eyebrow">YOUR PERSONAL REVIEW LIST</div><h1>Sổ lỗi sai</h1><p>Các câu bạn trả lời sai, được nhóm theo trình độ và bộ luyện tập để dễ ôn lại.</p></div><div class="filter-row"><select id="mistake-level" class="filter-select"><option value="all">Tất cả trình độ</option><option>B1</option><option>B2</option><option>C1</option></select><select id="mistake-set" class="filter-select"><option value="all">Tất cả bộ câu hỏi</option>${SETS.map(s=>`<option value="${s.id}">${s.level} · ${s.title}</option>`).join('')}</select><input id="mistake-search" class="search-input" placeholder="Tìm trong câu hỏi…" aria-label="Tìm câu hỏi"></div><div id="mistake-list"></div>`;['mistake-level','mistake-set','mistake-search'].forEach(id=>document.querySelector('#'+id).addEventListener(id==='mistake-search'?'input':'change',drawMistakes));drawMistakes()}
 function drawMistakes(){const l=document.querySelector('#mistake-level')?.value||'all',s=document.querySelector('#mistake-set')?.value||'all',term=(document.querySelector('#mistake-search')?.value||'').toLowerCase(),unique=[...new Set(state.mistakes)].map(id=>QUESTIONS.find(q=>q.id===id)).filter(q=>q&&(l==='all'||q.level===l)&&(s==='all'||q.setId===s)&&(q.prompt.toLowerCase().includes(term)||(q.stimulusText||'').toLowerCase().includes(term)));document.querySelector('#mistake-list').innerHTML=unique.length?unique.map(q=>`<article class="review-card"><div class="question-kicker">${q.provider} · ${q.level} · ${q.setId}</div>${renderStimulus(q)}<h3>${esc(q.prompt)}</h3>${q.options.map((o,j)=>`<div class="review-option ${j===q.answer?'is-answer':''}">${String.fromCharCode(65+j)}.&nbsp; ${esc(o)} ${j===q.answer?'✓ Đáp án':''}</div>`).join('')}<details class="review-explain"><summary>Xem giải thích</summary><p>${esc(q.explanation)}</p></details></article>`).join(''):`<div class="empty"><div class="empty-icon">✓</div><h3>${msEmptyTitle()}</h3><p>${msEmptyText()}</p></div>`}
 function msEmptyTitle(){return state.mistakes.length?'Không tìm thấy câu phù hợp':'Sổ lỗi sai đang trống'}function msEmptyText(){return state.mistakes.length?'Thử đổi bộ lọc hoặc từ khóa tìm kiếm.':'Khi trả lời sai trong lúc luyện tập, câu hỏi sẽ xuất hiện ở đây để bạn ôn lại.'}
-function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eyebrow">ĐÍCH ĐẾN: C1 · KỲ THI CHUẨN ĐẦU RA ĐHĐN</div><h1>Học liệu & định dạng thi</h1><p>Đợt thi tại ĐH Sư phạm dự kiến ngày 29/11/2026. Dùng định dạng Bậc 3–5 làm khung luyện theo nguồn chính thức, đồng thời phân biệt rõ tài liệu tham khảo với ngân hàng đề riêng của kỳ thi.</p></div><div class="notice"><b>Mục tiêu C1:</b> Bài thi đánh giá chung B1–C1; điểm thi quyết định bậc đạt được. Cấu trúc dưới đây theo định dạng 729/QĐ-BGDĐT được trường công bố. Trang đợt thi xác nhận ngày thi và lệ phí, nhưng người học nên làm theo hướng dẫn dự thi mới nhất của trường nếu có thay đổi.</div><div class="section-head"><div><h2>Khung bài thi Bậc 3–5</h2><p>Bốn kỹ năng · đề đa bậc · thông số theo định dạng công bố</p></div><span class="set-badge">Nguồn: QĐ 729/QĐ-BGDĐT</span></div><div class="level-grid"><article class="level-card"><div class="level-top"><span class="level-tag">LISTENING</span></div><h3>Nghe · khoảng 40 phút</h3><p>35 câu, khoảng 40 phút. Đề mẫu 2025: Part 1 có 8 thông báo ngắn; Part 2 có 3 hội thoại, mỗi hội thoại 4 câu; Part 3 có 3 bài nói/bài giảng, mỗi bài 5 câu. Bản mẫu hướng dẫn nghe mỗi bản ghi một lần.</p><div class="level-meta"><span>Chi tiết · ý chính · suy luận</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">READING</span></div><h3>Đọc · 60 phút</h3><p>40 câu trắc nghiệm trên 4 bài đọc, 10 câu mỗi bài. Dạng trọng tâm: chi tiết, ý chính, thái độ/quan điểm, suy luận và từ vựng trong ngữ cảnh.</p><div class="level-meta"><span>4 bài · tăng dần độ khó</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">WRITING</span></div><h3>Viết · 60 phút</h3><p>60 phút: thư/email tối thiểu khoảng 120 từ, chiếm 1/3 điểm Viết; bài luận tối thiểu khoảng 250 từ, chiếm 2/3 điểm.</p><div class="level-meta"><span>Task 1 + Task 2</span></div></article></div><div class="quick-grid" style="margin-top:12px"><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · khoảng 12 phút</h3><p>12 phút: Part 1 tương tác xã hội, Part 2 chọn và bảo vệ giải pháp, Part 3 phát triển chủ đề và trả lời câu hỏi phụ. Đề mẫu chia thời gian lần lượt 3, 4 và 5 phút.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Quy đổi bậc tham khảo</h3><p>Điểm trung bình 4 kỹ năng được làm tròn theo bước 0,5: 4,0–5,5 = B1; 6,0–8,0 = B2; 8,5–10 = C1. Xác nhận quy tắc áp dụng với thông báo kỳ thi hiện hành.</p></article></div><div class="section-head"><div><h2>Cách luyện theo từng kỹ năng</h2><p>Chiến thuật tóm tắt cho bài đa bậc; đối chiếu chỉ dẫn trên đề thật</p></div></div><div class="resource-grid"><article class="resource-card"><div class="resource-icon">🎧</div><h3>Nghe · đọc trước, bắt ý rồi kiểm chứng</h3><p>Trước audio, lướt câu hỏi và gạch từ khóa. Khi nghe, ghi ý/quan hệ giữa người nói; tránh chọn đáp án chỉ vì nghe thấy một từ giống lựa chọn.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Đọc · xác định bằng chứng trong đoạn</h3><p>Đọc câu hỏi trước để định hướng, tìm vị trí thông tin, phân biệt chi tiết với suy luận. Với câu từ vựng, đọc cả câu và các câu lân cận.</p></article><article class="resource-card"><div class="resource-icon">✎</div><h3>Viết · lập dàn ý, trả lời đủ yêu cầu</h3><p>Task 1: xác định người nhận, mục đích và các ý bắt buộc. Task 2: nêu lập trường, phát triển luận điểm bằng giải thích/ví dụ và dành thời gian rà soát.</p></article><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · trả lời trực tiếp rồi mở rộng</h3><p>Part 1: trả lời và thêm lý do/ví dụ. Part 2: so sánh giải pháp, chọn và biện minh. Part 3: trình bày quan điểm có cấu trúc, liên kết ý và đáp câu hỏi mở rộng.</p></article></div><div class="section-head"><div><h2>Tính điểm mục tiêu</h2><p>Nhập điểm thử 4 kỹ năng để xem trung bình và bậc tham khảo</p></div></div><div class="result-card"><div class="filter-row"><label class="score-field">Nghe <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Đọc <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Viết <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Nói <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label></div><div id="score-output" class="answer-feedback">Nhập điểm từng kỹ năng để tính kết quả tham khảo.</div></div><div class="section-head"><div><h2>Nguồn luyện tập & kho đề mẫu</h2><p>Đề mẫu chính thức và bộ đề thực chiến; nạp trực tiếp vào ứng dụng để làm bài</p></div><a class="button ghost small" href="content-pack-template.json" download>Tải mẫu JSON</a><button class="button secondary small" onclick="document.querySelector('#pack-file').click()">Nhập gói từ file JSON</button><input id="pack-file" type="file" accept=".json,application/json" hidden></div><div class="preset-banner" style="background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px;margin:14px 0">
+function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eyebrow">ĐÍCH ĐẾN: C1 · KỲ THI CHUẨN ĐẦU RA ĐHĐN</div><h1>Học liệu & định dạng thi</h1><p>Đợt thi tại ĐH Sư phạm dự kiến ngày 29/11/2026. Dùng định dạng Bậc 3–5 làm khung luyện theo nguồn chính thức, đồng thời phân biệt rõ tài liệu tham khảo với ngân hàng đề riêng của kỳ thi.</p></div><div class="notice"><b>Mục tiêu C1:</b> Bài thi đánh giá chung B1–C1; điểm thi quyết định bậc đạt được. Cấu trúc dưới đây theo định dạng 729/QĐ-BGDĐT được trường công bố. Trang đợt thi xác nhận ngày thi và lệ phí, nhưng người học nên làm theo hướng dẫn dự thi mới nhất của trường nếu có thay đổi.</div><div class="section-head"><div><h2>Khung bài thi Bậc 3–5</h2><p>Bốn kỹ năng · đề đa bậc · thông số theo định dạng công bố</p></div><span class="set-badge">Nguồn: QĐ 729/QĐ-BGDĐT</span></div><div class="level-grid"><article class="level-card"><div class="level-top"><span class="level-tag">LISTENING</span></div><h3>Nghe · khoảng 40 phút</h3><p>35 câu, khoảng 40 phút. Đề mẫu 2025: Part 1 có 8 thông báo ngắn; Part 2 có 3 hội thoại, mỗi hội thoại 4 câu; Part 3 có 3 bài nói/bài giảng, mỗi bài 5 câu. Bản mẫu hướng dẫn nghe mỗi bản ghi một lần.</p><div class="level-meta"><span>Chi tiết · ý chính · suy luận</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">READING</span></div><h3>Đọc · 60 phút</h3><p>40 câu trắc nghiệm trên 4 bài đọc, 10 câu mỗi bài. Dạng trọng tâm: chi tiết, ý chính, thái độ/quan điểm, suy luận và từ vựng trong ngữ cảnh.</p><div class="level-meta"><span>4 bài · tăng dần độ khó</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">WRITING</span></div><h3>Viết · 60 phút</h3><p>60 phút: thư/email tối thiểu khoảng 120 từ, chiếm 1/3 điểm Viết; bài luận tối thiểu khoảng 250 từ, chiếm 2/3 điểm.</p><div class="level-meta"><span>Task 1 + Task 2</span></div></article></div><div class="quick-grid" style="margin-top:12px"><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · khoảng 12 phút</h3><p>12 phút: Part 1 tương tác xã hội, Part 2 chọn và bảo vệ giải pháp, Part 3 phát triển chủ đề và trả lời câu hỏi phụ. Đề mẫu chia thời gian lần lượt 3, 4 và 5 phút.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Quy đổi bậc tham khảo</h3><p>Điểm trung bình 4 kỹ năng được làm tròn theo bước 0,5: 4,0–5,5 = B1; 6,0–8,0 = B2; 8,5–10 = C1. Xác nhận quy tắc áp dụng với thông báo kỳ thi hiện hành.</p></article></div><div class="section-head"><div><h2>Cách luyện theo từng kỹ năng</h2><p>Chiến thuật tóm tắt cho bài đa bậc; đối chiếu chỉ dẫn trên đề thật</p></div></div><div class="resource-grid"><article class="resource-card"><div class="resource-icon">🎧</div><h3>Nghe · đọc trước, bắt ý rồi kiểm chứng</h3><p>Trước audio, lướt câu hỏi và gạch từ khóa. Khi nghe, ghi ý/quan hệ giữa người nói; tránh chọn đáp án chỉ vì nghe thấy một từ giống lựa chọn.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Đọc · xác định bằng chứng trong đoạn</h3><p>Đọc câu hỏi trước để định hướng, tìm vị trí thông tin, phân biệt chi tiết với suy luận. Với câu từ vựng, đọc cả câu và các câu lân cận.</p></article><article class="resource-card"><div class="resource-icon">✎</div><h3>Viết · lập dàn ý, trả lời đủ yêu cầu</h3><p>Task 1: xác định người nhận, mục đích và các ý bắt buộc. Task 2: nêu lập trường, phát triển luận điểm bằng giải thích/ví dụ và dành thời gian rà soát.</p></article><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · trả lời trực tiếp rồi mở rộng</h3><p>Part 1: trả lời và thêm lý do/ví dụ. Part 2: so sánh giải pháp, chọn và biện minh. Part 3: trình bày quan điểm có cấu trúc, liên kết ý và đáp câu hỏi mở rộng.</p></article></div><div class="section-head"><div><h2>Tính điểm mục tiêu</h2><p>Nhập điểm thử 4 kỹ năng để xem trung bình và bậc tham khảo</p></div></div><div class="result-card"><div class="filter-row"><label class="score-field">Nghe <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Đọc <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Viết <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Nói <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label></div><div id="score-output" class="answer-feedback">Nhập điểm từng kỹ năng để tính kết quả tham khảo.</div></div><div class="section-head"><div><h2>Nguồn luyện tập & kho đề mẫu</h2><p>Đề mẫu chính thức, bài mẫu luyện thi và gói tự biên soạn; nạp trực tiếp để luyện</p></div><a class="button ghost small" href="content-pack-template.json" download>Tải mẫu JSON</a><button class="button secondary small" onclick="document.querySelector('#pack-file').click()">Nhập gói từ file JSON</button><input id="pack-file" type="file" accept=".json,application/json" hidden></div><div class="preset-banner" style="background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px;margin:14px 0">
   <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;margin-bottom:12px">
     <div>
       <strong style="font-size:13px;color:var(--ink);display:block">⚡ Kho đề mẫu & bài luyện (170 câu Đọc · 36 nhiệm vụ Viết/Nói)</strong>
