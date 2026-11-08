@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.1.0",
+  "pack_metadata": {
+    "pack_id": "lingua-vstep-hot-topics-c1-2026",
+    "title": "VSTEP C1 · Đề thực chiến & Chủ đề trọng điểm 2025–2026",
+    "content_origin_type": "original_practice",
+    "source_info": {
+      "provider": "Lingua Exam Research Hub",
+      "original_exam": "VSTEP Bậc 3–5 High-Yield Community & Mock Exam Synthesis",
+      "source_url": "https://tiendung04dtvt-debug.github.io/lingua/#resources",
+      "accessed_date": "2026-11-08",
+      "reuse_notes": "Bộ đề thực chiến tổng hợp từ các dạng đề thi thử và chủ đề xuất hiện nhiều nhất trong các đợt thi VSTEP 2025-2026."
+    },
+    "review_status": "reviewed"
+  },
+  "sets": [
+    {
+      "id": "set-c1-reading-hot",
+      "level": "C1",
+      "title": "Đọc thực chiến C1 · Chuẩn 10 câu",
+      "subtitle": "Đọc học thuật · Đủ 10 dạng câu hỏi chuẩn VSTEP",
+      "count": 10,
+      "icon": "▤"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-hot-r-q1",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "What is the primary purpose of the passage?",
+      "options": [
+        "To critique municipal authorities for failing to enforce statutory decibel limits in industrial zones.",
+        "To argue for a paradigm shift from simplistic noise mitigation to holistic, equitable soundscape design.",
+        "To provide empirical proof that mechanical sounds cause more psychological damage than natural sounds.",
+        "To demonstrate that acoustic comfort is solely determined by the volume of sound rather than its semantic context."
+      ],
+      "answer": 1,
+      "explanation": "The author outlines the shift from the traditional mitigation model (measuring decibels) to modern soundscape design (psychoacoustics and acoustic curation), and concludes with a call for structural acoustic equity. Option B accurately encapsulates this thesis.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q2",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "According to the passage, what did the twentieth-century acoustic planning model fail to recognize?",
+      "options": [
+        "The economic costs associated with erecting roadside sound barriers.",
+        "The connection between occupational hearing loss and heavy industrial machinery.",
+        "The complex cognitive relationship between human perception and environmental sounds.",
+        "The technological limitations of decibel measuring apparatus in crowded urban centers."
+      ],
+      "answer": 2,
+      "explanation": "The text states that the traditional paradigm 'fundamentally misconstrued the relationship between the human auditory cortex and built environments', assuming acoustic comfort was merely a linear function of volume.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q3",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "According to the passage, all of the following are true of modern soundscape design EXCEPT:",
+      "options": [
+        "It seeks to generate absolute acoustic silence across residential neighborhoods.",
+        "It uses natural elements like flowing water to mask intrusive traffic noise.",
+        "It relies on the cognitive tendency to filter out repetitive, mechanical drones.",
+        "It considers the subjective psychological meaning that listeners assign to sounds."
+      ],
+      "answer": 0,
+      "explanation": "The author specifically rejects striving for 'artificial, tomb-like tranquility' as fiscally prohibitive and psychologically sterile; modern soundscape design instead aims to 'curate acoustic richness'.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q4",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Vocabulary in context",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "In the passage, the word “precipitate” in paragraph 2 is closest in meaning to:",
+      "options": [
+        "suppress",
+        "trigger",
+        "diminish",
+        "calculate"
+      ],
+      "answer": 1,
+      "explanation": "In this context, 'precipitate' means to cause an event or condition (severe stress responses) to happen suddenly or prematurely, which matches 'trigger'.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q5",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Vocabulary in context",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "The word “commandeer” in the final paragraph is closest in meaning to:",
+      "options": [
+        "surrender voluntarily",
+        "take arbitrary control of",
+        "demolish systematically",
+        "renovate architecturally"
+      ],
+      "answer": 1,
+      "explanation": "'Commandeer' means to take possession or control of something officially or forcefully for one's own use. Here, wealthier areas take control of superior acoustic territory.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q6",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "What does the phrase “these findings” in paragraph 2 refer to?",
+      "options": [
+        "The discovery that sound barriers eliminate all adverse health symptoms.",
+        "The evidence that psychological responses depend on the source and meaning of sounds rather than mere decibel levels.",
+        "The finding that seventy-five decibels represents the maximum safe threshold for pedestrian markets.",
+        "The technological inability to measure low-frequency vibrations in urban environments."
+      ],
+      "answer": 1,
+      "explanation": "The antecedent for 'these findings' is the preceding demonstration that loud organic human activity can feel reassuring while quieter mechanical noise causes stress due to semantic attribution.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q7",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "What can be inferred from the author's explanation of acoustic masking?",
+      "options": [
+        "Adding pleasant sounds reduces the actual measurable acoustic energy of passing vehicles.",
+        "The human brain prioritizes biologically recognizable acoustic cues over monotonous mechanical sounds.",
+        "Traffic frequencies can only be blocked if total decibel levels are increased beyond 80 dB.",
+        "Avian-friendly flora can completely silence nearby subterranean rail lines."
+      ],
+      "answer": 1,
+      "explanation": "The text explains that masking works because 'human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone', which is a cognitive selection, not physical dampening.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q8",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 4? “Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.”",
+      "options": [
+        "Acoustic planning will become an exclusive luxury for rich communities unless legally binding regulations guarantee fair acoustic conditions for all.",
+        "Affluent neighborhoods will eventually reject aesthetic sonic design because statutory zoning codes are rarely enforced.",
+        "Low-income residents must fund their own acoustic renovations if city councils refuse to pass statutory codes.",
+        "Aesthetic privileges should be banned by statutory planning codes to prevent wealthy citizens from building barriers."
+      ],
+      "answer": 0,
+      "explanation": "Option A accurately captures the conditional relationship ('Unless... risks degenerating into...'): without binding legal enforcement, acoustic quality will remain an exclusive luxury for the wealthy.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q9",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "What is the author's attitude toward traditional decibel-only mitigation policies?",
+      "options": [
+        "Unreservedly praising their scientific precision and universal fairness.",
+        "Acknowledging their initial protective role while exposing their theoretical inadequacy.",
+        "Dismissing them as entirely fraudulent and counterproductive from the outset.",
+        "Indifferent to their historical origins in twentieth-century urban planning."
+      ],
+      "answer": 1,
+      "explanation": "The author acknowledges that the old paradigm 'succeeded in curbing catastrophic occupational hearing loss' (protective role), but points out that it 'fundamentally misconstrued' human hearing and perception (theoretical inadequacy).",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "c1-hot-r-q10",
+      "setId": "set-c1-reading-hot",
+      "provider": "VSTEP C1 Practice",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Sentence insertion",
+      "stimulusTitle": "The Architecture of Noise: Soundscapes and Urban Wellbeing",
+      "stimulusText": "For much of the twentieth century, urban acoustic planning was governed almost entirely by an ethos of mitigation: municipal authorities measured decibel levels, constructed roadside sound barriers, and treated acoustic phenomena strictly as industrial pollutants. While this negative paradigm succeeded in curbing catastrophic occupational hearing loss, it fundamentally misconstrued the relationship between the human auditory cortex and built environments. Contemporary psychoacoustics posits that acoustic comfort is rarely a linear function of absolute acoustic volume. [A] Rather, the experiential quality of an urban soundscape is mediated by semantic attribution—the cognitive meaning that listeners attach to specific auditory sources—and acoustic ecology, which concerns how sound sources interact in time and space. A bustling pedestrian marketplace, registering upwards of seventy-five decibels, is frequently reported as invigorating and socially reassuring, whereas an intermittent mechanical hum of mere forty-five decibels can precipitate severe neuroendocrine stress responses. [B] In response to these findings, avant-garde urban designers have spearheaded a conceptual pivot from noise abatement to soundscape design. Rather than striving for artificial, tomb-like tranquility—an objective that is both fiscally prohibitive and psychologically sterile—practitioners seek to curate acoustic richness. [C] Techniques include reintroducing organic sounds, such as turbulent water features and avian-friendly flora, to acoustically mask intrusive traffic frequencies without escalating overall ambient loudness. Crucially, acoustic masking operates via psychoacoustic sensory interplay rather than raw physical dampening; human cognition instinctively focuses upon dynamic, biologically meaningful sound patterns while attenuating predictable mechanical drone. [D] Nevertheless, implementing soundscape urbanism at municipal scale requires confronting profound socio-spatial inequities. Wealthier enclaves consistently commandeer superior acoustic territory, buffering themselves behind lush urban canopies and strict zoning covenants, while lower-income demographics remain disproportionately concentrated adjacent to freight corridors, subterranean transit junctions, and industrial fringe zones. Unless acoustic equity is codified into enforceable statutory planning codes, sonic design risks degenerating into an aesthetic privilege of the affluent.",
+      "prompt": "Where in the passage would the following sentence best fit? “This discrepancy explains why mathematical noise indices so routinely diverge from subjective community satisfaction surveys.”",
+      "options": [
+        "Position [A]",
+        "Position [B]",
+        "Position [C]",
+        "Position [D]"
+      ],
+      "answer": 1,
+      "explanation": "Position [B] follows immediately after the stark contrast between the 75 dB marketplace (felt as positive) and the 45 dB mechanical hum (felt as stressful). 'This discrepancy' refers precisely to that paradox.",
+      "source": "Synthesized academic passage modeled on VSTEP C1 reading texts.",
+      "reviewStatus": "reviewed"
+    }
+  ],
+  "open_tasks": [
+    {
+      "task_id": "c1-hot-w1-complaint-tech",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Formal complaint and remediation letter",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You enrolled in an intensive hybrid professional development program accredited by an international institute. However, the instructional delivery failed drastically: scheduled interactive seminars were arbitrarily replaced with outdated pre-recorded clips, and tutor feedback was purely automated rather than substantive. Write a formal letter of complaint to the Academic Operations Director. In your letter: (1) detail the discrepancies between the advertised curriculum and actual delivery, (2) elaborate on the adverse consequences for your research/professional objectives, and (3) propose specific compensatory adjustments or remediation measures.",
+      "planning_steps": [
+        "Tone and register: Firm, formal, dispassionate; avoiding petulant colloquialisms while maintaining clear institutional accountability.",
+        "Structure: Salutation -> Direct statement of grievance -> Precise breakdown of contractual/pedagogical failure -> Impact assessment -> Concrete tripartite resolution (e.g., partial fee reimbursement, bespoke 1-on-1 tutoring, extended access) -> Formal sign-off.",
+        "Target C1 syntax & lexis: ‘diverged markedly from contractual representations’, ‘hollow pedagogical substitute’, ‘substantive remediation’, ‘remedy this institutional breach’."
+      ],
+      "self_review": [
+        "Did I articulate clear, quantifiable discrepancies rather than vague complaints?",
+        "Is the tone appropriately diplomatic yet uncompromisingly resolute?",
+        "Have I utilized cohesive devices to link the grievance to the remediation proposals?"
+      ]
+    },
+    {
+      "task_id": "c1-hot-w2-ai-education",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Discursive essay with counter-argument",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "The rapid integration of generative artificial intelligence into secondary and tertiary educational curricula has polarized educators. Some assert that generative AI threatens pedagogical integrity by promoting cognitive atrophy and facilitating academic misconduct. Others contend that banning these systems is futile and that education should instead pivot toward training students in critical prompt synthesis and verification. Discuss both perspectives and state your own reasoned stance on how educational institutions ought to navigate this paradigm shift.",
+      "planning_steps": [
+        "Deconstruct the prompt: Define terms (generative AI, cognitive atrophy, pedagogical integrity, epistemic vigilance).",
+        "Body Paragraph 1 (The Skeptic Stance): Over-reliance on AI outputs erodes foundational critical thinking, mathematical proof derivation, and primary textual interpretation; risk of automated plagiarism.",
+        "Body Paragraph 2 (The Progressive Stance): Futility of prohibition; ubiquity of AI in future labor markets demands prompt engineering, hallucinations detection, and high-order meta-cognitive skills.",
+        "Body Paragraph 3 (Synthesis / Personal Stance): The dialectical solution—shift assessment regimes from product-based (essays produced in unmonitored environments) to process-based (oral defenses, collaborative problem-solving, live code reviews) combined with mandatory AI-auditing literacy.",
+        "Conclusion: Reiterate that the true crisis is not the proliferation of synthetic intelligence, but the persistence of antiquated rote-memorization pedagogies."
+      ],
+      "self_review": [
+        "Did I thoroughly develop both sides before articulating my nuanced synthetic position?",
+        "Are topic sentences analytical rather than purely descriptive?",
+        "Does the essay showcase advanced cohesive structures (concession, qualification, inversion)?"
+      ]
+    },
+    {
+      "task_id": "c1-hot-w2-heritage-modernization",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Discussion essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In rapidly developing metropolitan areas, municipal authorities frequently encounter tension between preserving historic architecture and constructing modern commercial and residential infrastructure. Some argue that historical conservation is an inefficient use of scarce land and impedes economic rejuvenation. Others maintain that tangible architectural heritage is the indispensable anchor of civic identity and long-term socio-economic vibrancy. Evaluate both viewpoints and articulate your own perspective.",
+      "planning_steps": [
+        "Introduction: Frame the dichotomy between real-estate speculation / infrastructure modernization and cultural preservation as a fundamental question of urban sustainability.",
+        "Perspective A (Development priority): Demographic expansion, affordable housing scarcity, infrastructure modernization needs, and high maintenance costs of dilapidated historic structures.",
+        "Perspective B (Preservation priority): Intangible socio-cultural cohesion, historical continuity, architectural uniqueness fostering high-value cultural tourism and civic belonging.",
+        "Author's synthesis: 'Adaptive reuse'—conserving structural envelopes and cultural facades while re-engineering interiors for contemporary ecological and commercial utility.",
+        "Conclusion: Summarize that architectural heritage and modern prosperity are not mutually exclusive, provided urban governance rejects short-term speculative bulldozing."
+      ],
+      "self_review": [
+        "Did I avoid a simplistic compromise and instead construct a sophisticated policy framework (adaptive reuse)?",
+        "Did I provide vivid, contextually appropriate examples (e.g., European brownfield conversions, Asian rapid urbanization)?",
+        "Is the lexical variety demonstrative of C1 academic register?"
+      ]
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p1",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Social interaction",
+      "part": "Part 1",
+      "prep_seconds": 0,
+      "response_seconds": 180,
+      "prompt": "Topic A — Digital Footprint: How conscious are you of the permanent record created by your online engagement? In what ways might prospective employers evaluate candidates based on their digital presence? What measures can individuals take to curate an authentic yet professionally defensible online profile? Topic B — Lifelong Learning: What distinguishes proactive self-directed inquiry from compulsory professional upskilling? What psychological factors enable people to remain intellectually adaptable later in life? How can universities better serve non-traditional, adult returnee students?",
+      "self_review": [
+        "Did I begin each response with a direct, conceptually rich proposition before elaborating?",
+        "Did I balance personal reflection with broader sociological observations?",
+        "Was discourse fluent and rhythmically controlled without prolonged hesitations?"
+      ]
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p2",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Solution discussion",
+      "part": "Part 2",
+      "prep_seconds": 60,
+      "response_seconds": 120,
+      "prompt": "A major university campus situated in an overcrowded urban district is suffering from crippling vehicular traffic and severe pedestrian safety hazards. The university administration is deliberating among three interventions: (1) entirely banning private motorbikes and cars from the campus perimeter, (2) deploying an on-demand fleet of subsidized electric shuttle buses, or (3) implementing aggressive congestion pricing charges for all vehicles entering university gates. Decide which option provides the most sustainable, equitable long-term solution, defend your choice with rigorous reasoning, and systematically explain why the competing alternatives are sub-optimal.",
+      "self_review": [
+        "Did I immediately state my chosen measure and the foundational criteria for selection (equity vs. enforcement feasibility)?",
+        "Did I dissect the concrete weaknesses of the two unselected options rather than simply repeating that they are bad?",
+        "Did I address potential trade-offs of my chosen policy and propose mitigating measures?"
+      ]
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p3",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Topic development",
+      "part": "Part 3",
+      "prep_seconds": 60,
+      "response_seconds": 180,
+      "topic_statement": "The rise of algorithmic social commerce has commodified human interpersonal relationships and compromised genuine civic community.",
+      "mindmap": [
+        "Monetization of social influence and erosion of authentic trust",
+        "Filter bubbles and hyper-individualized consumerist desire",
+        "Displacement of public physical civic spaces by commercial digital platforms",
+        "Your own idea: The psychological alienation and performance fatigue of digital self-branding"
+      ],
+      "follow_up_questions": [
+        "Should governments impose fiduciary responsibilities on social media corporations to protect consumers from deceptive algorithmic marketing?",
+        "Do you foresee a grassroots societal backlash against hyper-connected consumer culture over the coming decades?"
+      ],
+      "prompt": "Synthesize the topic statement using the provided mind-map branches and your own distinct idea, then provide comprehensive, analytical responses to both follow-up questions.",
+      "planning_steps": [
+        "Establish an opening thesis: Rephrase statement into a nuanced societal critique rather than a trite moral panic.",
+        "Interlink branches organically: Trace how algorithmic incentives transform personal interactions into commercial transactions, shrinking non-commercial civic spheres.",
+        "Introduce the own idea: Focus on the individual psychological toll—performance fatigue and commodified identity.",
+        "Follow-up synthesis: Balance state regulatory intervention (algorithmic audits, truth-in-advertising) with grassroot digital minimalism movements."
+      ],
+      "self_review": [
+        "Did I weave the mindmap into a unified argument rather than treating the bullet points as disconnected answers?",
+        "Did I deliver analytical depth on both follow-up questions within the allocated timing?",
+        "Did I demonstrate sophisticated intonation, pacing, and precise C1 collocations?"
+      ]
+    }
+  ]
+}
