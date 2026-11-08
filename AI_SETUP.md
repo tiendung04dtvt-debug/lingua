@@ -9,4 +9,4 @@ The public GitHub Pages site cannot safely store a Gemini API key. Deploy `worke
 
 The Worker sends the learner's task prompt and answer to Gemini for feedback. The request sets `store:false`; do not submit personally identifying or sensitive information. Feedback is a study estimate, not an official VSTEP score. Speaking review currently evaluates the typed transcript only and cannot judge pronunciation or audio fluency. Add rate limits/usage limits in Cloudflare and your Google AI account before broader use.
 
-The Worker uses Google's Interactions API. If Google changes model availability, set `GEMINI_MODEL` to a supported model in Worker variables.
+The Worker uses Google's Gemini `generateContent` REST API with `gemini-2.0-flash` (or your chosen `GEMINI_MODEL`). If Google changes model availability, set `GEMINI_MODEL` to a supported model in Worker variables.

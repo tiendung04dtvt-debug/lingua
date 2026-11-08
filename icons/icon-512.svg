@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#173b30"/>
+  <rect x="96" y="96" width="320" height="320" rx="72" fill="#f0d7b8"/>
+  <text x="256" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="208" font-weight="800" fill="#204538" text-anchor="middle">L</text>
+  <circle cx="342" cy="312" r="22" fill="#b7824e"/>
+</svg>
+
