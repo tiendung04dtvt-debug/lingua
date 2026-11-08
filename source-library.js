@@ -58,6 +58,65 @@
     }
   ];
 
+  const practiceSources = [
+    {
+      icon: 'ZIM',
+      title: 'ZIM · Đề thi VSTEP mẫu',
+      detail: 'Có bài mẫu đủ bốn kỹ năng. Trang ghi rõ đây là đề mô phỏng để tham khảo, không phải đề thi thật đã tổ chức.',
+      link: 'https://zim.vn/de-thi-vstep',
+      label: 'Mở đề mẫu',
+      badge: 'Mô phỏng · có nguồn'
+    },
+    {
+      icon: 'PREP',
+      title: 'PREP · Đề mẫu và kho PDF',
+      detail: 'Bài viết có cấu trúc đề mẫu và liên kết tới các thư mục Drive. Tên thư mục nêu 20 đề; số lượng/tính toàn vẹn tệp chưa được xác minh.',
+      link: 'https://prepedu.com/vi/blog/de-thi-mau-vstep',
+      label: 'Mở bài viết & kho đề',
+      badge: 'Nguồn luyện · cần rà soát'
+    },
+    {
+      icon: 'VSTEP',
+      title: 'VSTEP.edu.vn · Bộ đề B1–C1',
+      detail: 'Trang tổng hợp đề mẫu và audio; đây là trang luyện thi, không phải cổng của hội đồng tổ chức thi. Kiểm tra từng tài liệu trước khi dùng.',
+      link: 'https://vstep.edu.vn/de-thi-mau-chung-chi-b1-b2-c1-tieng-anh-theo-dinh-dang-vstep',
+      label: 'Xem bộ đề',
+      badge: 'Trang tổng hợp'
+    },
+    {
+      icon: 'LT',
+      title: 'Luyenthivstep.vn · Ngân hàng bài luyện',
+      detail: 'Có bài luyện trực tuyến và danh mục chủ đề Writing/Speaking theo trang giới thiệu; dạng bài do nền tảng cung cấp, không phải đề UED.',
+      link: 'https://luyenthivstep.vn/de-thi-vstep',
+      label: 'Luyện trực tuyến',
+      badge: 'Ngân hàng luyện tập'
+    },
+    {
+      icon: 'DOC',
+      title: 'Studocu · 10 bài Reading do người dùng đăng',
+      detail: 'Bản xem trước do người dùng tải lên, có thể cần đăng nhập. Chưa xác minh nguồn gốc, đáp án hoặc quyền chia sẻ; chỉ mở để tự thẩm định.',
+      link: 'https://www.studocu.vn/vn/document/truong-dai-hoc-sai-gon/tieng-anh-b1/10-de-doc-hieu1-73-cxvcv/111688259',
+      label: 'Xem tài liệu',
+      badge: 'Người dùng chia sẻ'
+    },
+    {
+      icon: 'FB',
+      title: 'Nhóm VSTEP · Bài đăng cộng đồng',
+      detail: 'Hai bài đăng bạn gửi yêu cầu quyền truy cập/đăng nhập nên nội dung và tệp đính kèm chưa thể xác minh. Không tính vào số đề đã rà soát.',
+      link: 'https://www.facebook.com/groups/2112628082435991/posts/2443241212708008/',
+      label: 'Mở bài đăng',
+      badge: 'Chưa xác minh'
+    },
+    {
+      icon: 'FB',
+      title: 'VSTEP SV · Bài đăng cộng đồng',
+      detail: 'Nguồn Facebook cộng đồng bạn gửi; nội dung cần đăng nhập và chưa kiểm tra được đề/đáp án.',
+      link: 'https://www.facebook.com/groups/vstepsv.onthicaptoc/posts/1639368890095028/',
+      label: 'Mở bài đăng',
+      badge: 'Chưa xác minh'
+    }
+  ];
+
   function mountSourceLibrary() {
     const view = document.querySelector('#view');
     if (!view || view.querySelector('.source-library')) return;
@@ -88,6 +147,27 @@
       </div>
       <p class="source-library-note">Bậc 3–5 là một bài thi chung. Mỗi đề mẫu không được chia thành các bộ B1, B2, C1 riêng nếu nguồn không gắn nhãn trình độ cho từng câu.</p>`;
     notice.insertAdjacentElement('afterend', section);
+
+    const practiceSection = document.createElement('section');
+    practiceSection.className = 'source-library-wrap practice-library-wrap';
+    practiceSection.setAttribute('aria-label', 'Nguồn luyện tập và kho đề cộng đồng');
+    practiceSection.innerHTML = `
+      <div class="source-library-heading">
+        <div><span class="eyebrow">NGUỒN LUYỆN MỞ RỘNG</span><h2>Kho bài luyện & đề mẫu trực tuyến</h2></div>
+        <span class="source-total">${practiceSources.length} nguồn bạn gửi</span>
+      </div>
+      <p class="source-library-intro">Các nguồn dưới đây giúp mở rộng lượng bài luyện. Nhãn thể hiện đúng mức đã kiểm tra; các trang tổng hợp, nội dung cộng đồng và tài liệu chia sẻ không được coi là đề thi thật của UED.</p>
+      <div class="resource-grid source-library">
+        ${practiceSources.map((source) => `
+          <article class="resource-card source-card">
+            <div class="source-card-top"><span class="resource-icon">${source.icon}</span><span class="verified-chip">${source.badge}</span></div>
+            <h3>${source.title}</h3>
+            <p>${source.detail}</p>
+            <a class="source-tag" target="_blank" rel="noopener noreferrer" href="${source.link}">${source.label} ↗</a>
+          </article>`).join('')}
+      </div>
+      <p class="source-library-note">Bản PDF “7 Vstep Tests (B1–B2–C1) – Full Key” cùng 7 MP3 và 3 MP3 lẻ từ thư mục Drive bạn cung cấp đã được giữ trong kho cá nhân trên máy. Chưa xác minh được tác giả/nguồn phát hành, nên không tải lên website hoặc tính là 7 đề thi chính thức.</p>`;
+    section.insertAdjacentElement('afterend', practiceSection);
   }
 
   const observer = new MutationObserver(mountSourceLibrary);

@@ -62,6 +62,10 @@ The first source pass was incomplete. A broader search located more publicly hos
 
 These are genuine published sample/practice papers from identifiable providers, not verified copies of the live monthly exams. No public UED-specific past-paper bank has been confirmed. Do not label a provider's sample as a UED past paper or infer official B1/B2/C1 tags for individual questions.
 
+The Resources page now also links the learner's requested practice leads: ZIM, PREP and its linked Drive collections, VSTEP.edu.vn, Luyenthivstep.vn, Studocu, and two Facebook group posts. They are separated from the university-hosted sample library and labeled by what was actually checked. In particular, the PREP Drive folder title mentions 20 tests, but the files have not been enumerated/reviewed, and the Studocu/Facebook items remain user-shared or access-restricted sources. These are leads for practice, not 20 verified papers or confirmed UED live tests.
+
+The learner-provided Drive archive is stored only under the ignored `packs/private/reference-materials/`: one compilation PDF titled “7 Vstep Tests (B1-B2-C1) – Full Key”, seven MP3 files, and three separate MP3 files. The author, provenance, test/audio mapping, and reproduction permission remain unverified. It is excluded from the public repository and public question bank.
+
 ## Remaining research gaps
 
 - No public UED-specific past-paper bank or full UED sample was located. Multiple official-provider samples are now collected; UFL remains the closest regional source for the shared Bậc 3–5 format.
