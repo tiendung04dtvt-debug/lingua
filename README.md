@@ -6,7 +6,7 @@ Lingua is a private-study focused static site for VSTEP Bậc 3–5, organized a
 
 - Writing and Speaking prompts labeled by estimated practice level. All currently published prompts are original Lingua simulations, not recovered live exam questions.
 - 70 source-linked guides: 10 point to prompts matched against the published UFL 2025 and QNU sample PDFs; 60 summarize topics from third-party Writing/Speaking practice banks (30 per skill). Full text and model answers open at the source; third-party collections are not verified live questions.
-- 226 vocabulary flashcards in `packs/vocabulary.tsv` (80 B1, 72 B2, 74 C1). Level assignment is an instructional estimate. Cards can be filtered and reviewed with a simple spaced schedule.
+- 393 source-checked headword flashcards in `packs/vocabulary.tsv` (129 B1, 122 B2, 142 C1), each linked to the Oxford CEFR list supporting its level. The app adds original Vietnamese glosses and example sentences for study. Cards can be filtered and reviewed with a spaced schedule.
 - Local draft saving, word counter, checklists, progress export, and optional AI feedback.
 - AI feedback uses a separately deployed Cloudflare Worker. Follow [AI_SETUP.md](AI_SETUP.md); never put an API key in browser code or GitHub Pages. Text-only Speaking feedback cannot assess pronunciation.
 - Public source links are provided for independent review. Lingua does not mirror complete provider papers.
@@ -24,3 +24,7 @@ Serve this folder with a static HTTP server (for example, `python -m http.server
 Drafts and vocabulary review schedule are saved in this browser's local storage. AI feedback sends the task prompt and learner response to the configured Worker and Gemini API. Review the deployment controls and provider privacy settings before use. Private source files under `packs/private/` are ignored by Git.
 
 The GitHub Pages workflow publishes the repository root on `main`. `content-pack-template.json` shows the original Writing/Speaking task format.
+
+## Vocabulary source update · 9 November 2026
+
+The flashcard bank now has **393 source-checked headwords**: 129 B1, 122 B2 and 142 C1. Oxford's CEFR-organised word lists support each headword's level; the site links to the source from each flipped card. Vietnamese glosses, topic labels and example sentences were written for this learner deck and are marked as Lingua-created support content, not dictionary quotations. This is a curated selection, not an exhaustive copy of Oxford's word lists.

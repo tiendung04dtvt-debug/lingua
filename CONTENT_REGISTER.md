@@ -9,7 +9,7 @@
 |---|---|---|
 | `packs/writing-speaking-practice.json` | 44 open tasks: 23 Writing and 21 Speaking, across estimated B1/B2/C1 practice levels | Original Lingua simulated prompts; not live exam questions and not represented as official past papers |
 | `packs/source-task-index.json` | 70 source-linked guides: 10 task references matched to UFL and QNU published sample PDFs; 60 short guides linking to third-party Writing/Speaking topic banks | UFL/QNU are institutional sample papers; third-party topic collections are provider-created practice, not verified live exam questions. Full prompt text and model answers remain on the linked pages. |
-| `packs/vocabulary.tsv` | 226 English vocabulary flashcards: 80 B1, 72 B2, 74 C1 | Curated study vocabulary and example collocations; CEFR tier is approximate instructional guidance |
+| `packs/vocabulary.tsv` | 393 sourced headword flashcards: 129 B1, 122 B2, 142 C1 | Oxford CEFR wordlists support each level; Vietnamese glosses/examples are Lingua-authored study aids |
 | `content-pack-template.json` | Example schema for original Writing/Speaking tasks | Template only |
 
 Reading and Listening question-pack JSONs were removed from the current public site because the learner requested Writing/Speaking-only study. The old files may remain retrievable from prior Git history; they are absent from the current branch tree. Private reference PDFs/audio remain ignored under `packs/private/` and are not loaded by the app.
@@ -38,3 +38,7 @@ Follow the current UED candidate instructions if they differ from the published 
 ## AI grading architecture
 
 The static Pages app never contains the Gemini API key. `workers/gemini-proxy.js` is a sample Cloudflare Worker configured with an allowed origin, server-side API secret, and `store:false`. Follow [AI_SETUP.md](AI_SETUP.md). Until deployed and configured, the AI grader is not live. It reviews written text/transcripts and cannot evaluate Speaking pronunciation.
+
+## Vocabulary flashcards sourced from CEFR lists (9 November 2026)
+
+`packs/vocabulary.tsv` now contains **393 headwords**: 129 B1, 122 B2 and 142 C1. Each row names the Oxford CEFR list used for the level assignment. B1 and B2 entries are checked against the Oxford 3000 by CEFR level; selected additional B2 and C1 entries are checked against the Oxford 5000 by CEFR level. The lists give headwords, parts of speech and CEFR level; Lingua's Vietnamese glosses, topic tags and example sentences are learner-facing additions, not quotations from Oxford. The app links every card to the list that supports its CEFR label. This is a curated subset, not a claim to reproduce the complete Oxford lists.

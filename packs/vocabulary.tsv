@@ -1,226 +1,393 @@
-B1|Education|make progress|tiến bộ|make steady progress in English
-B1|Education|take a course|tham gia khóa học|take a short online course
-B1|Education|pass an exam|thi đỗ|pass an important exam
-B1|Education|revise for a test|ôn bài cho bài kiểm tra|revise for a vocabulary test
-B1|Education|learn by doing|học qua thực hành|learn new skills by doing
-B1|Education|ask for help|xin trợ giúp|ask a teacher for help
-B1|Education|work in a group|làm việc theo nhóm|work in a small group
-B1|Education|use a dictionary|dùng từ điển|use an online dictionary
-B1|Work|look for a job|tìm việc|look for a part-time job
-B1|Work|apply for a job|nộp đơn xin việc|apply for a job in a hotel
-B1|Work|work full time|làm toàn thời gian|work full time after graduation
-B1|Work|earn money|kiếm tiền|earn money during the summer
-B1|Work|get experience|có kinh nghiệm|get useful work experience
-B1|Work|work with people|làm việc với mọi người|work with friendly colleagues
-B1|Work|be responsible for|chịu trách nhiệm về|be responsible for answering emails
-B1|Work|meet a deadline|hoàn thành đúng hạn|meet a project deadline
-B1|Technology|use a smartphone|dùng điện thoại thông minh|use a smartphone for study
-B1|Technology|go online|lên mạng|go online to find information
-B1|Technology|send a message|gửi tin nhắn|send a quick message
-B1|Technology|save time|tiết kiệm thời gian|save time with online services
-B1|Technology|watch a video|xem video|watch a short lesson video
-B1|Technology|share information|chia sẻ thông tin|share information with classmates
-B1|Technology|keep in touch|giữ liên lạc|keep in touch with old friends
-B1|Technology|spend time online|dành thời gian trên mạng|spend less time online
-B1|Environment|save water|tiết kiệm nước|save water at home
-B1|Environment|recycle paper|tái chế giấy|recycle paper and plastic
-B1|Environment|use public transport|dùng phương tiện công cộng|use public transport to work
-B1|Environment|keep a place clean|giữ nơi chốn sạch sẽ|keep the local beach clean
-B1|Environment|plant a tree|trồng cây|plant a tree in the garden
-B1|Environment|protect animals|bảo vệ động vật|protect animals in the wild
-B1|Environment|reduce rubbish|giảm rác thải|reduce rubbish in the kitchen
-B1|Environment|ride a bicycle|đi xe đạp|ride a bicycle to school
-B1|Health|eat healthy food|ăn thực phẩm lành mạnh|eat healthy food every day
-B1|Health|get enough sleep|ngủ đủ giấc|get enough sleep before an exam
-B1|Health|do exercise|tập thể dục|do exercise three times a week
-B1|Health|feel stressed|cảm thấy căng thẳng|feel stressed before a presentation
-B1|Health|take a break|nghỉ giải lao|take a short break after studying
-B1|Health|drink plenty of water|uống nhiều nước|drink plenty of water in hot weather
-B1|Health|feel better|cảm thấy khá hơn|feel better after a walk
-B1|Health|visit a doctor|đi khám bác sĩ|visit a doctor when you feel ill
-B1|Society|help a neighbour|giúp hàng xóm|help a neighbour carry groceries
-B1|Society|join a club|tham gia câu lạc bộ|join a sports club at university
-B1|Society|make new friends|kết bạn mới|make new friends at college
-B1|Society|spend time together|dành thời gian bên nhau|spend time together at weekends
-B1|Society|share a meal|cùng ăn một bữa|share a meal with your family
-B1|Society|take part in|tham gia vào|take part in a community event
-B1|Society|be kind to others|tử tế với người khác|be kind to new students
-B1|Society|solve a problem|giải quyết vấn đề|solve a problem together
-B1|Travel|book a room|đặt phòng|book a room near the station
-B1|Travel|miss a bus|lỡ xe buýt|miss the last bus home
-B1|Travel|visit a museum|thăm bảo tàng|visit a museum on a school trip
-B1|Travel|try local food|thử món ăn địa phương|try local food when travelling
-B1|Travel|travel by train|đi bằng tàu hỏa|travel by train across the country
-B1|Travel|ask for directions|hỏi đường|ask for directions in town
-B1|Travel|stay with a friend|ở cùng bạn|stay with a friend for a weekend
-B1|Travel|enjoy the scenery|ngắm cảnh|enjoy the scenery on the journey
-B1|Opinions|in my opinion|theo ý kiến của tôi|In my opinion, parks are important.
-B1|Opinions|I agree with|tôi đồng ý với|I agree with this idea for two reasons.
-B1|Opinions|I prefer ... to ...|tôi thích ... hơn ...|I prefer buses to private cars.
-B1|Opinions|for example|ví dụ|For example, students can study together.
-B1|Opinions|because of|bởi vì|The trip was cancelled because of the rain.
-B1|Opinions|on the other hand|mặt khác|On the other hand, online study can feel lonely.
-B1|Opinions|one reason is|một lý do là|One reason is that it is affordable.
-B1|Opinions|as a result|do đó|As a result, people have more free time.
-B1|Daily life|be interested in|quan tâm đến|be interested in music and art
-B1|Daily life|be good at|giỏi về|be good at working with children
-B1|Daily life|spend money on|chi tiền cho|spend money on books
-B1|Daily life|make a decision|đưa ra quyết định|make a decision with your family
-B1|Daily life|make a difference|tạo ra khác biệt|small actions can make a difference
-B1|Daily life|feel comfortable|cảm thấy thoải mái|feel comfortable speaking English
-B1|Daily life|have free time|có thời gian rảnh|have free time after work
-B1|Daily life|take care of|chăm sóc|take care of an older relative
-B1|Plans|plan to do something|dự định làm gì|plan to study abroad next year
-B1|Plans|hope to do something|hy vọng làm gì|hope to find a better job
-B1|Plans|decide to do something|quyết định làm gì|decide to learn another language
-B1|Plans|be able to|có thể|be able to work from home
-B1|Plans|would like to|muốn|would like to improve my speaking
-B1|Plans|learn how to|học cách|learn how to manage money
-B1|Plans|try something new|thử điều mới|try something new during the holiday
-B1|Plans|in the future|trong tương lai|in the future, I hope to teach
-B2|Education|acquire knowledge|tiếp thu kiến thức|acquire knowledge through practical tasks
-B2|Education|academic performance|kết quả học tập|improve academic performance over time
-B2|Education|meet course requirements|đáp ứng yêu cầu môn học|meet the course requirements
-B2|Education|develop a skill|phát triển kỹ năng|develop communication skills at university
-B2|Education|independent learning|học tập độc lập|encourage independent learning
-B2|Education|learning outcomes|kết quả đầu ra|achieve the intended learning outcomes
-B2|Education|provide feedback|đưa ra phản hồi|provide constructive feedback on essays
-B2|Education|practical knowledge|kiến thức thực tiễn|combine theory with practical knowledge
-B2|Work|career prospects|triển vọng nghề nghiệp|improve long-term career prospects
-B2|Work|job satisfaction|sự hài lòng trong công việc|increase job satisfaction among staff
-B2|Work|transferable skills|kỹ năng có thể chuyển đổi|gain transferable skills through volunteering
-B2|Work|work-life balance|cân bằng công việc-cuộc sống|maintain a healthy work-life balance
-B2|Work|take on responsibility|đảm nhận trách nhiệm|take on greater responsibility at work
-B2|Work|meet professional standards|đạt tiêu chuẩn nghề nghiệp|meet professional standards consistently
-B2|Work|a demanding role|vị trí đòi hỏi cao|manage a demanding role effectively
-B2|Work|career advancement|thăng tiến nghề nghiệp|create opportunities for career advancement
-B2|Technology|digital literacy|năng lực số|improve digital literacy among adults
-B2|Technology|rely on technology|phụ thuộc vào công nghệ|rely on technology for daily services
-B2|Technology|protect personal data|bảo vệ dữ liệu cá nhân|protect personal data online
-B2|Technology|access reliable information|tiếp cận thông tin đáng tin cậy|access reliable information quickly
-B2|Technology|automate routine tasks|tự động hóa việc thường nhật|automate routine administrative tasks
-B2|Technology|digital divide|khoảng cách số|narrow the digital divide
-B2|Technology|online interaction|tương tác trực tuyến|replace face-to-face interaction with online contact
-B2|Technology|raise privacy concerns|làm dấy lên lo ngại về quyền riêng tư|raise serious privacy concerns
-B2|Environment|renewable energy|năng lượng tái tạo|invest in renewable energy sources
-B2|Environment|carbon emissions|khí thải carbon|reduce carbon emissions from transport
-B2|Environment|environmental awareness|nhận thức môi trường|raise environmental awareness in schools
-B2|Environment|waste management|quản lý chất thải|improve urban waste management
-B2|Environment|conserve natural resources|bảo tồn tài nguyên thiên nhiên|conserve natural resources for future generations
-B2|Environment|public green space|không gian xanh công cộng|expand public green space in cities
-B2|Environment|sustainable development|phát triển bền vững|promote sustainable development
-B2|Environment|extreme weather|thời tiết cực đoan|prepare communities for extreme weather
-B2|Health|mental wellbeing|sức khỏe tinh thần|support students' mental wellbeing
-B2|Health|a sedentary lifestyle|lối sống ít vận động|avoid a sedentary lifestyle
-B2|Health|preventive care|chăm sóc phòng ngừa|make preventive care more accessible
-B2|Health|healthy eating habits|thói quen ăn uống lành mạnh|encourage healthy eating habits
-B2|Health|cope with pressure|đối phó với áp lực|learn to cope with academic pressure
-B2|Health|public health campaign|chiến dịch y tế công cộng|launch a public health campaign
-B2|Health|access to healthcare|khả năng tiếp cận y tế|ensure equal access to healthcare
-B2|Health|long-term consequences|hệ quả lâu dài|consider the long-term consequences
-B2|Society|social cohesion|sự gắn kết xã hội|strengthen social cohesion in neighbourhoods
-B2|Society|community engagement|sự tham gia cộng đồng|increase community engagement
-B2|Society|social inequality|bất bình đẳng xã hội|address social inequality through education
-B2|Society|public awareness|nhận thức công chúng|raise public awareness of the issue
-B2|Society|access to public services|tiếp cận dịch vụ công|improve access to public services
-B2|Society|a sense of belonging|cảm giác thuộc về|create a sense of belonging for newcomers
-B2|Society|voluntary work|công việc tình nguyện|gain experience through voluntary work
-B2|Society|local residents|cư dân địa phương|consult local residents before development
-B2|Travel|cultural heritage|di sản văn hóa|preserve cultural heritage sites
-B2|Travel|local economy|kinh tế địa phương|support the local economy
-B2|Travel|tourism industry|ngành du lịch|create stable jobs in the tourism industry
-B2|Travel|peak season|mùa cao điểm|manage visitor numbers during peak season
-B2|Travel|public transport network|mạng lưới giao thông công cộng|expand the public transport network
-B2|Travel|affordable accommodation|chỗ ở có giá phải chăng|provide affordable accommodation for visitors
-B2|Travel|cultural exchange|trao đổi văn hóa|promote cultural exchange between communities
-B2|Travel|travel responsibly|du lịch có trách nhiệm|encourage visitors to travel responsibly
-B2|Argument|a clear advantage|một lợi thế rõ ràng|a clear advantage of the proposal
-B2|Argument|a major drawback|một hạn chế lớn|a major drawback of the policy
-B2|Argument|reach a compromise|đạt được thỏa hiệp|reach a compromise between the two sides
-B2|Argument|take into account|tính đến|take local needs into account
-B2|Argument|from my perspective|theo góc nhìn của tôi|From my perspective, prevention is more effective.
-B2|Argument|to some extent|ở một mức độ nào đó|This is true to some extent.
-B2|Argument|in contrast|trái lại|In contrast, smaller towns face different challenges.
-B2|Argument|have a significant impact on|có tác động đáng kể đến|have a significant impact on young people
-B2|Communication|express a viewpoint|bày tỏ quan điểm|express a viewpoint clearly and politely
-B2|Communication|support an argument|ủng hộ một lập luận|support an argument with relevant examples
-B2|Communication|consider alternative options|cân nhắc phương án thay thế|consider alternative options carefully
-B2|Communication|address a concern|giải quyết mối lo ngại|address a concern raised by residents
-B2|Communication|make a reasonable suggestion|đưa ra đề xuất hợp lý|make a reasonable suggestion to the committee
-B2|Communication|reach an informed decision|đưa ra quyết định có cân nhắc|reach an informed decision
-B2|Communication|clarify a point|làm rõ một điểm|clarify a point during the discussion
-B2|Communication|give a relevant example|đưa ra ví dụ phù hợp|give a relevant example from daily life
-C1|Education|pedagogical approach|phương pháp sư phạm|adopt a learner-centred pedagogical approach
-C1|Education|intellectual autonomy|tính tự chủ trí tuệ|cultivate intellectual autonomy in students
-C1|Education|curriculum design|thiết kế chương trình học|reconsider curriculum design for digital learning
-C1|Education|knowledge retention|khả năng ghi nhớ kiến thức|improve knowledge retention through retrieval practice
-C1|Education|evidence-informed teaching|giảng dạy dựa trên bằng chứng|promote evidence-informed teaching
-C1|Education|academic attainment|thành tích học thuật|narrow gaps in academic attainment
-C1|Education|cognitive development|sự phát triển nhận thức|support cognitive development in early childhood
-C1|Education|lifelong learning|học tập suốt đời|embed lifelong learning in professional practice
-C1|Work|occupational mobility|khả năng dịch chuyển nghề nghiệp|facilitate occupational mobility across sectors
-C1|Work|professional fulfilment|sự thỏa mãn nghề nghiệp|contribute to professional fulfilment
-C1|Work|workforce resilience|khả năng thích ứng của lực lượng lao động|strengthen workforce resilience during disruption
-C1|Work|institutional accountability|trách nhiệm giải trình của tổ chức|demand institutional accountability from employers
-C1|Work|labour-market volatility|biến động thị trường lao động|respond to labour-market volatility
-C1|Work|remuneration structure|cơ cấu thù lao|reform the remuneration structure
-C1|Work|career trajectory|lộ trình sự nghiệp|rethink a conventional career trajectory
-C1|Work|organisational culture|văn hóa tổ chức|foster an inclusive organisational culture
-C1|Technology|algorithmic bias|thiên lệch thuật toán|mitigate algorithmic bias in decision-making
-C1|Technology|data governance|quản trị dữ liệu|establish transparent data governance
-C1|Technology|technological displacement|sự thay thế lao động do công nghệ|prepare workers for technological displacement
-C1|Technology|digital infrastructure|hạ tầng số|invest in resilient digital infrastructure
-C1|Technology|information asymmetry|bất cân xứng thông tin|reduce information asymmetry for consumers
-C1|Technology|human oversight|sự giám sát của con người|retain meaningful human oversight
-C1|Technology|surveillance practices|hoạt động giám sát|place safeguards on surveillance practices
-C1|Technology|unintended consequences|hệ quả ngoài dự kiến|anticipate unintended consequences of automation
-C1|Environment|ecological degradation|suy thoái sinh thái|reverse ecological degradation in coastal areas
-C1|Environment|biodiversity loss|suy giảm đa dạng sinh học|halt biodiversity loss
-C1|Environment|climate adaptation|thích ứng khí hậu|fund community-led climate adaptation
-C1|Environment|environmental externalities|ngoại tác môi trường|price environmental externalities fairly
-C1|Environment|resource-intensive consumption|tiêu dùng tốn nhiều tài nguyên|curb resource-intensive consumption
-C1|Environment|intergenerational equity|công bằng giữa các thế hệ|uphold intergenerational equity
-C1|Environment|urban resilience|khả năng chống chịu đô thị|build urban resilience to extreme heat
-C1|Environment|decarbonise the economy|khử carbon nền kinh tế|decarbonise the economy without widening inequality
-C1|Health|health inequity|bất bình đẳng về sức khỏe|tackle preventable health inequity
-C1|Health|preventive intervention|can thiệp dự phòng|fund early preventive interventions
-C1|Health|psychological distress|tình trạng căng thẳng tâm lý|identify signs of psychological distress
-C1|Health|social determinants of health|các yếu tố xã hội quyết định sức khỏe|address the social determinants of health
-C1|Health|healthcare provision|việc cung cấp dịch vụ y tế|improve equitable healthcare provision
-C1|Health|evidence-based intervention|can thiệp dựa trên bằng chứng|evaluate an evidence-based intervention
-C1|Health|behavioural change|thay đổi hành vi|support sustainable behavioural change
-C1|Health|longitudinal study|nghiên cứu theo chiều dọc|conduct a longitudinal study
-C1|Society|structural inequality|bất bình đẳng mang tính cơ cấu|confront structural inequality
-C1|Society|civic participation|sự tham gia công dân|broaden civic participation
-C1|Society|social fragmentation|sự phân mảnh xã hội|address growing social fragmentation
-C1|Society|redistributive policy|chính sách tái phân phối|implement a carefully targeted redistributive policy
-C1|Society|marginalised communities|cộng đồng yếu thế|consult marginalised communities directly
-C1|Society|institutional trust|niềm tin vào thể chế|restore institutional trust
-C1|Society|social mobility|sự dịch chuyển xã hội|remove barriers to social mobility
-C1|Society|collective responsibility|trách nhiệm tập thể|recognise collective responsibility for public spaces
-C1|Culture|cultural commodification|thương mại hóa văn hóa|avoid the cultural commodification of local traditions
-C1|Culture|intangible heritage|di sản phi vật thể|safeguard intangible heritage
-C1|Culture|cultural continuity|tính liên tục văn hóa|maintain cultural continuity across generations
-C1|Culture|community-led conservation|bảo tồn do cộng đồng dẫn dắt|fund community-led conservation
-C1|Culture|heritage interpretation|diễn giải di sản|improve heritage interpretation for visitors
-C1|Culture|authentic representation|sự đại diện chân thực|ensure authentic representation of local culture
-C1|Culture|cultural plurality|tính đa dạng văn hóa|recognise cultural plurality
-C1|Culture|collective memory|ký ức tập thể|preserve collective memory through oral history
-C1|Argument|a qualified claim|một nhận định có giới hạn|make a qualified claim based on available evidence
-C1|Argument|substantiate an assertion|chứng minh một nhận định|substantiate an assertion with credible evidence
-C1|Argument|a trade-off|sự đánh đổi|acknowledge the trade-off between speed and fairness
-C1|Argument|a compelling rationale|lý do thuyết phục|offer a compelling rationale for reform
-C1|Argument|by no means|hoàn toàn không|This is by no means a straightforward issue.
-C1|Argument|notwithstanding|mặc dù|Notwithstanding these benefits, access remains uneven.
-C1|Argument|insofar as|trong chừng mực mà|The policy is effective insofar as it reaches those most in need.
-C1|Argument|a nuanced perspective|một góc nhìn tinh tế, nhiều chiều|present a nuanced perspective on the debate
-C1|Argument|causal mechanism|cơ chế nhân quả|identify the causal mechanism behind the trend
-C1|Argument|policy coherence|tính nhất quán của chính sách|ensure policy coherence across departments
-C1|Argument|empirical evidence|bằng chứng thực nghiệm|distinguish empirical evidence from speculation
-C1|Argument|mitigate adverse effects|giảm thiểu tác động bất lợi|mitigate adverse effects on low-income households
-C1|Argument|a disproportionate burden|gánh nặng không cân xứng|avoid placing a disproportionate burden on families
-C1|Argument|long-term viability|tính khả thi lâu dài|assess the long-term viability of the proposal
-C1|Argument|a robust framework|khuôn khổ vững chắc|develop a robust framework for accountability
-C1|Argument|context-dependent|phụ thuộc vào bối cảnh|The most suitable option is context-dependent.
-C1|Argument|to a considerable extent|ở mức độ đáng kể|The outcome depends, to a considerable extent, on implementation.
-C1|Argument|a plausible alternative|một phương án thay thế hợp lý|consider a plausible alternative before concluding
+B1|Communication|indicate|v.|cho biết; chỉ ra|The results indicate a need for more evening classes.|Oxford 3000 · B1
+B1|Technology|indirect|adj.|gián tiếp|Online study can have an indirect effect on social skills.|Oxford 3000 · B1
+B1|Health|innocent|adj.|vô hại; không có tội|The doctor explained that the symptom was usually innocent.|Oxford 3000 · B1
+B1|Education|intelligence|n.|trí thông minh|Success depends on more than intelligence alone.|Oxford 3000 · B1
+B1|Communication|intend|v.|dự định|The college intends to offer more speaking classes.|Oxford 3000 · B1
+B1|Work|invest|v.|đầu tư|The company plans to invest in staff training.|Oxford 3000 · B1
+B1|Science|laboratory|n.|phòng thí nghiệm|The students conducted the experiment in a laboratory.|Oxford 3000 · B1
+B1|Society|lack|n./v.|sự thiếu hụt; thiếu|A lack of safe paths discourages people from cycling.|Oxford 3000 · B1
+B1|Time|latest|adj.|mới nhất|The latest figures show a rise in public transport use.|Oxford 3000 · B1
+B1|Writing|layer|n.|lớp; tầng|The issue has several layers that need careful discussion.|Oxford 3000 · B1
+B1|Work|leading|adj.|hàng đầu|She works for a leading education organisation.|Oxford 3000 · B1
+B1|Environment|leather|n.|da thuộc|The workshop teaches visitors how leather products are made.|Oxford 3000 · B1
+B1|Education|level|n.|mức độ|The course is suitable for learners at an intermediate level.|Oxford 3000 · B1
+B1|Science|liquid|n./adj.|chất lỏng; dạng lỏng|The researchers stored the liquid in a sealed container.|Oxford 3000 · B1
+B1|Community|local|adj.|địa phương|Local residents helped plan the new park.|Oxford 3000 · B1
+B1|Health|lonely|adj.|cô đơn|Older adults may feel lonely when they live far from family.|Oxford 3000 · B1
+B1|Economy|loss|n.|sự mất mát; khoản lỗ|The shop reported a financial loss last year.|Oxford 3000 · B1
+B1|Economy|luxury|n.|sự xa xỉ; thứ xa xỉ|For many families, an overseas holiday is still a luxury.|Oxford 3000 · B1
+B1|Economy|market|n.|thị trường|The market for online courses has grown quickly.|Oxford 3000 · B1
+B1|Society|marriage|n.|hôn nhân|The survey asked about changes in marriage and family life.|Oxford 3000 · B1
+B1|Time|meanwhile|adv.|trong khi đó|The city is improving bus services; meanwhile, new cycle lanes are being built.|Oxford 3000 · B1
+B1|Communication|mixture|n.|sự pha trộn|The course uses a mixture of group work and independent study.|Oxford 3000 · B1
+B1|Health|mood|n.|tâm trạng|A short walk can improve a person's mood.|Oxford 3000 · B1
+B1|Culture|native|adj./n.|bản địa; người bản xứ|The guide was written by a native speaker of English.|Oxford 3000 · B1
+B1|Communication|naturally|adv.|một cách tự nhiên|Children often learn new expressions naturally through conversation.|Oxford 3000 · B1
+B1|Writing|obvious|adj.|rõ ràng|The advantages are obvious, but the costs also matter.|Oxford 3000 · B1
+B1|Work|participate|v.|tham gia|All students are encouraged to participate in the discussion.|Oxford 3000 · B1
+B1|Communication|persuade|v.|thuyết phục|The evidence persuaded the council to reconsider its plan.|Oxford 3000 · B1
+B1|Society|poverty|n.|tình trạng nghèo|Access to education can help reduce poverty.|Oxford 3000 · B1
+B1|Writing|powerful|adj.|mạnh mẽ; có sức ảnh hưởng|The documentary presents a powerful message about conservation.|Oxford 3000 · B1
+B1|Health|pressure|n.|áp lực|Many students feel pressure to achieve high grades.|Oxford 3000 · B1
+B1|Work|profession|n.|nghề nghiệp|Teaching is a profession that requires patience and preparation.|Oxford 3000 · B1
+B1|Economy|profit|n.|lợi nhuận|The social enterprise reinvests its profit in local projects.|Oxford 3000 · B1
+B1|Communication|promote|v.|thúc đẩy; quảng bá|The campaign promotes healthy habits among young people.|Oxford 3000 · B1
+B1|Society|property|n.|tài sản; bất động sản|The law protects the property rights of local residents.|Oxford 3000 · B1
+B1|Communication|prove|v.|chứng minh|The study does not prove that the policy caused the change.|Oxford 3000 · B1
+B1|Society|punish|v.|trừng phạt|Some people believe that fines are an effective way to punish offenders.|Oxford 3000 · B1
+B1|Education|qualification|n.|bằng cấp; trình độ|The position requires a teaching qualification.|Oxford 3000 · B1
+B1|Community|queue|n./v.|hàng người xếp hàng; xếp hàng|Passengers queued for tickets before the concert.|Oxford 3000 · B1
+B1|Environment|rare|adj.|hiếm|The reserve protects several rare species of birds.|Oxford 3000 · B1
+B1|Writing|reaction|n.|phản ứng|The public reaction to the proposal was mixed.|Oxford 3000 · B1
+B1|Society|reality|n.|thực tế|The reality of studying online can differ from people's expectations.|Oxford 3000 · B1
+B1|Communication|recommendation|n.|lời khuyên; đề xuất|The report makes several recommendations for improving safety.|Oxford 3000 · B1
+B1|Writing|reflect|v.|phản ánh; suy ngẫm|The survey reflects the views of a wide range of residents.|Oxford 3000 · B1
+B1|Time|regularly|adv.|thường xuyên|The library regularly organises free events for families.|Oxford 3000 · B1
+B1|Communication|reject|v.|từ chối; bác bỏ|The committee rejected the proposal because it was too expensive.|Oxford 3000 · B1
+B1|Communication|relate|v.|liên hệ; có liên quan|The examples relate directly to the essay question.|Oxford 3000 · B1
+B1|Health|reliable|adj.|đáng tin cậy|Learners should use reliable sources when researching a topic.|Oxford 3000 · B1
+B1|Work|remain|v.|vẫn còn; duy trì|Some challenges remain despite recent improvements.|Oxford 3000 · B1
+B1|Communication|remind|v.|nhắc nhở|The email reminded applicants to include their contact details.|Oxford 3000 · B1
+B1|Technology|remote|adj.|từ xa; hẻo lánh|Remote learning can help students who live far from campus.|Oxford 3000 · B1
+B1|Society|resource|n.|nguồn lực; tài nguyên|The website is a useful resource for language learners.|Oxford 3000 · B1
+B1|Health|responsibility|n.|trách nhiệm|Individuals and governments share responsibility for public health.|Oxford 3000 · B1
+B2|Writing|assess|v.|đánh giá|The essay assesses both the benefits and the limitations of the policy.|Oxford 3000 · B2
+B2|Writing|aspect|n.|khía cạnh|Cost is only one aspect of the decision.|Oxford 3000 · B2
+B2|Writing|assume|v.|cho rằng; giả định|We should not assume that every student has a quiet place to study.|Oxford 3000 · B2
+B2|Work|attempt|n./v.|nỗ lực; cố gắng|The city made a second attempt to reduce traffic congestion.|Oxford 3000 · B2
+B2|Society|barrier|n.|rào cản|High fees remain a barrier to university access.|Oxford 3000 · B2
+B2|Writing|brief|adj.|ngắn gọn|The report gives a brief overview of the evidence.|Oxford 3000 · B2
+B2|Communication|broad|adj.|rộng; khái quát|The survey covers a broad range of age groups.|Oxford 3000 · B2
+B2|Economy|budget|n.|ngân sách|The council increased its budget for public libraries.|Oxford 3000 · B2
+B2|Science|calculate|v.|tính toán|Researchers calculated the average cost for each household.|Oxford 3000 · B2
+B2|Work|capable|adj.|có khả năng|The system is capable of processing large amounts of data.|Oxford 3000 · B2
+B2|Society|capacity|n.|khả năng; sức chứa|The centre has the capacity to serve 300 people a day.|Oxford 3000 · B2
+B2|Communication|circumstance|n.|hoàn cảnh|The best choice depends on each family's circumstances.|Oxford 3000 · B2
+B2|Education|cite|v.|trích dẫn|Students should cite their sources in academic assignments.|Oxford 3000 · B2
+B2|Society|citizen|n.|công dân|Citizens can submit feedback through the local council website.|Oxford 3000 · B2
+B2|Society|civil|adj.|dân sự; thuộc công dân|The organisation provides free legal advice on civil matters.|Oxford 3000 · B2
+B2|Society|collapse|n./v.|sự sụp đổ; sụp đổ|The old bridge could collapse without urgent repairs.|Oxford 3000 · B2
+B2|Work|commitment|n.|cam kết; sự tận tâm|The project requires a long-term commitment from all partners.|Oxford 3000 · B2
+B2|Education|complicated|adj.|phức tạp|The application process is more complicated than it needs to be.|Oxford 3000 · B2
+B2|Education|component|n.|thành phần|Feedback is a key component of effective language learning.|Oxford 3000 · B2
+B2|Education|concept|n.|khái niệm|The teacher introduced the concept with a practical example.|Oxford 3000 · B2
+B2|Writing|concern|n./v.|mối lo ngại; liên quan|One concern is whether rural residents can access the service.|Oxford 3000 · B2
+B2|Society|conflict|n.|xung đột|The new policy may create conflict between different groups.|Oxford 3000 · B2
+B2|Writing|conscious|adj.|nhận thức được|Consumers are becoming more conscious of the environmental cost of products.|Oxford 3000 · B2
+B2|Writing|consistent|adj.|nhất quán|The evidence is consistent with the results of earlier studies.|Oxford 3000 · B2
+B2|Writing|constant|adj.|liên tục; không đổi|Constant notifications can interrupt focused study.|Oxford 3000 · B2
+B2|Science|construct|v.|xây dựng|The researchers constructed a model to explain the trend.|Oxford 3000 · B2
+B2|Society|contemporary|adj.|đương đại|The course explores contemporary issues in urban life.|Oxford 3000 · B2
+B2|Writing|contribute|v.|đóng góp|Public parks contribute to residents' physical and mental wellbeing.|Oxford 3000 · B2
+B2|Writing|contribution|n.|sự đóng góp|The study makes a useful contribution to the debate.|Oxford 3000 · B2
+B2|Society|crisis|n.|khủng hoảng|The housing crisis has affected young families most severely.|Oxford 3000 · B2
+B2|Education|criterion|n.|tiêu chí|Clarity is one important criterion for assessing a presentation.|Oxford 3000 · B2
+B2|Writing|critical|adj.|mang tính then chốt; phê phán|Critical thinking helps learners evaluate online claims.|Oxford 3000 · B2
+B2|Writing|crucial|adj.|then chốt|Reliable childcare is crucial for many working parents.|Oxford 3000 · B2
+B2|Writing|decline|n./v.|sự suy giảm; suy giảm|The report describes a decline in local bus use.|Oxford 3000 · B2
+B2|Communication|demonstrate|v.|chứng minh; thể hiện|The results demonstrate the value of early support.|Oxford 3000 · B2
+B2|Society|demand|n./v.|nhu cầu; yêu cầu|Demand for affordable housing continues to rise.|Oxford 3000 · B2
+B2|Writing|deliberate|adj.|có chủ ý; cân nhắc kỹ|The committee took a deliberate approach to the reform.|Oxford 3000 · B2
+B2|Education|emphasis|n.|sự nhấn mạnh|The course places emphasis on communication skills.|Oxford 3000 · B2
+B2|Writing|enable|v.|cho phép; giúp có thể|Digital tools enable students to collaborate across distance.|Oxford 3000 · B2
+B2|Work|engage|v.|tham gia; thu hút|The teacher used a debate to engage the whole class.|Oxford 3000 · B2
+B2|Communication|ensure|v.|đảm bảo|Clear instructions ensure that everyone understands the task.|Oxford 3000 · B2
+B2|Communication|establish|v.|thiết lập; xác lập|The study established a link between sleep and concentration.|Oxford 3000 · B2
+B2|Communication|entirely|adv.|hoàn toàn|The two groups had entirely different experiences.|Oxford 3000 · B2
+B2|Writing|enhance|v.|nâng cao|Public investment can enhance the quality of local services.|Oxford 3000 · B2
+B2|Work|efficient|adj.|hiệu quả|An efficient booking system can reduce waiting times.|Oxford 3000 · B2
+B2|Writing|emerge|v.|xuất hiện; nổi lên|A different pattern emerged when the data was analysed by age.|Oxford 3000 · B2
+B2|Writing|entire|adj.|toàn bộ|The entire process can be completed online.|Oxford 3000 · B2
+B2|Work|estimate|v./n.|ước tính; sự ước tính|Experts estimate that the project will take two years.|Oxford 3000 · B2
+B2|Education|evaluate|v.|đánh giá|Students should evaluate the reliability of each source.|Oxford 3000 · B2
+B1|Writing|function|n.|chức năng|One function of local libraries is to provide free internet access.|Oxford 3000 · B1
+B2|Work|funding|n.|nguồn kinh phí|Long-term funding is necessary to maintain the service.|Oxford 3000 · B2
+B2|Society|furthermore|adv.|hơn nữa|Furthermore, the scheme could benefit residents in rural areas.|Oxford 3000 · B2
+B1|Writing|impact|n.|tác động|The policy had a measurable impact on attendance.|Oxford 3000 · B1
+B2|Writing|maintain|v.|duy trì|The city must maintain its parks as well as build new ones.|Oxford 3000 · B2
+B1|Education|occur|v.|xảy ra|Most errors occur when instructions are unclear.|Oxford 3000 · B1
+B1|Writing|policy|n.|chính sách|The policy aims to make public transport more accessible.|Oxford 3000 · B1
+B2|Writing|potential|adj./n.|tiềm năng|The project has the potential to create new employment opportunities.|Oxford 3000 · B2
+B2|Writing|principle|n.|nguyên tắc|The proposal is based on the principle of equal access.|Oxford 3000 · B2
+B2|Writing|significant|adj.|đáng kể; quan trọng|The change led to a significant improvement in attendance.|Oxford 3000 · B2
+B1|Writing|strategy|n.|chiến lược|A long-term strategy is needed to improve urban air quality.|Oxford 3000 · B1
+B2|Society|treatment|n.|cách đối xử; sự điều trị|Fair treatment at work improves staff morale.|Oxford 3000 · B2
+B2|Writing|trend|n.|xu hướng|The report identifies a trend towards remote work.|Oxford 3000 · B2
+B2|Writing|vary|v.|thay đổi; khác nhau|The cost of housing varies considerably between regions.|Oxford 3000 · B2
+B2|Writing|whereas|conj.|trong khi; trái lại|Some prefer written feedback, whereas others learn better from discussion.|Oxford 3000 · B2
+B2|Society|welfare|n.|phúc lợi|The programme provides welfare support to vulnerable families.|Oxford 5000 · B2
+B2|Society|workforce|n.|lực lượng lao động|The workforce needs more training in digital skills.|Oxford 5000 · B2
+B2|Society|workplace|n.|nơi làm việc|A respectful workplace can improve staff wellbeing.|Oxford 5000 · B2
+C1|Society|abolish|v.|bãi bỏ|The city voted to abolish the outdated regulation.|Oxford 5000 · C1
+C1|Society|abundance|n.|sự dồi dào|An abundance of online material does not guarantee reliable knowledge.|Oxford 5000 · C1
+C1|Society|accountability|n.|trách nhiệm giải trình|Public accountability is essential when algorithms affect access to services.|Oxford 5000 · C1
+C1|Society|accountable|adj.|chịu trách nhiệm giải trình|Decision-makers should be accountable for the outcomes of public policy.|Oxford 5000 · C1
+C1|Writing|accumulate|v.|tích lũy|Small disadvantages can accumulate over a person's lifetime.|Oxford 5000 · C1
+C1|Society|acquisition|n.|sự tiếp thu; sự mua lại|Language acquisition is shaped by both exposure and practice.|Oxford 5000 · C1
+C1|Society|activist|n.|nhà hoạt động|The activist called for stronger protection of public spaces.|Oxford 5000 · C1
+C1|Health|acute|adj.|cấp tính; nghiêm trọng|The region faces an acute shortage of trained health workers.|Oxford 5000 · C1
+C1|Writing|adhere|v.|tuân thủ|All applicants must adhere to the published guidelines.|Oxford 5000 · C1
+C1|Society|adverse|adj.|bất lợi; có hại|Long commutes can have adverse effects on wellbeing.|Oxford 5000 · C1
+C1|Writing|advocate|v./n.|ủng hộ; người ủng hộ|Several researchers advocate a gradual transition to the new system.|Oxford 5000 · C1
+C1|Writing|albeit|conj.|mặc dù|The policy has improved access, albeit unevenly across regions.|Oxford 5000 · C1
+C1|Society|align|v.|căn chỉnh; thống nhất|The training should align with the needs of local employers.|Oxford 5000 · C1
+C1|Society|allege|v.|cáo buộc|The report alleges that the data was used without consent.|Oxford 5000 · C1
+C1|Society|allocate|v.|phân bổ|The council should allocate more funding to preventive care.|Oxford 5000 · C1
+C1|Writing|amend|v.|sửa đổi|The committee amended the proposal after public consultation.|Oxford 5000 · C1
+C1|Writing|analogy|n.|phép so sánh tương tự|The author uses an analogy to explain how the system operates.|Oxford 5000 · C1
+C1|Writing|anonymous|adj.|ẩn danh|Anonymous feedback may encourage more honest responses.|Oxford 5000 · C1
+C1|Writing|arguably|adv.|có thể cho rằng|Public transport is arguably the most inclusive option.|Oxford 5000 · C1
+C1|Writing|articulate|v.|diễn đạt rõ ràng|Candidates should articulate their position before presenting evidence.|Oxford 5000 · C1
+C1|Writing|aspiration|n.|khát vọng|The policy reflects a broader aspiration for social mobility.|Oxford 5000 · C1
+C1|Writing|assert|v.|khẳng định|The author asserts that access alone cannot guarantee equal outcomes.|Oxford 5000 · C1
+C1|Writing|attain|v.|đạt được|Few students attain their full potential without adequate support.|Oxford 5000 · C1
+C1|Writing|attribute|v.|quy cho; cho là do|It would be simplistic to attribute the change to one cause.|Oxford 5000 · C1
+C1|Society|autonomy|n.|quyền tự chủ|Learners benefit from autonomy, provided that guidance is available.|Oxford 5000 · C1
+C1|Education|benchmark|n./v.|tiêu chuẩn đối chiếu|The school uses national data as a benchmark for progress.|Oxford 5000 · C1
+C1|Society|beneficiary|n.|người thụ hưởng|The intended beneficiaries should be consulted during programme design.|Oxford 5000 · C1
+C1|Society|boundary|n.|ranh giới|Digital platforms have blurred the boundary between work and leisure.|Oxford 5000 · C1
+C1|Society|bureaucracy|n.|bộ máy quan liêu|Excessive bureaucracy can delay access to essential services.|Oxford 5000 · C1
+C1|Writing|capability|n.|năng lực|The project will strengthen the research capability of local teams.|Oxford 5000 · C1
+C1|Economy|capitalism|n.|chủ nghĩa tư bản|The chapter examines how capitalism shapes patterns of consumption.|Oxford 5000 · C1
+C1|Society|casualty|n.|thương vong|The report recorded fewer road casualties after the changes.|Oxford 5000 · C1
+C1|Writing|cautious|adj.|thận trọng|A cautious interpretation is appropriate when the evidence is limited.|Oxford 5000 · C1
+C1|Writing|cease|v.|chấm dứt|The organisation ceased operations after funding was withdrawn.|Oxford 5000 · C1
+C1|Society|civic|adj.|thuộc công dân; cộng đồng|Civic participation can strengthen trust in local institutions.|Oxford 5000 · C1
+C1|Education|cognitive|adj.|thuộc nhận thức|The study considers the cognitive demands of multitasking.|Oxford 5000 · C1
+C1|Science|coincide|v.|trùng hợp; đồng thời xảy ra|The rise in enrolment coincided with the introduction of scholarships.|Oxford 5000 · C1
+C1|Work|collaborate|v.|cộng tác|Universities can collaborate with local organisations on research.|Oxford 5000 · C1
+C1|Writing|compel|v.|buộc; khiến|The evidence may compel policymakers to reconsider the proposal.|Oxford 5000 · C1
+C1|Writing|compelling|adj.|thuyết phục; hấp dẫn|The report presents a compelling case for early intervention.|Oxford 5000 · C1
+C1|Economy|compensate|v.|bù đắp|Higher wages may compensate for the cost of living in the city.|Oxford 5000 · C1
+C1|Education|competence|n.|năng lực|Communicative competence develops through meaningful interaction.|Oxford 5000 · C1
+C1|Education|compliance|n.|sự tuân thủ|Compliance with safety standards should be monitored regularly.|Oxford 5000 · C1
+C1|Writing|concede|v.|thừa nhận|The writer concedes that the alternative has some advantages.|Oxford 5000 · C1
+C1|Writing|conception|n.|quan niệm|This conception of success places too much emphasis on income.|Oxford 5000 · C1
+C1|Writing|consensus|n.|sự đồng thuận|There is no consensus on the best way to regulate the technology.|Oxford 5000 · C1
+C1|Writing|constraint|n.|sự hạn chế; ràng buộc|Limited funding remains a major constraint on the programme.|Oxford 5000 · C1
+C1|Writing|contemplate|v.|cân nhắc|Policymakers should contemplate the long-term consequences.|Oxford 5000 · C1
+C1|Society|discourse|n.|diễn ngôn; cuộc thảo luận|The issue has become central to public discourse.|Oxford 5000 · C1
+C1|Society|discrimination|n.|sự phân biệt đối xử|The new rules aim to prevent discrimination in recruitment.|Oxford 5000 · C1
+C1|Society|disrupt|v.|làm gián đoạn; phá vỡ|Severe weather can disrupt public transport for days.|Oxford 5000 · C1
+C1|Writing|distinction|n.|sự phân biệt|The essay makes a useful distinction between access and participation.|Oxford 5000 · C1
+C1|Writing|distort|v.|bóp méo|A small sample may distort the apparent pattern.|Oxford 5000 · C1
+C1|Science|ecological|adj.|thuộc sinh thái|The policy must account for ecological effects on coastal habitats.|Oxford 5000 · C1
+C1|Education|empirical|adj.|dựa trên thực nghiệm|The claim should be supported by empirical evidence.|Oxford 5000 · C1
+C1|Society|empower|v.|trao quyền|Community programmes can empower residents to shape local decisions.|Oxford 5000 · C1
+C1|Writing|encompass|v.|bao hàm; bao gồm|The assessment encompasses both individual and group work.|Oxford 5000 · C1
+C1|Society|endorse|v.|tán thành; ủng hộ|The committee endorsed the plan after reviewing the evidence.|Oxford 5000 · C1
+C1|Society|enforce|v.|thực thi|Authorities need clear procedures to enforce the regulation.|Oxford 5000 · C1
+C1|Society|equality|n.|sự bình đẳng|Equality of opportunity requires more than identical treatment.|Oxford 5000 · C1
+C1|Writing|escalate|v.|leo thang|Without early action, minor disputes may escalate.|Oxford 5000 · C1
+C1|Writing|essence|n.|bản chất|At its essence, the debate concerns fairness and access.|Oxford 5000 · C1
+C1|Society|evacuate|v.|sơ tán|Residents were advised to evacuate the area before the storm.|Oxford 5000 · C1
+C1|Communication|evoke|v.|gợi lên|The novel evokes a strong sense of belonging.|Oxford 5000 · C1
+C1|Writing|exaggerate|v.|phóng đại|It would be inaccurate to exaggerate the impact of one intervention.|Oxford 5000 · C1
+C1|Writing|exclusion|n.|sự loại trừ|The policy should prevent the exclusion of low-income households.|Oxford 5000 · C1
+C1|Work|flexibility|n.|tính linh hoạt|Flexible working can improve access for carers and parents.|Oxford 5000 · C1
+C1|Society|governance|n.|quản trị|Transparent governance helps maintain public confidence.|Oxford 5000 · C1
+C1|Writing|hierarchy|n.|thứ bậc|The organisation has a clear hierarchy for decision-making.|Oxford 5000 · C1
+C1|Society|humanitarian|adj.|nhân đạo|The agency provided humanitarian assistance after the floods.|Oxford 5000 · C1
+C1|Writing|implementation|n.|việc triển khai|Successful implementation depends on staff training and funding.|Oxford 5000 · C1
+C1|Society|inadequate|adj.|không đầy đủ|Inadequate public transport can limit access to employment.|Oxford 5000 · C1
+C1|Writing|inherent|adj.|vốn có; cố hữu|Some uncertainty is inherent in long-term forecasting.|Oxford 5000 · C1
+C1|Society|inequality|n.|bất bình đẳng|The report explores how inequality affects educational outcomes.|Oxford 5000 · C1
+C1|Writing|influential|adj.|có ảnh hưởng|The review was influential in shaping later policy.|Oxford 5000 · C1
+C1|Education|integrity|n.|tính chính trực; liêm chính|Academic integrity requires students to acknowledge their sources.|Oxford 5000 · C1
+C1|Society|institutional|adj.|thuộc thể chế|Institutional change often takes longer than expected.|Oxford 5000 · C1
+B1|Communication|operation|n.|hoạt động; sự vận hành|The new system began operation at the start of the month.|Oxford 3000 · B1
+B1|Community|organizer|n.|người tổ chức|The event organizer invited local schools to take part.|Oxford 3000 · B1
+B1|Communication|originally|adv.|ban đầu|The library was originally built as a small school.|Oxford 3000 · B1
+B1|Community|outdoor|adj.|ngoài trời|The centre offers outdoor activities for children.|Oxford 3000 · B1
+B1|Community|peaceful|adj.|yên bình|The village is peaceful during the winter months.|Oxford 3000 · B1
+B1|Communication|percentage|n.|tỷ lệ phần trăm|A high percentage of students completed the online survey.|Oxford 3000 · B1
+B1|Work|performance|n.|hiệu suất; màn trình diễn|Regular practice improved her performance in the speaking test.|Oxford 3000 · B1
+B1|Communication|personally|adv.|cá nhân; theo ý kiến cá nhân|Personally, I would choose the option that benefits more residents.|Oxford 3000 · B1
+B1|Society|political|adj.|thuộc chính trị|The students discussed political participation in class.|Oxford 3000 · B1
+B1|Society|politician|n.|chính trị gia|The politician answered questions from local residents.|Oxford 3000 · B1
+B1|Society|politics|n.|chính trị|The course introduces students to local politics.|Oxford 3000 · B1
+B1|Communication|possibly|adv.|có thể|The meeting will possibly take place online.|Oxford 3000 · B1
+B1|Society|prepared|adj.|đã chuẩn bị|The team was prepared for questions from the audience.|Oxford 3000 · B1
+B1|Education|presentation|n.|bài thuyết trình|Each student gave a short presentation on a local issue.|Oxford 3000 · B1
+B1|Work|previous|adj.|trước đó|Previous experience is helpful but not essential for the role.|Oxford 3000 · B1
+B1|Education|primary|adj.|tiểu học; chủ yếu|The project focuses on primary education in rural areas.|Oxford 3000 · B1
+B1|Work|producer|n.|nhà sản xuất|The local producer sells fresh food at the market.|Oxford 3000 · B1
+B1|Community|protest|n./v.|cuộc biểu tình; phản đối|Residents organised a peaceful protest about the construction plan.|Oxford 3000 · B1
+B1|Communication|proud|adj.|tự hào|The students were proud of the community project they completed.|Oxford 3000 · B1
+B1|Communication|punishment|n.|hình phạt|Some schools use discussion rather than punishment to address minor behaviour problems.|Oxford 3000 · B1
+B1|Communication|quotation|n.|lời trích dẫn|The essay includes a quotation from the original report.|Oxford 3000 · B1
+B1|Communication|quote|v./n.|trích dẫn; câu trích dẫn|The speaker quoted a recent study to support her point.|Oxford 3000 · B1
+B1|Community|racing|n.|đua xe; cuộc đua|The town holds bicycle racing events each summer.|Oxford 3000 · B1
+B1|Writing|range|n.|phạm vi; nhiều loại|The course covers a wide range of everyday topics.|Oxford 3000 · B1
+B1|Communication|rarely|adv.|hiếm khi|The bus rarely arrives late during the daytime.|Oxford 3000 · B1
+B1|Communication|reference|n.|tài liệu tham khảo; sự đề cập|The guide includes references for further reading.|Oxford 3000 · B1
+B1|Society|religion|n.|tôn giáo|The museum explains the role of religion in local history.|Oxford 3000 · B1
+B1|Communication|religious|adj.|thuộc tôn giáo|The city is home to several religious communities.|Oxford 3000 · B1
+B1|Communication|reservation|n.|việc đặt chỗ|We made a reservation before travelling to the city.|Oxford 3000 · B1
+B1|Society|respect|n./v.|sự tôn trọng; tôn trọng|Schools should teach respect for different opinions.|Oxford 3000 · B1
+B1|Work|retire|v.|nghỉ hưu|She plans to retire after 30 years of teaching.|Oxford 3000 · B1
+B1|Education|revise|v.|ôn tập; chỉnh sửa|I revise my notes each evening before the exam.|Oxford 3000 · B1
+B1|Health|risk|n.|rủi ro|Regular exercise can reduce the risk of heart disease.|Oxford 3000 · B1
+B1|Society|safety|n.|sự an toàn|Road safety is a major concern for parents.|Oxford 3000 · B1
+B1|Environment|scientific|adj.|thuộc khoa học|The article presents scientific evidence about climate change.|Oxford 3000 · B1
+B1|Community|security|n.|an ninh; sự bảo đảm|Better street lighting can improve security at night.|Oxford 3000 · B1
+B1|Writing|seriously|adv.|nghiêm túc|The issue should be taken seriously by local authorities.|Oxford 3000 · B1
+B1|Communication|setting|n.|bối cảnh; môi trường|The research took place in a school setting.|Oxford 3000 · B1
+B1|Environment|soil|n.|đất|Farmers need healthy soil to grow crops successfully.|Oxford 3000 · B1
+B1|Communication|specifically|adv.|cụ thể|The survey asks specifically about public transport access.|Oxford 3000 · B1
+B1|Health|strength|n.|sức mạnh; điểm mạnh|One strength of the proposal is its low cost.|Oxford 3000 · B1
+B1|Communication|successfully|adv.|thành công|The team successfully completed the project on time.|Oxford 3000 · B1
+B1|Health|suffer|v.|chịu đựng; mắc phải|People may suffer from stress when they have too little time to rest.|Oxford 3000 · B1
+B1|Health|suitable|adj.|phù hợp|The library provides a suitable place for quiet study.|Oxford 3000 · B1
+B1|Communication|summarize|v.|tóm tắt|At the end, summarize the main reasons for your choice.|Oxford 3000 · B1
+B1|Communication|summary|n.|bản tóm tắt|The report begins with a summary of its main findings.|Oxford 3000 · B1
+B2|Writing|appeal|n./v.|sức hấp dẫn; kháng nghị|The proposal may appeal to people who commute by bus.|Oxford 3000 · B2
+B2|Writing|appropriate|adj.|phù hợp|It is appropriate to consider the needs of older residents.|Oxford 3000 · B2
+B2|Writing|approval|n.|sự chấp thuận|The project cannot begin without official approval.|Oxford 3000 · B2
+B2|Communication|arise|v.|nảy sinh|Problems may arise when the instructions are unclear.|Oxford 3000 · B2
+B2|Technology|artificial|adj.|nhân tạo|Artificial intelligence is changing some routine tasks.|Oxford 3000 · B2
+B2|Culture|artistic|adj.|thuộc nghệ thuật|The neighbourhood has a strong artistic community.|Oxford 3000 · B2
+B2|Society|bacteria|n.|vi khuẩn|Some bacteria are useful in food production.|Oxford 3000 · B2
+B2|Society|basically|adv.|về cơ bản|Basically, the proposal offers more choice to students.|Oxford 3000 · B2
+B2|Society|beyond|prep./adv.|vượt quá; ngoài|The benefits of the programme extend beyond the classroom.|Oxford 3000 · B2
+B2|Writing|blame|n./v.|đổ lỗi; trách nhiệm|It is unhelpful to blame individuals for a wider social problem.|Oxford 3000 · B2
+B2|Communication|bond|n.|mối liên kết|Shared activities can create a stronger bond between neighbours.|Oxford 3000 · B2
+B2|Writing|characteristic|n./adj.|đặc điểm; đặc trưng|Flexibility is a characteristic of many online courses.|Oxford 3000 · B2
+B2|Society|closely|adv.|một cách chặt chẽ|The researchers closely examined the responses.|Oxford 3000 · B2
+B2|Society|commonly|adv.|phổ biến|This expression is commonly used in formal writing.|Oxford 3000 · B2
+B2|Writing|consideration|n.|sự cân nhắc|Cost is an important consideration for students.|Oxford 3000 · B2
+B2|Society|council|n.|hội đồng|The council plans to improve the local bus network.|Oxford 3000 · B2
+B2|Society|county|n.|hạt; đơn vị hành chính|The programme is available across the county.|Oxford 3000 · B2
+B2|Society|courage|n.|lòng can đảm|It takes courage to speak openly about mental health.|Oxford 3000 · B2
+B2|Science|creation|n.|sự tạo ra|The creation of new parks can improve urban life.|Oxford 3000 · B2
+B2|Society|debt|n.|nợ|High levels of student debt can affect career choices.|Oxford 3000 · B2
+B2|Writing|declare|v.|tuyên bố|The organisation declared its support for the new policy.|Oxford 3000 · B2
+B2|Writing|decrease|n./v.|sự giảm; giảm|The campaign led to a decrease in single-use plastic bags.|Oxford 3000 · B2
+B2|Writing|defence|n.|sự bảo vệ; biện hộ|The report includes a defence of the proposed changes.|Oxford 3000 · B2
+B2|Writing|delay|n./v.|sự trì hoãn; trì hoãn|A lack of funding may delay the construction work.|Oxford 3000 · B2
+B2|Writing|deliberately|adv.|có chủ ý|The writer deliberately presents both sides of the debate.|Oxford 3000 · B2
+B2|Communication|deny|v.|phủ nhận|The company denied that customer data had been shared.|Oxford 3000 · B2
+B2|Health|depth|n.|độ sâu; chiều sâu|The course explores the topic in greater depth.|Oxford 3000 · B2
+B2|Work|deserve|v.|xứng đáng|Employees deserve fair treatment and clear expectations.|Oxford 3000 · B2
+B2|Writing|detail|n.|chi tiết|The essay needs more detail to explain this point.|Oxford 3000 · B2
+B2|Science|detect|v.|phát hiện|The device can detect small changes in air quality.|Oxford 3000 · B2
+B2|Education|discipline|n.|môn học; kỷ luật|The programme brings together students from different disciplines.|Oxford 3000 · B2
+B2|Writing|display|v./n.|thể hiện; trưng bày|The chart displays changes in household spending.|Oxford 3000 · B2
+B2|Society|distribution|n.|sự phân phối|The report examines the distribution of public funding.|Oxford 3000 · B2
+B2|Society|domestic|adj.|trong nước; nội địa|Domestic tourism supports many small businesses.|Oxford 3000 · B2
+B2|Society|dramatic|adj.|đáng kể; kịch tính|The city has seen a dramatic rise in housing costs.|Oxford 3000 · B2
+B2|Society|elderly|adj.|cao tuổi|The service provides transport for elderly residents.|Oxford 3000 · B2
+B2|Society|emotional|adj.|thuộc cảm xúc|The documentary had a strong emotional effect on viewers.|Oxford 3000 · B2
+B2|Communication|encounter|v./n.|gặp phải; cuộc gặp|New students may encounter difficulties during their first semester.|Oxford 3000 · B2
+B2|Writing|enthusiasm|n.|sự nhiệt tình|Her enthusiasm encouraged others to join the project.|Oxford 3000 · B2
+B2|Writing|estate|n.|khu đất; bất động sản|The council plans to build a health centre on the estate.|Oxford 3000 · B2
+B1|Writing|equal|adj.|bình đẳng|The policy aims to give all applicants an equal opportunity.|Oxford 3000 · B1
+B1|Education|environmental|adj.|thuộc môi trường|Environmental education can influence everyday choices.|Oxford 3000 · B1
+B1|Communication|eventually|adv.|cuối cùng|The partners eventually reached an agreement.|Oxford 3000 · B1
+B2|Writing|examine|v.|xem xét; kiểm tra|The essay examines the costs and benefits of remote work.|Oxford 3000 · B2
+B1|Communication|exchange|n./v.|trao đổi|The programme encourages an exchange of ideas between schools.|Oxford 3000 · B1
+B2|Society|existence|n.|sự tồn tại|The existence of a policy does not guarantee that it works well.|Oxford 3000 · B2
+B1|Writing|expand|v.|mở rộng|The university plans to expand its student support services.|Oxford 3000 · B1
+B2|Education|expectation|n.|kỳ vọng|Clear expectations help students manage group projects.|Oxford 3000 · B2
+B1|Writing|experiment|n./v.|thí nghiệm; thử nghiệm|The school experimented with a shorter timetable.|Oxford 3000 · B1
+B1|Communication|explore|v.|khám phá; tìm hiểu|The discussion explores several possible solutions.|Oxford 3000 · B1
+B2|Society|familiar|adj.|quen thuộc|The examples are familiar to most university students.|Oxford 3000 · B2
+B1|Writing|financial|adj.|thuộc tài chính|Financial barriers can prevent people from accessing healthcare.|Oxford 3000 · B1
+B1|Writing|frequently|adv.|thường xuyên|The issue is frequently discussed in local newspapers.|Oxford 3000 · B1
+B1|Society|generation|n.|thế hệ|Different generations may have different attitudes to technology.|Oxford 3000 · B1
+B1|Society|global|adj.|toàn cầu|Global cooperation is needed to address climate change.|Oxford 3000 · B1
+B1|Writing|growth|n.|sự tăng trưởng|Economic growth can create new employment opportunities.|Oxford 3000 · B1
+B2|Writing|identify|v.|xác định; nhận diện|The survey helped identify the main barriers to participation.|Oxford 3000 · B2
+B1|Society|illegal|adj.|bất hợp pháp|Illegal dumping can damage local waterways.|Oxford 3000 · B1
+B2|Writing|immediate|adj.|ngay lập tức|The policy had an immediate effect on bus fares.|Oxford 3000 · B2
+B1|Writing|improvement|n.|sự cải thiện|There has been a steady improvement in student attendance.|Oxford 3000 · B1
+B1|Society|influence|n./v.|ảnh hưởng|Social media can influence how people form opinions.|Oxford 3000 · B1
+B1|Writing|intention|n.|ý định|The intention is to make the service easier to access.|Oxford 3000 · B1
+B1|Work|investigate|v.|điều tra; nghiên cứu|The committee will investigate the causes of the delay.|Oxford 3000 · B1
+B1|Writing|issue|n.|vấn đề|The article discusses the issue of unequal access to education.|Oxford 3000 · B1
+B1|Writing|management|n.|sự quản lý|Effective project management helps teams meet deadlines.|Oxford 3000 · B1
+B1|Science|measure|n./v.|biện pháp; đo lường|The researchers measured air quality in several districts.|Oxford 3000 · B1
+B1|Health|mental|adj.|thuộc tinh thần|The campaign raises awareness of mental health support.|Oxford 3000 · B1
+B1|Society|nation|n.|quốc gia|The policy was discussed across the nation.|Oxford 3000 · B1
+B1|Communication|similarity|n.|điểm tương đồng|The report notes a similarity between the two approaches.|Oxford 3000 · B1
+B1|Writing|software|n.|phần mềm|The software allows students to record and review their answers.|Oxford 3000 · B1
+B1|Writing|standard|n./adj.|tiêu chuẩn; tiêu chuẩn hóa|The service should meet a consistent standard across all districts.|Oxford 3000 · B1
+B2|Work|supporter|n.|người ủng hộ|Supporters argue that the change will benefit small businesses.|Oxford 3000 · B2
+B2|Health|symptom|n.|triệu chứng|Fatigue can be a symptom of prolonged stress.|Oxford 3000 · B2
+B2|Work|technique|n.|kỹ thuật|The teacher introduced a technique for planning essays quickly.|Oxford 3000 · B2
+B2|Writing|theory|n.|lý thuyết|The theory is useful, but it needs to be tested in practice.|Oxford 3000 · B2
+B2|Writing|throughout|prep./adv.|xuyên suốt|The same standard should apply throughout the organisation.|Oxford 3000 · B2
+B2|Society|unemployment|n.|thất nghiệp|Job training can help reduce youth unemployment.|Oxford 3000 · B2
+B2|Communication|unfair|adj.|không công bằng|Many residents consider the current system unfair.|Oxford 3000 · B2
+B2|Society|valuable|adj.|có giá trị|Volunteering gives students valuable experience.|Oxford 3000 · B2
+B2|Communication|various|adj.|nhiều; đa dạng|The report considers various ways to improve access.|Oxford 3000 · B2
+B2|Society|victim|n.|nạn nhân|The service provides legal advice to victims of fraud.|Oxford 3000 · B2
+B2|Work|volunteer|n./v.|tình nguyện viên; tình nguyện|Local volunteers helped distribute food after the storm.|Oxford 3000 · B2
+B2|Society|warning|n.|cảnh báo|The agency issued a warning about extreme heat.|Oxford 3000 · B2
+B2|Writing|within|prep.|trong phạm vi|The project must be completed within six months.|Oxford 3000 · B2
+B2|Society|youth|n.|thanh thiếu niên; tuổi trẻ|The programme aims to improve youth employment.|Oxford 3000 · B2
+C1|Society|adolescent|n.|thanh thiếu niên|Adolescents need reliable guidance when using social media.|Oxford 5000 · C1
+C1|Writing|aesthetic|adj.|thuộc thẩm mỹ|The design balances aesthetic appeal with practical needs.|Oxford 5000 · C1
+C1|Society|aftermath|n.|hậu quả|The community worked together in the aftermath of the flood.|Oxford 5000 · C1
+C1|Society|aggression|n.|sự hung hăng|The research explored how stress may influence aggression.|Oxford 5000 · C1
+C1|Writing|allegation|n.|lời cáo buộc|The organisation denied the allegation and requested an independent review.|Oxford 5000 · C1
+C1|Society|alliance|n.|liên minh|The universities formed an alliance to share research resources.|Oxford 5000 · C1
+C1|Writing|allocation|n.|sự phân bổ|The allocation of public funds should reflect local needs.|Oxford 5000 · C1
+C1|Society|ambassador|n.|đại sứ|The ambassador spoke about educational cooperation between the countries.|Oxford 5000 · C1
+C1|Writing|arbitrary|adj.|tùy tiện|The rules should be transparent rather than arbitrary.|Oxford 5000 · C1
+C1|Writing|archive|n./v.|kho lưu trữ; lưu trữ|The archive preserves letters that document the city's history.|Oxford 5000 · C1
+C1|Society|arena|n.|đấu trường; lĩnh vực|Education has become a central arena for public debate.|Oxford 5000 · C1
+C1|Writing|array|n.|một loạt|The report outlines an array of possible responses.|Oxford 5000 · C1
+C1|Society|assault|n./v.|sự tấn công; tấn công|The campaign addresses violence and assault in public spaces.|Oxford 5000 · C1
+C1|Writing|assurance|n.|sự đảm bảo|Residents asked for assurance that the project would not raise rents.|Oxford 5000 · C1
+C1|Society|backdrop|n.|bối cảnh|The debate took place against a backdrop of rising living costs.|Oxford 5000 · C1
+C1|Work|backing|n.|sự ủng hộ; hỗ trợ|The initiative received backing from local employers.|Oxford 5000 · C1
+C1|Writing|ballot|n.|lá phiếu; cuộc bỏ phiếu|Members selected the proposal in a secret ballot.|Oxford 5000 · C1
+C1|Society|behalf|n.|thay mặt|The charity collected donations on behalf of families affected by the storm.|Oxford 5000 · C1
+C1|Education|biography|n.|tiểu sử|The biography describes the scientist's early education.|Oxford 5000 · C1
+C1|Writing|breakthrough|n.|bước đột phá|The discovery was a breakthrough in renewable energy storage.|Oxford 5000 · C1
+C1|Society|burden|n.|gánh nặng|High housing costs place a burden on young workers.|Oxford 5000 · C1
+C1|Writing|caution|n.|sự thận trọng|The findings should be interpreted with caution.|Oxford 5000 · C1
+C1|Society|chronic|adj.|mãn tính; kéo dài|Chronic stress can undermine concentration and sleep.|Oxford 5000 · C1
+C1|Society|clarity|n.|sự rõ ràng|Greater clarity is needed about how the policy will be applied.|Oxford 5000 · C1
+C1|Society|coalition|n.|liên minh; liên hiệp|A coalition of community groups called for safer streets.|Oxford 5000 · C1
+C1|Writing|collective|adj.|tập thể|The issue requires collective action from governments and businesses.|Oxford 5000 · C1
+C1|Writing|compromise|n./v.|thỏa hiệp; thỏa hiệp|The final plan was a compromise between cost and accessibility.|Oxford 5000 · C1
+C1|Writing|confront|v.|đối mặt; đương đầu|Policymakers must confront the long-term effects of the decision.|Oxford 5000 · C1
+C1|Writing|consecutive|adj.|liên tiếp|The service was disrupted for three consecutive days.|Oxford 5000 · C1
+C1|Writing|conserve|v.|bảo tồn; tiết kiệm|The programme encourages households to conserve water.|Oxford 5000 · C1
+C1|Writing|consolidate|v.|củng cố; hợp nhất|The second year of study helps learners consolidate their skills.|Oxford 5000 · C1
+C1|Society|contempt|n.|sự khinh miệt|Public debate should address disagreement without contempt.|Oxford 5000 · C1
+C1|Writing|contradiction|n.|mâu thuẫn|There is a contradiction between the stated goals and the budget.|Oxford 5000 · C1
+C1|Writing|counterpart|n.|đối tác tương ứng|The local office worked with its counterpart in another province.|Oxford 5000 · C1
+C1|Writing|courtesy|n.|sự lịch thiệp|The email was firm but maintained a tone of courtesy.|Oxford 5000 · C1
+C1|Society|disclose|v.|tiết lộ|The company must disclose how it uses customer information.|Oxford 5000 · C1
+C1|Writing|discretion|n.|sự thận trọng; quyền tự quyết|Teachers need discretion to adapt activities to their classes.|Oxford 5000 · C1
+C1|Society|displace|v.|di dời; thay thế|Rising rents can displace long-term residents.|Oxford 5000 · C1
+C1|Writing|distinctive|adj.|đặc trưng|The neighbourhood has a distinctive architectural style.|Oxford 5000 · C1
+C1|Society|dominance|n.|sự thống trị|The dominance of a few platforms raises competition concerns.|Oxford 5000 · C1
+C1|Education|educator|n.|nhà giáo dục|Educators are adapting lessons to include digital literacy.|Oxford 5000 · C1
+C1|Work|efficiency|n.|hiệu suất; hiệu quả|The new process improved efficiency without reducing service quality.|Oxford 5000 · C1
+C1|Society|eligible|adj.|đủ điều kiện|Only eligible applicants can receive financial support.|Oxford 5000 · C1
+C1|Writing|embody|v.|thể hiện; hiện thân|The proposal embodies the principle of equal access.|Oxford 5000 · C1
+C1|Society|endure|v.|chịu đựng; kéo dài|Many residents had to endure months of construction noise.|Oxford 5000 · C1
+C1|Society|enterprise|n.|doanh nghiệp; tinh thần chủ động|The programme supports social enterprise in rural areas.|Oxford 5000 · C1
+C1|Writing|entity|n.|thực thể|Each organisation is treated as a separate legal entity.|Oxford 5000 · C1
+C1|Science|epidemic|n.|dịch bệnh; sự lan tràn|The report describes loneliness as a growing public health concern, not an epidemic.|Oxford 5000 · C1
+C1|Writing|equation|n.|phương trình; sự cân bằng|The policy debate is not a simple equation of cost and benefit.|Oxford 5000 · C1
+C1|Society|evolutionary|adj.|thuộc tiến hóa|The article considers evolutionary explanations of cooperation.|Oxford 5000 · C1
+C1|Writing|exceptional|adj.|đặc biệt; xuất sắc|The scheme provides exceptional support to first-generation students.|Oxford 5000 · C1
+C1|Society|exclusive|adj.|độc quyền; dành riêng|An exclusive focus on test scores may narrow the curriculum.|Oxford 5000 · C1
+C1|Society|flourish|v.|phát triển mạnh|Local businesses can flourish when public spaces attract visitors.|Oxford 5000 · C1
+C1|Work|forthcoming|adj.|sắp tới; sẵn sàng|The forthcoming report will evaluate the pilot programme.|Oxford 5000 · C1
+C1|Society|fragile|adj.|mong manh|The agreement remains fragile without continued public support.|Oxford 5000 · C1
+C1|Society|generic|adj.|chung chung; phổ thông|Generic advice may not address the needs of individual learners.|Oxford 5000 · C1
+C1|Writing|grasp|v./n.|nắm bắt; sự hiểu|Students need time to grasp the implications of the argument.|Oxford 5000 · C1
+C1|Society|harassment|n.|sự quấy rối|The university introduced a policy to prevent online harassment.|Oxford 5000 · C1
+C1|Society|hostile|adj.|thù địch|A hostile online environment can discourage participation.|Oxford 5000 · C1
+C1|Society|humanity|n.|nhân loại; lòng nhân ái|The crisis tested the international community's sense of humanity.|Oxford 5000 · C1
+C1|Writing|immense|adj.|to lớn|The project has immense potential but requires careful planning.|Oxford 5000 · C1
+C1|Writing|inappropriate|adj.|không phù hợp|It is inappropriate to compare groups without considering context.|Oxford 5000 · C1
+C1|Society|indigenous|adj.|bản địa|The policy recognises the rights of indigenous communities.|Oxford 5000 · C1
+C1|Writing|inevitable|adj.|không thể tránh khỏi|Some change is inevitable, but its effects can be managed.|Oxford 5000 · C1
+C1|Writing|injustice|n.|sự bất công|The essay examines how access to healthcare can address injustice.|Oxford 5000 · C1
