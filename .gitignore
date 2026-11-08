@@ -1,0 +1,6 @@
+# Learner-specific imported question packs stay on the learner's device.
+*personal-pack*.json
+*private-pack*.json
+packs/private/
+.DS_Store
+Thumbs.db
