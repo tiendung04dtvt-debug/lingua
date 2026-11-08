@@ -1,0 +1,1153 @@
+{
+  "schema_version": "1.1.0",
+  "pack_metadata": {
+    "pack_id": "lingua-writing-speaking-practice-2026-11",
+    "title": "Ngân hàng Writing & Speaking mô phỏng Lingua",
+    "content_origin_type": "original_practice",
+    "source_info": {
+      "provider": "Lingua",
+      "original_exam": "Không gắn với đề thi thật cụ thể",
+      "accessed_date": "2026-11-08",
+      "reuse_notes": "Bài luyện tự biên soạn theo cấu trúc VSTEP Bậc 3–5; không phải câu hỏi của kỳ thi đã tổ chức."
+    },
+    "review_status": "format_reviewed; original_practice",
+    "description": "Các nhiệm vụ viết/nói mô phỏng; mức B1/B2/C1 là độ khó luyện tập ước lượng."
+  },
+  "sets": [],
+  "questions": [],
+  "open_tasks": [
+    {
+      "task_id": "c1-hot-w1-complaint-tech",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Formal complaint and remediation letter",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You enrolled in an intensive hybrid professional development program accredited by an international institute. However, the instructional delivery failed drastically: scheduled interactive seminars were arbitrarily replaced with outdated pre-recorded clips, and tutor feedback was purely automated rather than substantive. Write a formal letter of complaint to the Academic Operations Director. In your letter: (1) detail the discrepancies between the advertised curriculum and actual delivery, (2) elaborate on the adverse consequences for your research/professional objectives, and (3) propose specific compensatory adjustments or remediation measures.",
+      "planning_steps": [
+        "Tone and register: Firm, formal, dispassionate; avoiding petulant colloquialisms while maintaining clear institutional accountability.",
+        "Structure: Salutation -> Direct statement of grievance -> Precise breakdown of contractual/pedagogical failure -> Impact assessment -> Concrete tripartite resolution (e.g., partial fee reimbursement, bespoke 1-on-1 tutoring, extended access) -> Formal sign-off.",
+        "Target C1 syntax & lexis: ‘diverged markedly from contractual representations’, ‘hollow pedagogical substitute’, ‘substantive remediation’, ‘remedy this institutional breach’."
+      ],
+      "self_review": [
+        "Did I articulate clear, quantifiable discrepancies rather than vague complaints?",
+        "Is the tone appropriately diplomatic yet uncompromisingly resolute?",
+        "Have I utilized cohesive devices to link the grievance to the remediation proposals?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-hot-w2-ai-education",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Discursive essay with counter-argument",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "The rapid integration of generative artificial intelligence into secondary and tertiary educational curricula has polarized educators. Some assert that generative AI threatens pedagogical integrity by promoting cognitive atrophy and facilitating academic misconduct. Others contend that banning these systems is futile and that education should instead pivot toward training students in critical prompt synthesis and verification. Discuss both perspectives and state your own reasoned stance on how educational institutions ought to navigate this paradigm shift.",
+      "planning_steps": [
+        "Deconstruct the prompt: Define terms (generative AI, cognitive atrophy, pedagogical integrity, epistemic vigilance).",
+        "Body Paragraph 1 (The Skeptic Stance): Over-reliance on AI outputs erodes foundational critical thinking, mathematical proof derivation, and primary textual interpretation; risk of automated plagiarism.",
+        "Body Paragraph 2 (The Progressive Stance): Futility of prohibition; ubiquity of AI in future labor markets demands prompt engineering, hallucinations detection, and high-order meta-cognitive skills.",
+        "Body Paragraph 3 (Synthesis / Personal Stance): The dialectical solution—shift assessment regimes from product-based (essays produced in unmonitored environments) to process-based (oral defenses, collaborative problem-solving, live code reviews) combined with mandatory AI-auditing literacy.",
+        "Conclusion: Reiterate that the true crisis is not the proliferation of synthetic intelligence, but the persistence of antiquated rote-memorization pedagogies."
+      ],
+      "self_review": [
+        "Did I thoroughly develop both sides before articulating my nuanced synthetic position?",
+        "Are topic sentences analytical rather than purely descriptive?",
+        "Does the essay showcase advanced cohesive structures (concession, qualification, inversion)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-hot-w2-heritage-modernization",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Discussion essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In rapidly developing metropolitan areas, municipal authorities frequently encounter tension between preserving historic architecture and constructing modern commercial and residential infrastructure. Some argue that historical conservation is an inefficient use of scarce land and impedes economic rejuvenation. Others maintain that tangible architectural heritage is the indispensable anchor of civic identity and long-term socio-economic vibrancy. Evaluate both viewpoints and articulate your own perspective.",
+      "planning_steps": [
+        "Introduction: Frame the dichotomy between real-estate speculation / infrastructure modernization and cultural preservation as a fundamental question of urban sustainability.",
+        "Perspective A (Development priority): Demographic expansion, affordable housing scarcity, infrastructure modernization needs, and high maintenance costs of dilapidated historic structures.",
+        "Perspective B (Preservation priority): Intangible socio-cultural cohesion, historical continuity, architectural uniqueness fostering high-value cultural tourism and civic belonging.",
+        "Author's synthesis: 'Adaptive reuse'—conserving structural envelopes and cultural facades while re-engineering interiors for contemporary ecological and commercial utility.",
+        "Conclusion: Summarize that architectural heritage and modern prosperity are not mutually exclusive, provided urban governance rejects short-term speculative bulldozing."
+      ],
+      "self_review": [
+        "Did I avoid a simplistic compromise and instead construct a sophisticated policy framework (adaptive reuse)?",
+        "Did I provide vivid, contextually appropriate examples (e.g., European brownfield conversions, Asian rapid urbanization)?",
+        "Is the lexical variety demonstrative of C1 academic register?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p1",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Social interaction",
+      "part": "Part 1",
+      "prep_seconds": 0,
+      "response_seconds": 180,
+      "prompt": "Topic A — Digital Footprint: How conscious are you of the permanent record created by your online engagement? In what ways might prospective employers evaluate candidates based on their digital presence? What measures can individuals take to curate an authentic yet professionally defensible online profile? Topic B — Lifelong Learning: What distinguishes proactive self-directed inquiry from compulsory professional upskilling? What psychological factors enable people to remain intellectually adaptable later in life? How can universities better serve non-traditional, adult returnee students?",
+      "self_review": [
+        "Did I begin each response with a direct, conceptually rich proposition before elaborating?",
+        "Did I balance personal reflection with broader sociological observations?",
+        "Was discourse fluent and rhythmically controlled without prolonged hesitations?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p2",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Solution discussion",
+      "part": "Part 2",
+      "prep_seconds": 60,
+      "response_seconds": 120,
+      "prompt": "A major university campus situated in an overcrowded urban district is suffering from crippling vehicular traffic and severe pedestrian safety hazards. The university administration is deliberating among three interventions: (1) entirely banning private motorbikes and cars from the campus perimeter, (2) deploying an on-demand fleet of subsidized electric shuttle buses, or (3) implementing aggressive congestion pricing charges for all vehicles entering university gates. Decide which option provides the most sustainable, equitable long-term solution, defend your choice with rigorous reasoning, and systematically explain why the competing alternatives are sub-optimal.",
+      "self_review": [
+        "Did I immediately state my chosen measure and the foundational criteria for selection (equity vs. enforcement feasibility)?",
+        "Did I dissect the concrete weaknesses of the two unselected options rather than simply repeating that they are bad?",
+        "Did I address potential trade-offs of my chosen policy and propose mitigating measures?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-hot-sp-set1-p3",
+      "set_id": "writing-speaking-c1-hot",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Topic development",
+      "part": "Part 3",
+      "prep_seconds": 60,
+      "response_seconds": 180,
+      "topic_statement": "The rise of algorithmic social commerce has commodified human interpersonal relationships and compromised genuine civic community.",
+      "mindmap": [
+        "Monetization of social influence and erosion of authentic trust",
+        "Filter bubbles and hyper-individualized consumerist desire",
+        "Displacement of public physical civic spaces by commercial digital platforms",
+        "Your own idea: The psychological alienation and performance fatigue of digital self-branding"
+      ],
+      "follow_up_questions": [
+        "Should governments impose fiduciary responsibilities on social media corporations to protect consumers from deceptive algorithmic marketing?",
+        "Do you foresee a grassroots societal backlash against hyper-connected consumer culture over the coming decades?"
+      ],
+      "prompt": "Synthesize the topic statement using the provided mind-map branches and your own distinct idea, then provide comprehensive, analytical responses to both follow-up questions.",
+      "planning_steps": [
+        "Establish an opening thesis: Rephrase statement into a nuanced societal critique rather than a trite moral panic.",
+        "Interlink branches organically: Trace how algorithmic incentives transform personal interactions into commercial transactions, shrinking non-commercial civic spheres.",
+        "Introduce the own idea: Focus on the individual psychological toll—performance fatigue and commodified identity.",
+        "Follow-up synthesis: Balance state regulatory intervention (algorithmic audits, truth-in-advertising) with grassroot digital minimalism movements."
+      ],
+      "self_review": [
+        "Did I weave the mindmap into a unified argument rather than treating the bullet points as disconnected answers?",
+        "Did I deliver analytical depth on both follow-up questions within the allocated timing?",
+        "Did I demonstrate sophisticated intonation, pacing, and precise C1 collocations?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-ai-education",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some educators believe that artificial intelligence (AI) tools like ChatGPT improve student learning efficiency. Others worry that relying on AI reduces critical thinking skills and encourages plagiarism. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Introduce the rise of generative AI in academia; state that while AI accelerates personalized learning, unchecked reliance risks cognitive passivity; argue for balanced pedagogical integration.",
+        "Body Paragraph 1 (AI Benefits): Adaptive feedback, 24/7 tutoring, streamlining research collation, enabling self-paced mastery.",
+        "Body Paragraph 2 (AI Risks): Diminishing analytical reasoning, academic dishonesty, hallucinations, passive dependency on algorithmic output.",
+        "Body Paragraph 3 (Author Opinion & Solutions): Shift evaluation toward in-class synthesis, oral defenses, and prompt-engineering literacy.",
+        "Conclusion: Reiterate that AI must serve as an intellectual multiplier rather than a cognitive surrogate."
+      ],
+      "self_review": [
+        "Discussed both perspectives equally before articulating clear personal stance?",
+        "High-level vocabulary: cognitive complacency, algorithmic assistance, formative assessment, pedagogical framework?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-online-shopping",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Outweigh Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In many countries, more and more people are choosing to buy goods online instead of going to physical shops and markets. Do the advantages of this trend outweigh its disadvantages?",
+      "planning_steps": [
+        "Introduction: Paraphrase the booming e-commerce transition; clearly declare that while brick-and-mortar decline is regrettable, consumer convenience and economic scale decisively outweigh the drawbacks.",
+        "Body Paragraph 1 (Disadvantages acknowledged): Impact on local retail employment, carbon footprint from individual delivery packaging, inability to inspect goods physically before purchase.",
+        "Body Paragraph 2 (Decisive Advantages): Unparalleled price transparency, 24/7 accessibility for rural/disabled consumers, cross-border commerce opportunities for micro-enterprises.",
+        "Conclusion: Confirm that e-commerce advantages decisively prevail, especially as hybrid logistics evolve."
+      ],
+      "self_review": [
+        "Explicitly evaluated the balance (outweigh) in intro and conclusion?",
+        "Cohesive comparative markers (While it is undeniable that..., the countervailing merits...)?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-single-use-plastic",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Agree / Disagree Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Plastic pollution has reached alarming levels worldwide. Some people propose that governments should completely ban all single-use plastic products. To what extent do you agree or disagree with this proposal?",
+      "planning_steps": [
+        "Introduction: Highlight the ecological catastrophe of microplastics; agree to a substantial extent while asserting that phased substitution is required for medical and hygienic necessities.",
+        "Body Paragraph 1 (Why Ban is Necessary): Non-biodegradable accumulation in marine food chains, microplastic toxicity in human organs, inadequacy of voluntary recycling schemes.",
+        "Body Paragraph 2 (Practical Caveats & Alternative Materials): In medical contexts (syringes, sterile packaging), immediate outright bans are unfeasible; governments must subsidize biodegradable polymers (PLA/PHA) and enforce EPR frameworks.",
+        "Conclusion: Reiterate strong endorsement of punitive plastic bans coupled with green material innovation."
+      ],
+      "self_review": [
+        "Clear, nuanced stance (agree to a large extent with critical exceptions)?",
+        "Environmental terminology: bioaccumulation, endocrine disruptors, non-biodegradable, biodegradable polymers?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-youth-mental-health",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Causes and Solutions Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "An increasing number of young people today report suffering from chronic stress, anxiety, and mental exhaustion. What are the primary causes of this issue, and what solutions can be implemented to address it?",
+      "planning_steps": [
+        "Introduction: Paraphrase the youth mental health crisis; state that hyper-competitive environments and digital hyper-connectivity are the core drivers, necessitating systemic reforms.",
+        "Body Paragraph 1 (Root Causes): Intense academic pressure in credentialist societies; toxic social media comparison cycles and fear of missing out (FOMO); uncertain economic futures.",
+        "Body Paragraph 2 (Targeted Solutions): Educational reform emphasizing holistic wellbeing over standardized testing; institutionalizing qualified school counselors; digital detox education and parental support.",
+        "Conclusion: Summarize causes and reiterate that safeguarding youth mental health requires collective societal commitment."
+      ],
+      "self_review": [
+        "Direct causal linkage between each identified cause and proposed solution?",
+        "Sophisticated emotional & psychological lexicon: cognitive fatigue, social comparison theory, institutionalized counseling?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-cashless-society",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Positive or Negative Development Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "In many parts of the world, physical banknotes and coins are being rapidly replaced by electronic transactions, mobile banking, and digital wallets. Do you think this transition toward a cashless society is a positive or negative development?",
+      "planning_steps": [
+        "Introduction: Contextualize the fintech revolution; argue that a cashless society is predominantly a positive leap forward, provided cybersecurity and financial inclusion safeguards are upheld.",
+        "Body Paragraph 1 (Positive Impacts): Drastic drop in street crime/robbery, effortless transaction audits preventing black economy evasion, heightened trade efficiency, seamless split-second micropayments.",
+        "Body Paragraph 2 (Risks & Mitigation): Vulnerabilities to cyberattacks, tech outages, and marginalization of elderly/unbanked citizens; necessity of digital literacy drives and resilient fallback networks.",
+        "Conclusion: Affirm that the digital financial architecture represents undeniable progress toward economic agility."
+      ],
+      "self_review": [
+        "Definitive stance in both introduction and conclusion?",
+        "Economic and technological vocabulary: fiscal transparency, tax evasion mitigation, digital divide, fintech integration?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-remote-hybrid-work",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Advantages & Disadvantages Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Technological breakthroughs now allow many employees to work from home instead of commuting to an office every day. Discuss the advantages and disadvantages of remote working for both businesses and employees.",
+      "planning_steps": [
+        "Introduction: Define the permanent shift toward telecommuting; formulate balanced thesis addressing corporate cost-efficiency vs cohesion, and worker flexibility vs psychological isolation.",
+        "Body Paragraph 1 (Advantages): Reduced overhead for corporations; wider talent acquisition without geographical constraints; improved work-life integration and commute-free days for workers.",
+        "Body Paragraph 2 (Disadvantages): Fragmentation of organizational culture; onboarding difficulties; blurred boundaries between work and personal life causing burnout; data security vulnerabilities.",
+        "Conclusion: Propose hybrid working arrangements as the optimal equilibrium."
+      ],
+      "self_review": [
+        "Covered perspectives of both employers and employees for both pros and cons?",
+        "Rich academic vocabulary: telecommuting, organizational cohesion, spatial flexibility, corporate overhead?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-free-public-transport",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Traffic congestion in major metropolitan areas is deteriorating rapidly. Some propose that the best way to resolve this is to make all public transport completely free of charge. Others argue that this policy is too costly and ineffective. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Note escalating urban gridlock; state both views on fare elimination versus system enhancement; argue that service reliability and transit frequency matter far more than zero fares.",
+        "Body Paragraph 1 (Arguments for Fare-Free Transit): Inexpensive social welfare measure; immediate incentive to leave personal vehicles; carbon emission abatement.",
+        "Body Paragraph 2 (Arguments Against / Municipal Realities): Crippling municipal budget strain; potential overcrowding and service degradation; transit research shows commuters prioritize punctuality and safety over free fares.",
+        "Body Paragraph 3 (Author Opinion): Propose reinvesting fare revenue into expanding rapid rail coverage, dedicated bus lanes, and congestion pricing for private vehicles.",
+        "Conclusion: Conclude that transit excellence and reliability are vastly more effective than blanket fare elimination."
+      ],
+      "self_review": [
+        "Clear, evidence-backed evaluation of transit economics?",
+        "Urban planning lexicon: metropolitan congestion, dedicated bus rapid transit (BRT), congestion charging, municipal fiscal solvency?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-university-vs-vocational",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some believe that obtaining a traditional university degree is the best pathway to career success. Others argue that attending vocational training courses is more advantageous in today's job market. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Contrast the prestige of conventional higher education with the pragmatic allure of technical and trade certification; state that career success hinges on domain requirements rather than a single universal path.",
+        "Body Paragraph 1 (Case for University Degrees): Foundational theoretical mastery, broad critical inquiry, eligibility for research, medicine, corporate management, and high-level professions.",
+        "Body Paragraph 2 (Case for Vocational Training): Faster labor market entry, zero/minimal student debt, urgent global shortages in skilled trades (electricians, technicians, coders), hands-on experiential mastery.",
+        "Body Paragraph 3 (Personal View): Acknowledge symbiotic synergy—advocate for dual tertiary models integrating theoretical foundations with applied apprenticeships.",
+        "Conclusion: Reiterate that both educational paradigms hold equal merit depending on individual vocational objectives."
+      ],
+      "self_review": [
+        "Nuanced comparison without superficial bias toward either academic or trade tracks?",
+        "Tertiary education vocabulary: pedagogical theory, experiential apprenticeship, vocational competence, credentialism?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-culture-globalization",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Agree / Disagree Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Because of globalization, young generations worldwide are adopting universal lifestyles and entertainment, leading to the erosion of indigenous cultures and traditions. To what extent do you agree or disagree that governments should strictly regulate media and cultural imports to protect national identity?",
+      "planning_steps": [
+        "Introduction: Acknowledge the homogenization of pop culture; disagree with strict authoritarian censorship; argue instead for proactive state patronage of domestic arts and creative revival.",
+        "Body Paragraph 1 (Why Protectionism Fails): Heavy-handed media quotas and bans alienate youth, encourage underground consumption, and violate creative freedoms.",
+        "Body Paragraph 2 (Effective Alternatives): Investing state endowments into indigenous cinema, folklore curricula in schools, cultural tourism, and empowering local creators to make tradition attractive to youth.",
+        "Conclusion: Conclude that dynamic revitalisation rather than repressive protectionism ensures lasting cultural preservation."
+      ],
+      "self_review": [
+        "Convincing counter-arguments addressing state censorship versus cultural vitality?",
+        "Cultural studies vocabulary: cultural homogenization, indigenous patrimony, state patronage, ideological protectionism?",
+        "Word count >= 250 words?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "c1-practice-w2-renewable-energy-responsibility",
+      "set_id": "vstep-hot-topics-c1-ws",
+      "skill": "Writing",
+      "task_type": "Discussion & Opinion Essay",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Some argue that governments alone must bear the responsibility for investing in renewable energy transition. Others believe private corporations must take the leading financial role. Discuss both views and give your own opinion.",
+      "planning_steps": [
+        "Introduction: Highlight the urgency of net-zero transitions; discuss the respective capacities of the public sector and private enterprise; assert that public-private partnerships (PPPs) are essential.",
+        "Body Paragraph 1 (Role of Governments): Setting legislative mandates, carbon pricing, subsidizing high-risk early research, establishing national grid infrastructure.",
+        "Body Paragraph 2 (Role of Private Corporations): Deploying private equity at scale, driving commercial efficiency, technological innovation, managing corporate ESG commitments.",
+        "Body Paragraph 3 (Synthesis & Opinion): Government must de-risk initial capital expenditures while private enterprise scales operational rollout.",
+        "Conclusion: Reiterate that solitary action by either sector is doomed; integrated tripartite collaboration is crucial."
+      ],
+      "self_review": [
+        "Sophisticated energy economics terminology: feed-in tariffs, public-private partnerships, de-risking capital, decarbonization?",
+        "Word count >= 250 words with airtight cohesion?"
+      ],
+      "level": "C1",
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-complaint-course",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư phàn nàn về chất lượng khóa học tiếng Anh trực tuyến (Complaint)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You recently enrolled in an intensive online IELTS/VSTEP preparation course. However, you encountered several major issues: frequent platform server crashes, unqualified substitute tutors, and delays in essay feedback. Write a formal letter of complaint to the Director of Studies at the language academy. In your email, you must: (1) state the details of the course you booked, (2) describe the specific problems you experienced, and (3) propose what action you expect the center to take (refund or free retake).",
+      "planning_steps": [
+        "Salutation: Formal greeting (Dear Director of Studies / Dear Mr. Davis).",
+        "Opening: State the course name, student registration code, and clear purpose of writing to complain.",
+        "Body Paragraph 1: Detail the recurring platform connection breakdowns during scheduled live lessons.",
+        "Body Paragraph 2: Mention the lack of qualified feedback and substitute teacher irregularities.",
+        "Action expected: Request a partial tuition reimbursement or access to a verified 1-on-1 tutoring block.",
+        "Formal sign-off: Yours sincerely / Yours faithfully."
+      ],
+      "self_review": [
+        "Addressed all 3 compulsory prompt points?",
+        "Maintained a respectful, assertive, and formal tone throughout?",
+        "Word count >= 120 words with appropriate formal transitions (Furthermore, In light of these issues)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-apology-wedding",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B1",
+      "skill": "Writing",
+      "task_type": "Thư xin lỗi vì không thể tham dự đám cưới bạn thân (Apology)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "Your close foreign friend, Emily, invited you to attend her wedding celebration in Melbourne next month. Unfortunately, due to an unavoidable professional commitment at your company, you will not be able to attend. Write an email to Emily. In your email, you should: (1) thank her warmly for the invitation and express your regrets, (2) explain in detail why you cannot travel, and (3) suggest meeting up or celebrating together at a later date.",
+      "planning_steps": [
+        "Salutation: Warm, friendly greeting (Dear Emily,).",
+        "Opening: Congratulate her on the upcoming milestone and express genuine sadness at missing the big day.",
+        "Explanation: Clarify the critical company project or mandatory conference requiring your physical presence.",
+        "Alternative plan: Offer to visit Melbourne later in the spring or treat the newlyweds to a celebration dinner.",
+        "Closing: Send blessings to both partners and ask for wedding photos."
+      ],
+      "self_review": [
+        "Appropriately heartfelt and affectionate informal tone?",
+        "Clearly explained the obstacle preventing travel?",
+        "Word count at least 120 words with natural conversational phrasing?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-inquiry-scholarship",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư hỏi thông tin học bổng thạc sĩ và hồ sơ nhập học (Inquiry)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You are planning to apply for a Master's degree in International Education at a university in the UK. You have checked the website, but some details remain unclear. Write a formal inquiry email to the International Admissions Office. In your email: (1) state the program you are interested in and your academic background, (2) ask for clarification regarding scholarship eligibility and language test requirements, and (3) inquire about accommodation options and application deadlines.",
+      "planning_steps": [
+        "Salutation: Formal address (Dear Admissions Committee / Dear Sir or Madam,).",
+        "Purpose: Introduce your undergraduate degree in English Pedagogy and intent to apply for Fall 2027.",
+        "Query 1: Inquire about minimum VSTEP/IELTS score equivalency and faculty merit scholarships.",
+        "Query 2: Ask about on-campus postgraduate halls of residence and submission deadlines.",
+        "Formal Closing: Express gratitude in advance and state readiness to supply reference letters."
+      ],
+      "self_review": [
+        "Formal polite language (I would be grateful if you could clarify, Could you please advise)?",
+        "Covered scholarship, language test, and accommodation questions?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-application-internship",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư ứng tuyển vị trí thực tập sinh Marketing quốc tế (Job Application)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You saw an advertisement for a 3-month Summer Marketing Intern position at a multinational company in Da Nang. Write an email applying for the position. In your email, you must: (1) state the position you are applying for and where you found the vacancy, (2) explain your relevant skills, academic qualifications, and extracurricular experience, and (3) indicate your availability for an interview and when you can begin work.",
+      "planning_steps": [
+        "Salutation: Formal greeting to the Hiring Manager (Dear Hiring Manager,).",
+        "Opening: State the exact position applied for (Summer Marketing Intern) and reference the job portal.",
+        "Body: Highlight digital marketing coursework, social media campaign leadership, and analytical fluency.",
+        "Suitability: Emphasize bilingual fluency (English/Vietnamese) and teamwork adaptability.",
+        "Closing: State immediate availability for online/in-person interview and attach resume."
+      ],
+      "self_review": [
+        "Strong professional self-presentation without arrogance?",
+        "Proper business letter formatting and vocabulary (relevant competencies, track record, curriculum vitae)?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-thankyou-supervisor",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B1",
+      "skill": "Writing",
+      "task_type": "Thư cảm ơn người hướng dẫn sau kỳ thực tập tốt nghiệp (Thank-you)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You have just concluded a successful two-month internship at an international travel agency under the supervision of Mr. Robert Evans. Write an email to Mr. Evans. In your email, you should: (1) thank him for his guidance, patience, and support, (2) mention one specific skill or valuable insight you acquired during the internship, and (3) update him on your future career plan and express interest in staying in touch.",
+      "planning_steps": [
+        "Salutation: Semi-formal greeting (Dear Mr. Evans,).",
+        "Opening: Express heartfelt gratitude as your internship concludes this Friday.",
+        "Key Learning: Specify a concrete skill gained (e.g. handling customer crises, customized itinerary curation).",
+        "Future Direction: Share intent to complete graduation thesis and pursue eco-tourism consulting.",
+        "Sign-off: Professional yet appreciative closing (With sincere thanks, Warm regards)."
+      ],
+      "self_review": [
+        "Respectful and warm tone suitable for a senior supervisor?",
+        "Highlighted specific learnings rather than generic thanks?",
+        "Word count at least 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-invitation-speaker",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư mời chuyên gia làm diễn giả chính cho hội thảo sinh viên (Invitation)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You are the president of your university's English Club. You are organizing an academic workshop on 'Effective Presentation Skills in English' next month. Write a formal invitation email to Dr. Laura Adams, a renowned communications expert. In your email: (1) introduce the event and state why you are inviting her, (2) provide the date, time, venue, and estimated audience size, and (3) explain what arrangements the club will provide (transport, honorarium, technical equipment).",
+      "planning_steps": [
+        "Salutation: Formal greeting (Dear Dr. Adams,).",
+        "Introduction: Present the University English Club and extend a cordial invitation as keynote guest speaker.",
+        "Event Details: Specify Saturday, December 12th, 9:00 AM, Auditorium Hall A, ~200 undergraduates.",
+        "Logistics: Guarantee private airport pick-up, guest speaker honorarium, and state-of-the-art audiovisual setup.",
+        "Call to Action: Request an initial response by the end of next week and offer to adjust schedule."
+      ],
+      "self_review": [
+        "High level of courtesy and formal diplomatic invitations?",
+        "Covered all logistical points (time, audience, arrangements)?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-extension-request",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư xin hoãn thời hạn nộp bài tiểu luận vì lý do sức khỏe (Extension Request)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You are a university student and have an upcoming deadline for an important research paper next Monday. However, you were recently hospitalized due to a severe case of influenza and cannot complete the paper in time. Write an email to your professor, Dr. Miller. In your email, you must: (1) explain your medical situation and attach proof, (2) describe how much progress you have already made, and (3) respectfully request a one-week deadline extension.",
+      "planning_steps": [
+        "Salutation: Formal academic address (Dear Professor Miller,).",
+        "Situation: State your course name and report hospital admission due to acute viral infection.",
+        "Progress: Assure the professor that 60% of literature review and data collection is completed.",
+        "Request: Ask politely for a 7-day extension until the following Monday and reference medical discharge certificate.",
+        "Sign-off: Respectful academic closing (Sincerely yours,)."
+      ],
+      "self_review": [
+        "Professional student-to-professor tone without sounding demanding?",
+        "Provided proof and demonstrated previous diligence?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-customer-resolution",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư phản hồi khách hàng về sản phẩm lỗi và phương án bồi thường (Customer Resolution)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You work as a Senior Customer Support Specialist at an online electronics retailer. A customer, Mrs. Linda Green, sent an angry message because the tablet she ordered arrived with a shattered screen. Write an official response email to Mrs. Green. In your email, you should: (1) apologize sincerely for the damage and inconvenience caused, (2) explain the delivery incident briefly, and (3) offer an immediate replacement tablet along with a 20% discount coupon for future orders.",
+      "planning_steps": [
+        "Salutation: Professional customer greeting (Dear Mrs. Green,).",
+        "Opening: Apologize unreservedly for the damaged shipment and acknowledge the disappointment.",
+        "Explanation: Clarify that courier transit inspection is under investigation to prevent recurrence.",
+        "Remediation: Confirm dispatch of a brand-new tested unit via 24-hour express courier at zero cost.",
+        "Compensation: Gift a 20% storewide voucher valid for 12 months as a token of goodwill."
+      ],
+      "self_review": [
+        "Exemplary corporate empathy and accountability?",
+        "Clearly presented the resolution and compensation terms?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-refusal-joboffer",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "task_type": "Thư từ chối lời mời nhận việc một cách lịch sự và giữ mối quan hệ (Polite Refusal)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You recently interviewed for a Software Tester position at TechCorp and received a formal job offer. However, you have decided to accept an offer from another company that aligns better with your long-term research aspirations. Write an email to the HR Director, Mr. Jonathan Clark. In your email: (1) thank the company for the job offer and positive interview process, (2) politely explain your decision to decline, and (3) express hopes to maintain professional contact in the future.",
+      "planning_steps": [
+        "Salutation: Formal greeting (Dear Mr. Clark,).",
+        "Appreciation: Thank him and the engineering team for the generous employment offer and transparent interviews.",
+        "Decision: Inform that after rigorous deliberation, you accepted an academic R&D position.",
+        "Praise: Reiterate high regard for TechCorp's market innovation and culture.",
+        "Future Contact: Wish the firm continued prosperity and connect on LinkedIn."
+      ],
+      "self_review": [
+        "Diplomatic, gracious, and thoroughly professional?",
+        "Declined clearly without burning industry bridges?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "task1-refund-flight",
+      "set_id": "vstep-task1-expanded-ws",
+      "level": "B1",
+      "skill": "Writing",
+      "task_type": "Thư yêu cầu hoàn tiền vé máy bay do chuyến bay bị hủy đột xuất (Refund Request)",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You purchased round-trip airline tickets from Da Nang to Hanoi for a family holiday. Three days before departure, the airline canceled your flight due to internal operational changes, forcing you to cancel your hotel reservations. Write an email to the Airline Customer Service Center. In your email, you should: (1) provide your booking reference and ticket details, (2) describe how the cancellation disrupted your holiday plans, and (3) request a full refund to your original credit card within 14 days.",
+      "planning_steps": [
+        "Salutation: Formal greeting (Dear Customer Service Team,).",
+        "Booking Reference: Provide PNR code (e.g. VN-88921), flight number, and travel date.",
+        "Inconvenience: Explain that the abrupt cancellation forced family members to cancel non-refundable lodging.",
+        "Demand: Request full 100% refund without cancellation fee to original Visa card within 14 business days.",
+        "Closing: Expect prompt confirmation."
+      ],
+      "self_review": [
+        "Firm, polite, and unambiguous claim for full refund?",
+        "All necessary transaction details included?",
+        "Word count >= 120 words?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-weather",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Weather & Seasons (Thời tiết & Các mùa)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Weather and Seasons.\n- What kind of weather do you like most? Why?\n- Does the weather in your hometown affect your mood or daily routine?\n- What do you usually do on rainy days?\n- Do you prefer living in a place that is warm all year round or one with four distinct seasons?",
+      "planning_steps": [
+        "Answer directly + 2 supporting details: State preferred weather (e.g. brisk sunny autumn mornings) and explain why (comfortable for outdoor running).",
+        "Mood impact: Connect overcast grey skies to mild lethargy and bright sunshine to renewed vitality.",
+        "Rainy day activities: Reading physical books, brewing hot tea, or watching cinema at home.",
+        "Climate preference: Weigh stable tropical warmth against dynamic seasonal variety."
+      ],
+      "self_review": [
+        "Immediate, confident answers without long pauses?",
+        "Rich descriptive adjectives (crisp, dreary, stifling, invigorating)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-hobbies",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Leisure Activities & Hobbies (Sở thích rảnh rỗi)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Hobbies and Free Time.\n- What do you enjoy doing during your free time on weekends?\n- Did you have different hobbies when you were a child?\n- Do you prefer spending your leisure time alone or with friends?\n- If you had more free time, what new skill or hobby would you like to take up?",
+      "planning_steps": [
+        "Weekend routine: Describe cycling along riverside paths or experimenting with home culinary baking.",
+        "Childhood comparison: Contrast outdoor street games/drawing with current digital hobbies or gym training.",
+        "Alone vs Friends: Balance introspective solitary recharge against extroverted social gatherings.",
+        "Aspirational hobby: Propose learning acoustic guitar or mastering ceramic pottery."
+      ],
+      "self_review": [
+        "Natural past vs present verb tense switching?",
+        "Variety of leisure terminology (unwind, recharge my batteries, pass the time)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-technology",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Technology & Digital Devices (Công nghệ & Thiết bị)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Technology in daily life.\n- What technological device do you use most frequently every day?\n- How has the internet changed the way you study or work?\n- Do you think you spend too much screen time on your smartphone?\n- What is one technological innovation you cannot imagine living without?",
+      "planning_steps": [
+        "Primary device: Name smartphone or lightweight laptop; explain its role as a digital hub.",
+        "Internet impact: Highlight instant access to international scholarly journals and collaborative cloud tools.",
+        "Screen time reflection: Acknowledge digital fatigue and mention efforts to set app usage limits.",
+        "Indispensable tech: Mention mobile banking or real-time navigation GPS."
+      ],
+      "self_review": [
+        "Clear, modern digital vocabulary (streamline, ubiquitous, digital footprint)?",
+        "Fluency maintained across all 4 questions?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-transport",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Public Transport & Commuting (Đi lại & Giao thông)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Transport and Commuting.\n- How do you usually commute to university or work each day?\n- What are the advantages and drawbacks of traveling by motorbike in your city?\n- Do you frequently use public buses or metro trains? Why or why not?\n- How could the transportation system in your city be improved?",
+      "planning_steps": [
+        "Daily commute: State primary mode (motorbike or bus) and duration of morning travel.",
+        "Motorbike evaluation: Praise agile maneuverability through narrow alleys; lament air pollution and rain exposure.",
+        "Public transit usage: Discuss affordability vs route inflexibility or overcrowding during rush hours.",
+        "Infrastructure proposal: Advocate for dedicated bus rapid transit lanes and electric metro expansion."
+      ],
+      "self_review": [
+        "Transport collocations (rush hour gridlock, public transit network, pedestrian zone)?",
+        "Balanced pros and cons analysis?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-shopping",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Shopping Habits & E-Commerce (Thói quen mua sắm)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Shopping.\n- Do you prefer shopping online or browsing in physical stores?\n- What kind of items do you never buy on the internet?\n- Are you an impulsive shopper or do you carefully compare prices before buying?\n- What do you think about the trend of live-stream shopping sales?",
+      "planning_steps": [
+        "Online vs Offline: Praise e-commerce doorstep delivery while appreciating tactile evaluation in malls.",
+        "Excluded items: Footwear and high-value antique jewelry requiring precise sizing and authenticity checks.",
+        "Shopping psychology: Characterize yourself as a pragmatic consumer who tracks seasonal discounts.",
+        "Livestream sales: Critically evaluate aggressive sales tactics against entertaining interactive deals."
+      ],
+      "self_review": [
+        "Idiomatic phrasing (impulse buying, price-sensitive consumer, buyer's remorse)?",
+        "Clear conversational rhythm?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-music",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Music & Entertainment (Âm nhạc & Giải trí)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Music.\n- What genre of music do you listen to when studying or relaxing?\n- Have you ever attended a live concert or musical festival?\n- Can you play any musical instruments, or would you like to learn one?\n- Do you believe music plays an important role in bringing people together?",
+      "planning_steps": [
+        "Preferred genre: Recommend lo-fi beats, ambient instrumental, or acoustic ballads for concentration.",
+        "Live concert experience: Recall energetic stadium atmosphere, collective singing, and immersive acoustics.",
+        "Instrument competency: Express wish to master classical piano or maintain basic acoustic guitar chords.",
+        "Social cohesion: Emphasize music as a universal emotional language transcending linguistic barriers."
+      ],
+      "self_review": [
+        "Musical vocabulary (acoustic melody, evocative lyrics, sensory atmosphere)?",
+        "Varied sentence structures?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-festivals",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Holidays & Festivals (Lễ hội & Kỳ nghỉ)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Traditional Festivals.\n- What is your favorite public holiday or traditional festival of the year?\n- How does your family typically celebrate the Lunar New Year (Tet)?\n- Do you prefer traveling to tourist destinations or relaxing at home during long holidays?\n- Why do you think preserving traditional festivals is meaningful for younger generations?",
+      "planning_steps": [
+        "Favorite festival: Select Tet holiday or Mid-Autumn Festival for its profound familial reunions.",
+        "Tet rituals: Cleaning ancestral altars, cooking traditional square sticky rice cakes (Banh Chung), visiting elders.",
+        "Travel vs Home: Explain preferring intimate family home gatherings to congested tourist hotspots.",
+        "Cultural significance: Highlight cultural continuity, gratitude to ancestors, and community solidarity."
+      ],
+      "self_review": [
+        "Culturally precise English terms (ancestral veneration, festive banquet, cultural heritage)?",
+        "Warm and authentic delivery?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-friendship",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Friendships & Social Life (Tình bạn & Giao tiếp)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Friends.\n- What qualities do you value most in a close friend?\n- Do you prefer having a large circle of casual acquaintances or a few lifelong intimate friends?\n- How do you and your friends stay in touch when you are busy with studies or work?\n- What was the most memorable experience you shared with your best friend?",
+      "planning_steps": [
+        "Core qualities: Emphasize mutual trust, radical honesty, and steadfast emotional empathy.",
+        "Friendship circle: Strongly advocate for a tight-knit circle of 2-3 genuine companions over superficial popularity.",
+        "Communication: Describe group chat updates, voice notes, and monthly weekend coffee catch-ups.",
+        "Memorable event: Share a road trip adventure or supporting each other through grueling university exams."
+      ],
+      "self_review": [
+        "Interpersonal vocabulary (confidant, unconditional support, through thick and thin)?",
+        "Spontaneous, expressive flow?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-languages",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Foreign Language Learning (Học ngoại ngữ)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Learning Languages.\n- How long have you been studying English, and what is the hardest part for you?\n- What effective methods do you use to expand your English vocabulary?\n- Have you considered learning another foreign language besides English?\n- Why is foreign language proficiency crucial in today’s interconnected global economy?",
+      "planning_steps": [
+        "English background & hurdle: Note 10+ years of study; identify rapid native listening comprehension and nuanced academic writing as top hurdles.",
+        "Vocabulary strategy: Reading authentic international periodicals and utilizing spaced repetition digital flashcards.",
+        "Second foreign language: Mention interest in Japanese, Korean, or Mandarin for regional career versatility.",
+        "Global importance: Highlight cross-border collaboration, accessing cutting-edge technology, and cultural agility."
+      ],
+      "self_review": [
+        "Pedagogical language (lexical acquisition, phonetic articulation, cross-cultural competence)?",
+        "Direct answers supported by personal evidence?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p1-relaxation",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 1 · Chủ đề: Sleep Habits & Stress Relaxation (Giấc ngủ & Thư giãn)",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Part 1: Social Interaction (3 minutes)\n\nLet’s talk about Sleep and Relaxation.\n- How many hours of sleep do you typically get each night?\n- What do you do when you experience difficulty falling asleep?\n- Do you take short afternoon naps during the day?\n- What is your favorite way to unwind and de-stress after a demanding week?",
+      "planning_steps": [
+        "Sleep duration: Target 7-8 hours; mention occasional reductions to 6 hours during intense exam sprints.",
+        "Insomnia remedies: Avoid bright blue smartphone screens, practice diaphragmatic breathing, listen to white noise.",
+        "Afternoon naps: Endorse a 20-minute power nap to restore afternoon alertness and cognitive focus.",
+        "Weekend de-stressing: Nature walking in coastal parks, digital detox, or cooking elaborate comfort meals."
+      ],
+      "self_review": [
+        "Health and wellness lexicon (circadian rhythm, restorative sleep, digital detox, mental burnout)?",
+        "Smooth transitional phrases?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-softskills",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Khóa học kỹ năng mềm cho sinh viên năm cuối",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A university career center is offering a free intensive workshop for graduating seniors entering the competitive job market. They are considering three options:\n1. Public Presentation and Pitching Skills\n2. Time Management and Productivity Tools\n3. Professional Negotiation and Conflict Resolution\nWhich skill workshop do you think is the most indispensable for new graduates? Why?",
+      "planning_steps": [
+        "Decision & Opening: Advocate strongly for Option 1 (Public Presentation and Pitching) as the decisive competitive differentiator.",
+        "Justification 1: First impressions during job interviews, client proposals, and cross-functional meetings depend entirely on verbal articulation.",
+        "Justification 2: Presentation training incorporates body language, persuasive rhetoric, and poise under pressure.",
+        "Counter-analysis: Time management can be self-learned via books/apps; negotiation is rarely entrusted to entry-level fresh graduates.",
+        "Conclusion: Reaffirm presentation fluency as the cornerstone of early professional mobility."
+      ],
+      "self_review": [
+        "Direct choice declared in first sentence?",
+        "Robust comparative counter-arguments dismissing the other two options?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-wedding-venue",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Địa điểm tổ chức đám cưới ngoài trời",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A young couple is planning an intimate outdoor wedding celebration for 80 close family and friends. They are evaluating three venue locations:\n1. A scenic public beach\n2. A private boutique botanical garden resort\n3. A river cruise ship\nWhich venue would offer the most memorable and practical experience for the guests? Why?",
+      "planning_steps": [
+        "Decision: Select Option 2 (Boutique Botanical Garden Resort) as the optimal balance of romance and weather security.",
+        "Merits: Breathtaking floral photography backdrop, private enclosed dining pavilions in case of sudden rain, convenient parking and dressing suites.",
+        "Critique of Beach: Severe wind gusts ruin hairstyles/sound systems; sand is inconvenient for elderly relatives; no privacy from beachgoers.",
+        "Critique of Cruise: Motion sickness risks for sensitive guests; strict timetable with zero flexibility to arrive/leave early.",
+        "Conclusion: Garden resort guarantees elegance, comfort, and logistical predictability."
+      ],
+      "self_review": [
+        "Systematic evaluation of logistics, guest comfort, and aesthetic value?",
+        "Clear comparative discourse markers (Whereas a beach presents unpredictable weather, a resort offers...)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-office-energy",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Sáng kiến tiết kiệm năng lượng cho văn phòng công ty",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A medium-sized company wants to reduce its carbon footprint and operating utility costs. Management is debating three proposed initiatives:\n1. Installing automated motion-sensor LED lighting throughout all departments\n2. Instituting a mandatory 2-day-per-week work-from-home policy\n3. Setting strict temperature limits on air conditioning (minimum 26°C)\nWhich initiative is the most sustainable and mutually beneficial? Why?",
+      "planning_steps": [
+        "Decision: Endorse Option 2 (2-day-per-week Remote Work Policy) as having the highest multi-dimensional impact.",
+        "Key Benefits: Drastically cuts office power consumption by 40% on telework days, slashes employee commuting emissions, improves worker morale and flexibility.",
+        "Critique of Option 1: Sensor lights require substantial initial capital investment and only address lighting, which is a tiny fraction of power bills.",
+        "Critique of Option 3: AC restrictions trigger widespread employee discomfort, complaints, and productivity slumps during humid summer heatwaves.",
+        "Conclusion: Telework delivers both environmental conservation and organizational productivity gains."
+      ],
+      "self_review": [
+        "Environmental and organizational vocabulary (carbon footprint, capital expenditure, operational efficiency)?",
+        "Persuasive prioritization of benefits?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-team-conflict",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Phương pháp xử lý xung đột trong nhóm dự án",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A student project team of four members has reached an impasse regarding their final thesis topic, with members holding conflicting viewpoints. They are considering three approaches to resolve the disagreement:\n1. Holding a majority vote where the decision of the majority is immediately adopted\n2. Asking their faculty supervising professor to assign a topic authoritatively\n3. Organizing an open, structured dialogue session with a neutral student mediator\nWhich approach is the most constructive for team cohesion and project success? Why?",
+      "planning_steps": [
+        "Decision: Choose Option 3 (Open Structured Dialogue with Neutral Mediator).",
+        "Benefits: Ensures all divergent viewpoints are thoroughly aired; mediator prevents personal defensiveness; facilitates creative synthesis of ideas into a hybrid topic.",
+        "Drawback of Option 1 (Majority Vote): Leaves the losing minority feeling alienated, unmotivated, and resentful throughout the remaining semester.",
+        "Drawback of Option 2 (Professor Assignment): Shows lack of collaborative maturity; assigns team members a topic they may have zero personal passion for.",
+        "Conclusion: Collaborative dialogue builds conflict-resolution maturity and collective project ownership."
+      ],
+      "self_review": [
+        "High emotional intelligence and teamwork analysis?",
+        "Clear articulation of why temporary efficiency (voting) harms long-term group cohesion?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-event-promotion",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Kênh truyền thông quảng bá sự kiện văn hóa thanh niên",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A youth cultural festival committee has a limited marketing budget to attract university students to an upcoming street music and arts fair. They are considering three marketing channels:\n1. Targeted video campaigns on TikTok and Instagram\n2. Setting up interactive promotional booths across university campuses\n3. Printing and distributing colorful flyers at downtown shopping malls\nWhich promotion method will yield the highest turnout and engagement? Why?",
+      "planning_steps": [
+        "Decision: Select Option 1 (Targeted TikTok and Instagram Video Campaigns).",
+        "Benefits: Exact demographic targeting of 18-24 youth; viral algorithmic reach; short performance teaser videos generate authentic emotional hype; instant online ticket registration links.",
+        "Critique of Option 2 (Campus Booths): High human labor requirements; permits required from university administration; reach limited to only students passing by during specific class breaks.",
+        "Critique of Option 3 (Flyers): Antiquated, environmentally wasteful; most flyers are immediately discarded into litter bins without being read.",
+        "Conclusion: Short-form digital video is incomparably superior in cost-efficiency and viral engagement."
+      ],
+      "self_review": [
+        "Contemporary marketing vocabulary (viral dissemination, conversion rate, demographic targeting, short-form video)?",
+        "Decisive justification?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-foreign-gift",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Quà tặng mang bản sắc văn hóa cho đối tác nước ngoài",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: Your university is hosting a visiting academic delegation from Germany. At the farewell banquet, the leadership wants to present a memorable cultural gift. They are considering three options:\n1. A handmade traditional ceramic tea set\n2. A delicate silk embroidery painting depicting Vietnamese countryside\n3. A luxury wooden box of specialty single-origin coffee and artisanal tea\nWhich gift would be the most meaningful and appropriate? Why?",
+      "planning_steps": [
+        "Decision: Select Option 2 (Silk Embroidery Countryside Painting).",
+        "Justification 1: Enduring aesthetic and cultural value; represents exquisite Vietnamese craftsmanship that can be permanently displayed in the German university's boardroom.",
+        "Justification 2: Flat, lightweight, and durable for international air travel luggage without risk of shattering.",
+        "Critique of Option 1 (Ceramic Tea Set): Extremely fragile; high risk of breakage inside checked suitcases despite bubble wrap.",
+        "Critique of Option 3 (Coffee & Tea Box): Consumable perishable item that vanishes once consumed; provides no lasting institutional memory.",
+        "Conclusion: Silk embroidery offers timeless elegance, portability, and profound artistic heritage."
+      ],
+      "self_review": [
+        "Considered practical international travel constraints (weight, fragility)?",
+        "Diplomatic protocol and cultural appreciation vocabulary?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-school-sport",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Môn thể thao mới đưa vào chương trình học đường",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A high school administration wants to introduce one new compulsory physical education module to foster fitness and life safety. They are deciding between three sports:\n1. Swimming and Water Safety\n2. Badminton\n3. Martial Arts and Self-defense\nWhich sport should the school prioritize for all students? Why?",
+      "planning_steps": [
+        "Decision: Strongly champion Option 1 (Swimming and Water Safety).",
+        "Paramount Justification: Swimming is not merely a recreational sport; it is a life-saving survival skill vital in a riverine and coastal country like Vietnam, where youth drowning rates are tragically high.",
+        "Secondary Benefit: Provides complete non-impact cardiovascular and musculoskeletal conditioning suitable for all body types.",
+        "Critique of Badminton: Fun and accessible, but lacks critical survival utility; students can easily play recreationally outside school.",
+        "Critique of Martial Arts: Potential risk of contact injury; does not offer equivalent emergency survival value.",
+        "Conclusion: Swimming is an indispensable life insurance policy that schools have a moral duty to impart."
+      ],
+      "self_review": [
+        "Passionate, evidence-backed justification of life preservation vs recreation?",
+        "Clear, persuasive rhetorical structure?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    },
+    {
+      "task_id": "sp-p2-summer-activity",
+      "set_id": "vstep-speaking-expanded-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Speaking Part 2 · Hoạt động mùa hè bổ ích cho học sinh cấp ba",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A parents' association is discussing the most enriching summer holiday activity for 11th-grade high school students before their demanding final year. They are considering three choices:\n1. Participating in a two-week rural community service and volunteering camp\n2. Enrolling in an intensive coding and computer programming boot camp\n3. Working a part-time retail job at a local convenience store\nWhich option provides the most well-rounded personal development? Why?",
+      "planning_steps": [
+        "Decision: Advocate for Option 1 (Rural Community Service and Volunteering Camp).",
+        "Justification 1: Builds deep emotional empathy, civic awareness, and gratitude by living simply and helping disadvantaged communities.",
+        "Justification 2: Cultivates authentic leadership, teamwork, adaptability, and resilience far away from digital screens and comfortable urban routines.",
+        "Critique of Option 2 (Coding Boot Camp): Adds excessive academic screen fatigue right after a grueling school year; students already suffer from sedentary lifestyle.",
+        "Critique of Option 3 (Convenience Store Part-time): Repetitive, monotonous tasks that offer minimal intellectual stimulation or collective camaraderie.",
+        "Conclusion: Community volunteering molds character, social consciousness, and lifelong interpersonal maturity."
+      ],
+      "self_review": [
+        "Evaluates holistic character growth beyond purely academic or financial metrics?",
+        "Compelling personal development vocabulary (civic responsibility, empathy, resilience, holistic maturity)?"
+      ],
+      "provider": "Lingua",
+      "source": "Bài luyện mô phỏng do Lingua biên soạn",
+      "review_status": "practice-simulated",
+      "content_origin_type": "original_practice"
+    }
+  ]
+}

@@ -1,31 +1,25 @@
-# Lingua — B1–B2–C1 English practice
+# Lingua · Writing, Speaking & Vocabulary
 
-A static English practice app designed for GitHub Pages. The current target is the University of Danang English exit-standard assessment on 29 November 2026, with C1 as the learner's goal. The app includes B1, B2, and C1 sample practice, answer review, explanations, a filterable mistake bank, a score estimator, and a local JSON pack importer.
+Lingua is a private-study focused static site for VSTEP Bậc 3–5, organized around Writing, Speaking, and B1–C1 vocabulary. Reading and Listening question banks have been removed from the current site and public content pack.
+
+## Study features
+
+- Writing and Speaking prompts labeled by estimated practice level. All currently published prompts are original Lingua simulations, not recovered live exam questions.
+- 226 vocabulary flashcards in `packs/vocabulary.tsv` (80 B1, 72 B2, 74 C1). Level assignment is an instructional estimate. Cards can be filtered and reviewed with a simple spaced schedule.
+- Local draft saving, word counter, checklists, progress export, and optional AI feedback.
+- AI feedback uses a separately deployed Cloudflare Worker. Follow [AI_SETUP.md](AI_SETUP.md); never put an API key in browser code or GitHub Pages. Text-only Speaking feedback cannot assess pronunciation.
+- Public source links are provided for independent review. Lingua does not mirror complete provider papers.
+
+## Format reference
+
+The UFL–University of Danang specification describes a common Bậc 3–5 exam format, not separate B1/B2/C1 papers: Speaking has three parts in about 12 minutes; Writing has two tasks in 60 minutes (an approximately 120-word letter/email and an approximately 250-word essay). Levels in this app indicate the practice difficulty and vocabulary range, not official per-question tags. See the UFL format and sample links under “Cấu trúc & nguồn”; follow current local candidate instructions for the actual sitting.
 
 ## Run locally
 
-Open `index.html` in a browser or serve this folder with any static web server. There is no build step or dependency installation.
+Serve this folder with a static HTTP server (for example, `python -m http.server 8080`) and open `http://localhost:8080`. The vocabulary and prompt bank are fetched as local static files.
 
-## Current content scope
+## Privacy and publication
 
-- The in-app B1/B2/C1 diagnostic questions are original Lingua practice, not official past-paper questions. Their level labels are study estimates because the official shared Bậc 3–5 sample does not tag each question by level.
-- We downloaded and visually reviewed the official 2025 UFL sample PDF and its three audio parts. The PDF is retained locally under `packs/private/reference-materials/` and ignored by Git; the public app links to UFL-hosted originals rather than mirroring them.
-- The resource page links to the UED sitting notice, the UFL Bậc 3–5 format and sample, and official Cambridge preparation pages for B1/B2/C1. Different providers' tasks and scores are labeled separately.
-- The collected source inventory, local-only files, and remaining gaps are documented in [CONTENT_REGISTER.md](CONTENT_REGISTER.md). The official sample is a common Bậc 3–5 paper; it is not split into separately published B1, B2, and C1 papers.
+Drafts and vocabulary review schedule are saved in this browser's local storage. AI feedback sends the task prompt and learner response to the configured Worker and Gemini API. Review the deployment controls and provider privacy settings before use. Private source files under `packs/private/` are ignored by Git.
 
-
-## Privacy and progress
-
-Progress and imported personal packs are stored in this browser's `localStorage` on the learner's device. There is no account, analytics, server, or cross-device sync. The export button downloads progress. The import control accepts a local JSON pack; imported content is not sent to the website. Clearing browser storage resets progress and imported packs.
-
-The public GitHub Pages repository should contain the app, original demo content, source citations, and links. Keep private or restricted papers and audio in the learner's personal materials and import them locally only when reuse is permitted. `.gitignore` excludes `packs/private/`; two original practice packs are prepared there for local import and will not be published by Git.
-
-The diagnostic pack contains 18 original questions (6 each at estimated B1/B2/C1 study levels), reading passages, short listening scripts read with browser text-to-speech, reference, vocabulary-in-context, sentence-insertion and dialogue items, and per-answer explanations. It is a short placement aid, not a full mock test. The Writing/Speaking pack contains 11 original prompts, including a structured C1 Speaking Part 3 topic map and follow-up questions, plus planning steps, time suggestions, and self-review checklists. These are practice resources, not actual exam papers or official scoring feedback.
-
-## Publish with GitHub Pages
-
-The included workflow publishes the repository root on pushes to `main`. In the repository settings, choose **Pages → Build and deployment → GitHub Actions**. No secrets are required. After deployment, verify the live home page and refresh a nested hash route.
-
-## Remaining research
-
-The remaining priority is to check the current UED candidate instructions and look for additional publicly released official samples. No public UED-specific past-paper bank was found in this review.
+The GitHub Pages workflow publishes the repository root on `main`. `content-pack-template.json` shows the original Writing/Speaking task format.

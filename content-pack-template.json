@@ -1,70 +1,33 @@
 {
   "schema_version": "1.1.0",
   "pack_metadata": {
-    "pack_id": "personal-custom-pack-template",
-    "title": "Mẫu gói học liệu cá nhân",
-    "content_origin_type": "personal_material",
+    "pack_id": "original-writing-speaking-practice",
+    "title": "Original Writing and Speaking practice",
+    "content_origin_type": "original_practice",
     "source_info": {
-      "provider": "Ghi đơn vị phát hành hoặc người biên soạn",
-      "original_exam": "Ghi kỳ thi/tài liệu gốc hoặc nội dung luyện cá nhân",
-      "source_url": "https://vstep.ufl.udn.vn/",
-      "accessed_date": "2026-11-08",
-      "reuse_notes": "Chỉ nhập tài liệu có quyền sử dụng; gói nhập được lưu cục bộ trên trình duyệt."
+      "provider": "Name the author/provider",
+      "original_exam": "Use the exact exam/source or write 'original practice'",
+      "source_url": "https://example.org/source",
+      "accessed_date": "YYYY-MM-DD",
+      "reuse_notes": "Confirm permission before republishing source material."
     },
     "review_status": "unreviewed"
   },
-  "sets": [
-    {
-      "id": "personal-sample-b2",
-      "level": "B2",
-      "title": "Mẫu bộ luyện",
-      "subtitle": "Đọc · 1 câu mẫu",
-      "count": 1,
-      "icon": "B2"
-    }
-  ],
-  "questions": [
-    {
-      "id": "personal-sample-r1",
-      "setId": "personal-sample-b2",
-      "provider": "Original personal practice",
-      "level": "B2",
-      "skill": "Reading",
-      "type": "Multiple choice",
-      "stimulusTitle": "Tiêu đề đoạn đọc hoặc kịch bản nghe",
-      "stimulusText": "Nội dung đoạn đọc hoặc kịch bản nghe đặt tại đây.",
-      "prompt": "Câu hỏi trắc nghiệm đặt tại đây?",
-      "options": [
-        "Phương án A",
-        "Phương án B",
-        "Phương án C",
-        "Phương án D"
-      ],
-      "answer": 0,
-      "explanation": "Giải thích vì sao đáp án đúng và vì sao các phương án nhiễu chưa phù hợp.",
-      "source": "Ghi nguồn hoặc ghi là nội dung tự biên soạn.",
-      "reviewStatus": "unreviewed"
-    }
-  ],
+  "sets": [],
+  "questions": [],
   "open_tasks": [
     {
-      "task_id": "personal-sample-w1",
-      "set_id": "personal-sample-b2",
-      "level": "C1",
+      "task_id": "sample-writing-task-1",
+      "set_id": "sample-set",
+      "level": "B1",
       "skill": "Writing",
-      "task_type": "Formal letter/email",
+      "task_type": "Informal email",
       "part": "Task 1",
       "time_minutes": 20,
       "minimum_words": 120,
-      "prompt": "Đặt đề bài viết cá nhân tại đây.",
-      "planning_steps": [
-        "Xác định người nhận, mục đích và văn phong.",
-        "Lập ý cho từng yêu cầu trong đề trước khi viết."
-      ],
-      "self_review": [
-        "Đã đáp ứng đầy đủ các yêu cầu chưa?",
-        "Văn phong, liên kết và ngữ pháp có phù hợp bậc mục tiêu không?"
-      ]
+      "prompt": "Write the task prompt here.",
+      "planning_steps": [],
+      "self_review": []
     }
   ]
 }
