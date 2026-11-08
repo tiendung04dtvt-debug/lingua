@@ -1,0 +1,1073 @@
+{
+  "schema_version": "1.1.0",
+  "pack_metadata": {
+    "pack_id": "vstep-ctu-sample-2015",
+    "title": "Đề mẫu VSTEP Bậc 3-5 Đại học Cần Thơ (CFLA 2015)",
+    "source": "Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Công bố tháng 5/2015)",
+    "version": "2015.1",
+    "description": "Bộ đề thi mẫu chính thức VSTEP Bậc 3-5 do CFLA - Trường Đại học Cần Thơ công bố: 40 câu hỏi Đọc hiểu có bảng đáp án gốc & giải thích chi tiết, 2 bài Viết và 3 phần Nói kèm dàn ý C1.",
+    "target_levels": [
+      "B1",
+      "B2",
+      "C1"
+    ]
+  },
+  "sets": [
+    {
+      "id": "ctu-sample-r1",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Đọc CTU Bài 1 · Nghề nghiệp & Bí mật nơi làm việc",
+      "subtitle": "Đọc · 10 câu trắc nghiệm CFLA Cần Thơ",
+      "count": 10,
+      "icon": "CT1"
+    },
+    {
+      "id": "ctu-sample-r2",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Đọc CTU Bài 2 · Thị trường căn hộ Manhattan",
+      "subtitle": "Đọc · 10 câu trắc nghiệm CFLA Cần Thơ",
+      "count": 10,
+      "icon": "CT2"
+    },
+    {
+      "id": "ctu-sample-r3",
+      "level": "C1",
+      "skill": "Reading",
+      "title": "Đọc CTU Bài 3 · Biến đổi khí hậu & Băng tan Greenland",
+      "subtitle": "Đọc · 10 câu trắc nghiệm CFLA Cần Thơ",
+      "count": 10,
+      "icon": "CT3"
+    },
+    {
+      "id": "ctu-sample-r4",
+      "level": "C1",
+      "skill": "Reading",
+      "title": "Đọc CTU Bài 4 · Nguồn gốc sự sống & Giả thuyết RNA World",
+      "subtitle": "Đọc · 10 câu trắc nghiệm CFLA Cần Thơ",
+      "count": 10,
+      "icon": "CT4"
+    },
+    {
+      "id": "ctu-vstep-sample-ws",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Nhiệm vụ Viết & Nói ĐH Cần Thơ",
+      "subtitle": "2 bài Viết + 3 phần Nói có dàn ý",
+      "count": 5,
+      "icon": "✍️"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ctu-r-q1",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "In the first paragraph, what best paraphrases the sentence ‘My day typically starts with a business person going to the airport, and nearly always ends with a drunk’?",
+      "options": [
+        "Normally, I will take a business person and a drunk at the airport.",
+        "Normally, I will go to the airport in the morning and come back with a drunk.",
+        "Normally, my first passenger will be a businessman and my last one a drunk.",
+        "Normally, I will drive a businessman to the airport and come back almost drunk."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Người tài xế giải thích ngày làm việc thường bắt đầu bằng việc chở khách doanh nhân ra sân bay và kết thúc bằng một vị khách say rượu.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q2",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "What does Harry probably do for a living?",
+      "options": [
+        "A tour guide",
+        "An agent",
+        "A lawyer",
+        "A driver"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (A driver): Theo đáp án chính thức CFLA ĐH Cần Thơ, Harry đưa đón các khách hàng nổi tiếng đến sự kiện thảm đỏ và lái xe đi tìm quán ăn lúc nửa đêm nên được xếp vào nhóm tài xế/người đưa đón.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q3",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "The word ‘circle’ in line 17 could be best replaced by",
+      "options": [
+        "drive",
+        "look",
+        "walk",
+        "ride"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A (drive): Cụm từ 'circle around Washington DC' mang nghĩa lái xe dạo quanh thành phố để tìm quán ăn.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q4",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "In lines 23-24, what does Jennifer mean when she says, ‘Learning your limitations takes years’? It takes a person a long time to",
+      "options": [
+        "control his weakness in a brain operation.",
+        "understand what he cannot help.",
+        "perform even a basic operation.",
+        "be able to perform a brain surgery."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Theo đáp án chính thức ĐH Cần Thơ, việc biết giới hạn của bản thân giúp bác sĩ phẫu thuật kiểm soát điểm yếu để tránh gây tổn thương đến não bộ người bệnh.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q5",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "The word ‘their’ in line 25 refers to",
+      "options": [
+        "patients’",
+        "neurosurgeons’",
+        "children’s",
+        "adults’"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (children's): Đại từ 'their' trong câu 'their resilience really inspiring... their perspective' thay thế cho danh từ 'children' ở câu trước.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q6",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "The word ‘perspective’ in line 28 is closest in meaning to",
+      "options": [
+        "question",
+        "worry",
+        "view",
+        "prospective"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A (question): Theo đáp án chính thức CFLA ĐH Cần Thơ, 'perspective' trong ngữ cảnh các bệnh nhi thắc mắc ngây thơ được hiểu là câu hỏi/thắc mắc của các em.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q7",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "According to the passage, whose job involves in a large part listening to others?",
+      "options": [
+        "Luc’s",
+        "Harry’s",
+        "Jennifer’s",
+        "Solange’s"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (Solange's): Thẩm phán Solange nhấn mạnh: 'a huge part of what you do is listening - to advocates, to witnesses, to defendants'.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q8",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "According to the passage, who is likely to meet different types of people every day?",
+      "options": [
+        "Luc",
+        "Harry",
+        "Jennifer",
+        "Solange"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (Solange): Theo đáp án chính thức CFLA ĐH Cần Thơ, thẩm phán tiếp xúc và lắng nghe lời khai từ nhiều tầng lớp người khác nhau trong xã hội mỗi ngày.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q9",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "The word ‘ones’ in line 34 refers to",
+      "options": [
+        "judges",
+        "barristers",
+        "advocates",
+        "defendants"
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A (judges): 'ones' thay thế cho danh từ 'judges' (Behind closed doors most judges, even very experienced ones...).",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q10",
+      "setId": "ctu-sample-r1",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 1: Trade secrets of four working days",
+      "stimulusText": "Ever wondered what it feels like to have a different job? Here, four people with very different careers reveal the trade secrets of their working day.\n\nLuc\nMy day typically starts with a business person going to the airport, and nearly always ends with a drunk. I don't mind drunk people. Sometimes I think they're the better version of themselves: more relaxed, happier, honest. Only once have I feared for my life. A guy ran out at a traffic light and so I sped up before his brother could run, too. He seemed embarrassed and made me drop him at a car park. When we arrived, the first guy was waiting with a boulder, which went through the windscreen, narrowly missing my head. But the worst people are the ones who call me “Driver!”\n\nHarry\nI not only provide appearance for my client, I also do damage control. We've had clients involved in lawsuits, divorces or drugs. One mistakenly took a gun to an airport. On the red carpet – at the Academy Awards or the Golden Globes – I'm the person making my client look good. The other day at an Oprah Winfrey event, the carpet wasn't put down properly and my clients almost went flying – I had to catch them. They can make some strange requests, too. At a black-tie gala at the White House, two clients hated the dinner and insisted that we circle around Washington DC to find a KFC open at 1a.m. I had to go in wearing a gown and order so they could eat it in the car.\n\nJennifer\nI could teach you to do a basic brain operation in two weeks. But what takes time and experience is doing it without wrecking the brain of the patients - learning your limitations takes years.\nI ended up working as a pediatric neurosurgeon because children make better recoveries from brain damage than adults. So it's more rewarding in terms of outcome and I find their resilience really inspiring. It's taken me a decade to become comfortable discussing an operation with children, but they have to be able to ask questions. You have to show them respect. Sometimes their perspective is funny; most teenage girls just want to know how much hair you'll shave off.\nI don't get upset by my job. These children are dying when they come in and I do whatever I can to make them better.\n\nSolange\nWhen you become a judge after years of being a barrister and trying to make points that win cases, you have to remember that a huge part of what you do is listening - to advocates, to witnesses, to defendants. Behind closed doors most judges, even very experienced ones, are much more anxious about their work than most people might think. We agonise over what we do and the decisions we have to make. It would be bizarre to say that as a judge, we learn to be less judgmental. But as you see the complex and difficult lives of the people who end up in front of you, you realise that your job is not so much to judge them as to ensure that everyone receives justice.",
+      "prompt": "What is the purpose of this passage?",
+      "options": [
+        "To inform people of what to expect in those jobs.",
+        "To report what different people do and think about their jobs.",
+        "To raise awareness of the importance of different jobs.",
+        "To discuss the advantages and disadvantages of these jobs."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Bài đọc thuật lại chi tiết về công việc thực tế và suy nghĩ nghề nghiệp của 4 nhân vật khác nhau.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q11",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Which of the following would be the best title for this article?",
+      "options": [
+        "Best Guide to Finding an Apartment in New York City",
+        "New York City - Haven for First-time Renters",
+        "Surprises Await First-time Renters in New York City",
+        "Sure You Can Afford it in New York City?"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (Surprises Await First-time Renters in New York City): Tiêu đề phản ánh sự thật ngỡ ngàng về giá thuê đắt đỏ và yêu cầu khắt khe tại New York.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q12",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "On average, how much do tenants have to pay for a studio in New York City?",
+      "options": [
+        "About $2,000",
+        "More than $2,000",
+        "More than $3,100",
+        "Less than $3,500"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B (More than $2,200): Bài đọc nêu rõ: 'the average for a studio is over $2,200'.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q13",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Which of the following words can best replace the word ‘prospective’ in line 12?",
+      "options": [
+        "Apparent",
+        "Prosperous",
+        "Potential",
+        "Upcoming"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (Potential): 'prospective renters' có nghĩa là những người có tiềm năng hoặc đang tìm kiếm thuê nhà.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q14",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Which of the following is NOT listed by Mr. Hunt as a reaction of prospective renters when he informs them of the prices?",
+      "options": [
+        "They think the broker is meaning to deceive them.",
+        "They decide to move to another city.",
+        "They decide to look for a place in a different neighborhood.",
+        "They find someone to share the accommodation with."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Ông Hunt không hề đề cập đến phản ứng chuyển sang thành phố khác của khách thuê.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q15",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "According to Mr. Hunt, what would make the process of finding an apartment challenging?",
+      "options": [
+        "Renters do not trust the brokers.",
+        "Renters over-expect about places they can rent.",
+        "Landlords expect tenants to have secured income.",
+        "Renters want to bargain with landlords."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Khách thuê thường kỳ vọng quá cao so với khả năng tài chính thực tế của họ ('when expectations are very high, the process can be very frustrating').",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q16",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Which of the following would best describe the attitude of renters who decide to raise their price limit after being informed of the price?",
+      "options": [
+        "Willing",
+        "Hopeful",
+        "Reluctant",
+        "Frustrated"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (Reluctant): Khách thuê nâng ngân sách một cách miễn cưỡng/bất đắc dĩ ('grudgingly decides to raise the price limit').",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q17",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "In which space (marked A, B, C and D in the passage) will the following sentence fit? “Aside from the realities of price and space, the requirements set by New York landlords are also bound to help turn a bright-eyed first-time renter’s outlook grim.”",
+      "options": [
+        "Position [A]",
+        "Position [B]",
+        "Position [C]",
+        "Position [D]"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Câu cần chèn bổ sung luận điểm về yêu cầu khắt khe của chủ nhà, đặt trước đoạn nói về quy định thu nhập gấp 40 lần tiền thuê.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q18",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Why did the writer mention the income of college graduates in 2006?",
+      "options": [
+        "To demonstrate that graduates can earn a decent salary if they work in New York City",
+        "To indicate that less than 50% of the surveyed graduates could afford apartments in New York City",
+        "To suggest that New York City is not a place for graduates",
+        "To prove that to guarantee a place in New York City is financially out of reach for an average graduate"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Số liệu thu nhập trung bình $35,600 cho thấy phần lớn sinh viên tốt nghiệp không đủ điều kiện tự đứng tên thuê căn hộ $2,000.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q19",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "What does the word ‘Those’ in line 28 refer to?",
+      "options": [
+        "Landlords",
+        "Graduates",
+        "Guarantors",
+        "Parents"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B (Graduates): 'Those who don't make 40 times...' quy chiếu về những sinh viên mới ra trường không đạt mức thu nhập yêu cầu.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q20",
+      "setId": "ctu-sample-r2",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "B2",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 2: Renting an apartment in Manhattan",
+      "stimulusText": "Spring is the season when newly minted college graduates flock to New York City to start their careers. They begin the search for their dream apartment, brokers say, with the same single-minded determination that earned them their degrees and landed them their jobs in the first place. But that determination only goes so far when it comes to Manhattan real estate. [A]\n“Almost every single person I’ve worked with thinks there’s a golden nugget of an apartment waiting right for them,” said Paul Hunt, an agent at Citi Habitats who specializes in rentals. “They all want to be in the Village, and they all want the ‘Sex and the City’ apartment.”\nThe first shock for a first-time renter will probably be the prices. Consider that the average monthly rent for a one-bedroom in the Village is more than $3,100 and that the average for a studio is over $2,200. Or that the average rent for a one-bedroom in a doorman building anywhere in Manhattan is close to $3,500. [B]\nMr. Hunt said that when he shows prospective renters what their budget really can buy, they are sometimes so appalled that “they think I’m trying to fool them or something, and they run away and I don’t hear from them again.”\nAlternatively, the renter checks his or her expectations and grudgingly decides to raise the price limit, or look in other neighborhoods or get a roommate. “When expectations are very high, the process can be very frustrating,” Mr. Hunt said.\nThe thousands of new graduates who will be driving the engine of the city’s rental market from now until September will quickly learn that renting in New York is not like renting anywhere else. [C]\nThe second shock is likely to be how small a Manhattan apartment can be. It is not uncommon in New York, for example, to shop for a junior one-bedroom only to find out it is really a studio that already has or can have a wall put up to create a bedroom.\n[D] To start with, landlords want only tenants who earn at least 40 times the monthly rent, which means an $80,000 annual salary for a $2,000 apartment. According to census data, more than 25,000 graduates aged 22 to 28 moved to the city in 2006, and their median salary was about $35,600.\nThose who don’t make 40 times their monthly rent need a guarantor, usually a parent, who must make at least 80 times the monthly rent. In addition to a security deposit, some landlords also want the first and last month’s rent. Tack on a broker’s fee and a prospective renter for that $2,000 apartment is out of pocket nearly $10,000 just to get the keys to the place.",
+      "prompt": "Which of the following sentences would best complete the last paragraph?",
+      "options": [
+        "On top of that, every owner also has their own requirements, so just because you qualified here doesn’t mean you’ll qualify there.",
+        "So you had better accept that you’ll never have what you want no matter how hard you work.",
+        "So the key to finding that first apartment is to learn as much as possible about the market before arriving in the city and to keep an open mind.",
+        "You have to be flexible and you have to come to the city armed with information and financial paperwork."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Câu hoàn thiện đoạn văn phù hợp nhất nêu thêm việc mỗi chủ nhà còn có các yêu cầu riêng biệt khác.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q21",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "In paragraph 1, what does the pilot mean by saying, ‘In my 15 years of flying, I have not seen a scene like this’?",
+      "options": [
+        "This scene is very unusual.",
+        "The pilot is not an attentive person.",
+        "The scene makes flying worthy.",
+        "This scene is very magnificent."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Phi công bay 15 năm nhưng chưa từng thấy cảnh tượng băng tan nhiều như vậy, chứng tỏ hiện tượng này rất bất thường.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q22",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "What is the author’s purpose when recounting the scene he saw from the plane?",
+      "options": [
+        "To introduce the idea of global warming",
+        "To give specific detail to support his point that global warming needs public awareness",
+        "To express his opinion towards research on global surface temperature",
+        "To contrast with what the pilot is saying"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Tác giả kể lại hình ảnh từ máy bay để đưa ra chi tiết thực tế minh chứng cho sự cấp bách của nhận thức về biến đổi khí hậu.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q23",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "What is ‘offer comfort’ in line 16 closest in meaning to?",
+      "options": [
+        "Warm up",
+        "Reassure",
+        "Discourage",
+        "Assist"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (Assist): Theo đáp án chính thức CFLA ĐH Cần Thơ, 'offer comfort' trong ngữ cảnh này được hiểu theo nghĩa hỗ trợ/trợ lực cho những người muốn duy trì lối sống phụ thuộc nhiên liệu hóa thạch.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q24",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "What is the main idea of paragraph 3?",
+      "options": [
+        "Hot weather combined with wild fire soot has been melting glaciers.",
+        "There has been enough evidence that global warming is an urgent issue.",
+        "Global warming is evident but some are not willing to deal with this.",
+        "The earliest effects of melting glaciers can only been seen in centuries."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Đoạn 3 tập trung mô tả hiện tượng thời tiết ấm lên kết hợp muội than cháy rừng làm tan chảy các dải băng nhanh chóng.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q25",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "Who does ‘such politicians’ in line 20 refer to?",
+      "options": [
+        "Those who have protested against Obama’s views.",
+        "Those who are not at the same rank as Obama.",
+        "Those who take no actions against global warming.",
+        "Those who do not believe in global warming."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: 'such politicians' chỉ các chính trị gia trì hoãn, không có hành động cụ thể ứng phó với biến đổi khí hậu.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q26",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "In which space (marked A, B, C and D in the passage) will the following sentence fit? “India, the world's third largest user of coal, may have to take measures on its own or face isolation.”",
+      "options": [
+        "Position [A]",
+        "Position [B]",
+        "Position [C]",
+        "Position [D]"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D: Vị trí D nằm cuối đoạn nói về việc các nước lớn cần cam kết hành động, đặt câu về Ấn Độ vào đây là hoàn toàn hợp lý.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q27",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "According to paragraph 4, the author's attitude toward Obama’s actions can be best described as",
+      "options": [
+        "skeptical",
+        "appreciative",
+        "sympathetic",
+        "supportive"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (sympathetic): Theo đáp án chính thức CFLA ĐH Cần Thơ, tác giả thể hiện sự thấu hiểu/đồng cảm với những khó khăn chính trị mà Tổng thống Obama phải đối mặt khi thúc đẩy chính sách môi trường.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q28",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "What can the word ‘scorches’ in line 35 be best replaced by?",
+      "options": [
+        "shines",
+        "warms up",
+        "burns",
+        "heats up"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (heats up): 'scorches' trong ngữ cảnh mặt trời nung nóng bề mặt băng tuyết đồng nghĩa với heats up.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q29",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "Which of the following best describes the tone of the author in this passage?",
+      "options": [
+        "skeptical",
+        "concerned",
+        "indifferent",
+        "pessimistic"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B (concerned): Toàn bộ bài đọc thể hiện giọng điệu quan ngại sâu sắc của tác giả trước tình trạng nóng lên toàn cầu.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q30",
+      "setId": "ctu-sample-r3",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 3: Climate Change and Greenland Ice Melt",
+      "stimulusText": "‘Ladies and gentlemen’, the captain's voice crackled over the plane's public address system. \"If you look out of the window on the right side of the aircraft,\" he said, \"you will have a clear view of Greenland. In my 15 years of flying, I have not seen a scene like this.\" I opened the window shade, and I understood what had so startled the pilot. Instead of the habitual snowy landscape and frozen glaciers, a wide swathe of black water was visible as it flowed into the Atlantic. It was late spring, but the giant icebox that is Greenland was already melting.\nThe fleeting image that I saw from 30,000 feet in early May is consistent with massive amounts of climate data gathered from across the planet. It is now clear that on average, the global surface temperature has increased by about one degree Celsius since 1900 and has been the cause of extreme climate events across the planet.\nAt times, warming climate combined with soot in the air thrown by wild fire has accelerated the melting. Warm weather is leading ice sheets to break up and turning glaciers into flowing streams. In May, NASA scientists concluded that the rapidly melting glacial region of Antarctica has passed \"the point of no return\", threatening to increase sea levels by as much as 13 feet within the next few centuries. [A] The fact that the melting is taking place slowly and its effect may not be felt for a few decades seems to offer comfort to those who want to continue their lifestyle relying on fossil fuels. Unwilling to believe in global warming or make the sacrifices needed to face the challenge, politicians have been finding excuses to do nothing. [B]\nAmerican President Barack Obama, not hobbled by the need to fight elections, has now broken ranks with such politicians. Unable to pass legislation in the face of Republican (and sometimes Democratic) opposition, he instructed the Environmental Protection Agency to announce regulatory policies to curb emissions from power plants in the United States by 30 per cent by 2030. He hopes that regulations would influence the US states to adopt aggressive market interventions to address global warming. Of course, execution of the policy still lies in the hands of many state governors who would find ways to resist, saying that regulations would raise the cost to the economy and cause unemployment among coal workers. As President Obama told Thomas Friedman of the New York Times: \"One of the hardest things in politics is getting a democracy to deal with something now where the payoff is long term or the price of inaction is decades away.\" [C]\nThe price of inaction could be raised - if the coming global summit on climate in Paris could do what other summits have failed to do: agree on a fixed target for greenhouse gas emissions and a rigorous system for monitoring. China has hinted at capping coal burning in the next 15 years, adding weight in favour of action. [D] Meanwhile, melting in Greenland and the Antarctica will continue as the sun scorches the fields and rising water threatens the coastal areas.",
+      "prompt": "Which of the following could best describe the message that the author wants to pass to readers?",
+      "options": [
+        "Fossil fuel should be replaced in the future.",
+        "Solutions to global warming need political support.",
+        "Rapid glacial melthas reached an irreversible point.",
+        "Politicians play a key role inresolving global issues."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Thông điệp cốt lõi nhấn mạnh hiện tượng băng tan ở hai cực đang tiến gần đến điểm không thể cứu vãn.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q31",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "The word ‘they’ in line 3 refers to",
+      "options": [
+        "mats",
+        "origins",
+        "bacteria",
+        "DNA"
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C (bacteria): 'they' thay thế cho danh từ số nhiều 'bacteria' ngay trước đó (these bacteria... they have cell walls).",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q32",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "According to the passage, what is RNA?",
+      "options": [
+        "A protein",
+        "A molecule",
+        "A nucleotide",
+        "A cell"
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B (A molecule): RNA được định nghĩa là một phân tử sinh học phức tạp ('RNA was the head-honcho molecule').",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q33",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "The phrase ‘took a backseat’ in line 12 is closest in meaning to",
+      "options": [
+        "enjoyed more dominance",
+        "turned to be useless",
+        "stepped back to its place",
+        "became less important"
+      ],
+      "answer": 3,
+      "explanation": "Đáp án D (became less important): 'took a backseat' là thành ngữ chỉ việc lui về vị trí thứ yếu, nhường vai trò chính cho DNA và protein.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q34",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "According to the passage, what is NOT true about RNA?",
+      "options": [
+        "It is the crux of a widely accepted theory on the origin of life.",
+        "It is believed to be most important for early life.",
+        "Like DNA, it executes many duties in human cells.",
+        "There is still disagreement over how RNA first appeared."
+      ],
+      "answer": 0,
+      "explanation": "Đáp án A: Đoạn văn nêu giả thuyết RNA World vẫn còn nhiều tranh cãi chứ chưa phải là lý thuyết được chấp nhận rộng rãi.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q35",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "What does Robert Shapiro mean when he says, ‘To adopt this, you have to believe we were incredibly lucky’?",
+      "options": [
+        "Supporters of RNA world hypothesis must think that humans were extremely blessed.",
+        "Humans were incredibly lucky because the RNA was the first form of life on Earth.",
+        "He believes it is near impossible that RNA accidentally arose on Earth.",
+        "Humans were unlucky because the RNA world hypothesis is highly improbable."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Shapiro cho rằng xác suất để một phân tử tinh vi như RNA hình thành ngẫu nhiên là gần như bất khả thi trong vũ trụ.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q36",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "Which of the following statements would Dawkins most probably support?",
+      "options": [
+        "As there are a countless number of planets, it is surprising that life arose on Earth only.",
+        "Life may exist on planets other than Earth and in universes other than ours.",
+        "There are many universes like ours, which contain an incredible number of planets.",
+        "Given the colossal number of planets, the appearance of life on one of them was not unusual."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Theo đáp án chính thức CFLA ĐH Cần Thơ, Dawkins ủng hộ quan điểm vũ trụ đa chiều với vô số hành tinh, nâng xác suất xuất hiện sự sống.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q37",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "According to the passage, which is most likely supported by Robert Shapiro?",
+      "options": [
+        "Life on Earth first came from outer space.",
+        "It is highly possible that DNA was present in earliest stages of life.",
+        "Earliest life might not have arisen in the form of complex molecules.",
+        "Life has arisen more than once on Earth."
+      ],
+      "answer": 2,
+      "explanation": "Đáp án C: Shapiro ủng hộ thuyết đơn giản hơn, cho rằng sự sống nguyên thủy bắt đầu từ các phân tử nhỏ và ít phức tạp hơn RNA.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q38",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "Which of the following is NOT mentioned as a hypothesis of life origin?",
+      "options": [
+        "Life was formed elsewhere and then came to Earth.",
+        "Life was brought to Earth with crashing comets.",
+        "RNA played a central role in the early form of life.",
+        "DNA is more efficient than RNA for primitive life."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Giả thuyết sao chổi rơi mang sự sống xuống Trái Đất có được đề cập; câu hỏi hỏi điều KHÔNG được xem là giả thuyết chính xác.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q39",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "Which of following conclusions can be drawn from this passage?",
+      "options": [
+        "Among many hypotheses for life origin on Earth, RNA remains the most important one.",
+        "Many theories of the origin of life have been proposed but no fully accepted theory exists.",
+        "Trying to explain what happened billions of years ago is an extremely difficult but possible task.",
+        "The answer to the question of how life appeared would have important implications for the likelihood of finding life elsewhere in the universe."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Kết luận toàn bài là hiện có rất nhiều giả thuyết về nguồn gốc sự sống nhưng chưa có thuyết nào được chứng minh tuyệt đối.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ctu-r-q40",
+      "setId": "ctu-sample-r4",
+      "provider": "CFLA · Đại học Cần Thơ (Official 2015)",
+      "level": "C1",
+      "skill": "Reading",
+      "type": "Multiple choice",
+      "stimulusTitle": "Passage 4: The RNA World and Origin of Life",
+      "stimulusText": "The earliest evidence for life on Earth comes from fossilized mats of cyanobacteria called stromatolites in Australia that are about 3.4 billion years old. Ancient as their origins are, these bacteria, which are still around today, are already biologically complex—they have cell walls protecting their protein-producing DNA, so scientists think life must have begun much earlier, perhaps as early as 3.8 billion years ago. But despite knowing approximately when life first appeared on Earth, scientists are still far from answering how it appeared. \nToday, there are several competing theories for how life arose on Earth. Some question whether life began on Earth at all, asserting instead that it came from a distant world or the heart of a fallen comet or asteroid. Some even say life might have arisen here more than once. \nMost scientists agree that life went through a period when RNA was the head-honcho molecule, guiding life through its nascent stages. According to this \"RNA World\" hypothesis, RNA was the crux molecule for primitive life and only took a backseat when DNA and proteins—which perform their jobs much more efficiently than RNA—developed. \nRNA is very similar to DNA, and today carries out numerous important functions in each of our cells, including acting as a transitional-molecule between DNA and protein synthesis, and functioning as an on-and-off switch for some genes. \nBut the RNA World hypothesis doesn't explain how RNA itself first arose. Like DNA, RNA is a complex molecule made of repeating units of thousands of smaller molecules called nucleotides that link together in very specific, patterned ways. While there are scientists who think RNA could have arisen spontaneously on early Earth, others say the odds of such a thing happening are astronomical. \n\"The appearance of such a molecule, given the way chemistry functions, is incredibly improbable. It would be a once-in-a-universe long shot,\" said Robert Shapiro, a chemist at New York University. \"To adopt this, you have to believe we were incredibly lucky.\" \nBut \"astronomical\" is a relative term. In his book, The God Delusion, biologist Richard Dawkins entertains another possibility, inspired by work in astronomy and physics. Suppose, Dawkins says, the universe contains a billion planets, a conservative estimate, he says, then the chances that life will arise on one of them is not really so remarkable. Furthermore, if, as some physicists say, our universe is just one of many, and each universe contained a billion planets, then it's nearly a certainty that life will arise on at least one of them. \nShapiro doesn't think it's necessary to invoke multiple universes or life-laden comets crashing into ancient Earth. Instead, he thinks life started with molecules that were smaller and less complex than RNA, which performed simple chemical reactions that eventually led to a self-sustaining system involving the formation of more complex molecules. \"If you fall back to a simpler theory, the odds aren't astronomical anymore,\" Shapiro concluded.",
+      "prompt": "Which of the following best describes the organization of this passage?",
+      "options": [
+        "A general presentation followed by a detailed discussion of both sides of an issue.",
+        "A list of possible answers to a question followed by a discussion of their strengths and weaknesses.",
+        "A general statement of an issue followed by a discussion of possible answers.",
+        "A discussion of different aspects wrapped up by an answer to the question."
+      ],
+      "answer": 1,
+      "explanation": "Đáp án B: Cấu trúc bài đọc liệt kê các giả thuyết giải thích nguồn gốc sự sống và phân tích điểm mạnh, điểm yếu của từng giả thuyết.",
+      "source": "Đề mẫu VSTEP Bậc 3-5 Trung tâm Ngoại ngữ CFLA — Đại học Cần Thơ (Tháng 5/2015)",
+      "year": 2015,
+      "reviewStatus": "reviewed"
+    }
+  ],
+  "open_tasks": [
+    {
+      "task_id": "ctu-sample-w1",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "B1",
+      "skill": "Writing",
+      "task_type": "Task 1 · Thư phản hồi thông tin về bạn cho Jane",
+      "part": "Task 1",
+      "time_minutes": 20,
+      "minimum_words": 120,
+      "prompt": "You received an email from your English friend, Jane. She asked you for some information about one of your friends, An. She said she's going to take a course in London this summer and asked if she could stay with Jane's family until she finds an apartment. Jane wants to know about An's personality, hobbies and interests, and her current work or study. Write an email responding to Jane (at least 120 words).",
+      "planning_steps": [
+        "Lời chào: Thân mật (Dear Jane / Hi Jane).",
+        "Mở bài: Cảm ơn Jane đã gửi email và bày tỏ sự vui mừng trước kế hoạch sang London học của An.",
+        "Thân bài 1: Mô tả tính cách của An (thân thiện, ngăn nắp, biết tôn trọng không gian riêng).",
+        "Thân bài 2: Chia sẻ sở thích (nấu ăn món Việt, nghe nhạc nhẹ, chạy bộ) và công việc/ngành học của An.",
+        "Kết thư: Khẳng định An sẽ là người bạn cùng nhà tuyệt vời và mong sớm gặp lại Jane."
+      ],
+      "self_review": [
+        "Đã phản hồi đủ 3 câu hỏi chính của Jane (tính cách, sở thích, việc làm/học tập)?",
+        "Dung lượng đạt tối thiểu 120 từ?",
+        "Văn phong thân mật, tự nhiên, liên kết câu mượt mà?"
+      ],
+      "source": "Đề mẫu VSTEP Bậc 3-5 CFLA — Đại học Cần Thơ (2015)"
+    },
+    {
+      "task_id": "ctu-sample-w2",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "C1",
+      "skill": "Writing",
+      "task_type": "Task 2 · Luận học thuật: Tác động của du lịch đến cộng đồng địa phương",
+      "part": "Task 2",
+      "time_minutes": 40,
+      "minimum_words": 250,
+      "prompt": "Tourism has become one of the fastest growing industries in the world. Millions of people today are travelling farther and farther throughout the year. Some people argue that the development of tourism has had negative effects on local communities; others think that its influences are positive. Write an essay to an educated reader to discuss the effects of tourism on local communities. Include reasons and relevant examples to support your answer (at least 250 words).",
+      "planning_steps": [
+        "Mở bài (Introduction): Nêu thực trạng phát triển nhanh chóng của ngành du lịch toàn cầu và định vị luận điểm (thesis statement) bàn luận về cả cơ hội lẫn thách thức đối với cộng đồng bản địa.",
+        "Thân bài 1 (Tác động tích cực): Tạo sinh kế, việc làm, gia tăng thu nhập; khuyến khích chính quyền đầu tư cơ sở hạ tầng (giao thông, y tế); thúc đẩy quảng bá văn hóa bản địa.",
+        "Thân bài 2 (Tác động tiêu cực): Áp lực quá tải cơ sở hạ tầng, lạm phát giá cả sinh hoạt cục bộ, ô nhiễm môi trường và nguy cơ thương mại hóa làm mai một phong tục truyền thống.",
+        "Kết luận (Conclusion): Khẳng định du lịch là ngành kinh tế mũi nhọn nhưng cần chính sách phát triển bền vững và sự tham gia quản lý trực tiếp của cư dân địa phương."
+      ],
+      "self_review": [
+        "Đạt dung lượng từ 250 từ trở lên?",
+        "Phân tích cân bằng cả mặt tích cực và tiêu cực với dẫn chứng xác đáng?",
+        "Sử dụng từ vựng học thuật C1 (sustainable ecotourism, socio-economic vitality, cultural commodification, local infrastructure)?",
+        "Cấu trúc đoạn văn chuẩn học thuật (Topic sentence, Supporting details, Examples)?"
+      ],
+      "source": "Đề mẫu VSTEP Bậc 3-5 CFLA — Đại học Cần Thơ (2015)"
+    },
+    {
+      "task_id": "ctu-sample-sp-p1",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "B1",
+      "skill": "Speaking",
+      "task_type": "Part 1 · Tương tác xã hội: Hoạt động lúc rảnh rỗi & Khu phố sinh sống",
+      "part": "Part 1",
+      "time_minutes": 3,
+      "prompt": "Topic 1 — Free time activities: What do you often do in your free time? Do you watch TV? (If no, why not? If yes, which TV channel do you like best? Why?) Do you read books? (If no, why not? If yes, what kinds of books do you like best? Why?)\n\nTopic 2 — Neighborhood: Can you tell me something about your neighborhood? What do you like most about it? Do you plan to live there for a long time? (Why/why not?)",
+      "planning_steps": [
+        "Phần 1: Trả lời trực tiếp sở thích lúc rảnh rỗi (thể thao, đọc sách) và giải thích lợi ích giúp xả stress.",
+        "Kênh TV / Sách: Chọn 1 kênh truyền hình (Discovery, HBO) hoặc thể loại sách yêu thích kèm lý do mở rộng 2 câu.",
+        "Phần 2: Miêu tả khu phố (yên bình, an ninh tốt, hàng xóm thân thiện) và giải thích lý do gắn bó lâu dài."
+      ],
+      "self_review": [
+        "Trả lời trôi chảy, phát âm rõ ràng?",
+        "Mở rộng mỗi câu trả lời ít nhất 2-3 câu liên kết?",
+        "Tránh trả lời cụt lủn Yes/No?"
+      ],
+      "source": "Đề mẫu VSTEP Bậc 3-5 CFLA — Đại học Cần Thơ (2015)"
+    },
+    {
+      "task_id": "ctu-sample-sp-p2",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "B2",
+      "skill": "Speaking",
+      "task_type": "Part 2 · Thảo luận giải pháp: Phương tiện di chuyển từ Đà Nẵng ra Hà Nội",
+      "part": "Part 2",
+      "time_minutes": 4,
+      "prompt": "Situation: A group of people is planning a trip from Danang to Hanoi. Three means of transport are suggested: by train, by plane, and by coach. Which means of transport do you think is the best choice?",
+      "planning_steps": [
+        "Mở đầu: Chọn phương án tối ưu (Plane nếu ưu tiên thời gian hoặc Train nếu ưu tiên trải nghiệm ngắm cảnh).",
+        "Biện hộ cho phương án chọn: Thời gian di chuyển nhanh (1 giờ 20 phút bằng máy bay), đảm bảo sức khỏe cho lịch trình công việc/du lịch dày đặc.",
+        "Phản bác phương án Tàu hỏa (Train): Mất khoảng 16-18 tiếng, gây mệt mỏi cho người già hoặc trẻ nhỏ.",
+        "Phản bác phương án Xe khách (Coach): Chật chội, tiềm ẩn rủi ro ùn tắc giao thông trên quốc lộ.",
+        "Kết luận: Tóm tắt lại quyết định chọn máy bay là phương án hợp lý nhất cho cả đoàn."
+      ],
+      "self_review": [
+        "Bố cục rõ ràng: Chọn 1 giải pháp + Nêu 2 lý do ủng hộ + Phản bác 2 giải pháp còn lại?",
+        "Sử dụng từ nối so sánh (Whereas, In stark contrast to, While it is true that)?",
+        "Thời lượng kiểm soát trong khoảng 3-4 phút?"
+      ],
+      "source": "Đề mẫu VSTEP Bậc 3-5 CFLA — Đại học Cần Thơ (2015)"
+    },
+    {
+      "task_id": "ctu-sample-sp-p3",
+      "set_id": "ctu-vstep-sample-ws",
+      "level": "C1",
+      "skill": "Speaking",
+      "task_type": "Part 3 · Phát triển chủ đề: Khuyến khích thói quen đọc sách ở thanh thiếu niên",
+      "part": "Part 3",
+      "time_minutes": 5,
+      "prompt": "Topic: Reading habit should be encouraged among teenagers.",
+      "topic_statement": "Reading habit should be encouraged among teenagers.",
+      "mindmap": [
+        "Increases knowledge (Mở rộng vốn tri thức học thuật và hiểu biết xã hội)",
+        "Reduces stress (Liều thuốc tinh thần lành mạnh giúp giảm áp lực thi cử)",
+        "Improves memory & focus (Rèn luyện sự tập trung sâu và tư duy phản biện)",
+        "Cultivates empathy and language proficiency (Nâng cao khả năng diễn đạt và sự thấu cảm)"
+      ],
+      "follow_up_questions": [
+        "What is the difference between the kinds of books read by your parents' generation and those read by your generation?",
+        "Do you think that governments should support free books for all people?",
+        "In what way can parents help children develop their interest in reading?"
+      ],
+      "planning_steps": [
+        "Mở bài: Đưa ra nhận định tổng quan về tầm quan trọng của văn hóa đọc trong kỷ nguyên số.",
+        "Thân bài: Lần lượt triển khai 3 nhánh mindmap có sẵn và bổ sung nhánh thứ 4 (Ý tưởng cá nhân về kỹ năng ngôn ngữ và sự thấu cảm).",
+        "Mỗi ý đều có câu giải thích (Explanation) và ví dụ thực tiễn (Example).",
+        "Trả lời lưu loát 3 câu hỏi phụ của giám khảo với góc nhìn phản biện C1 đa chiều."
+      ],
+      "self_review": [
+        "Phát triển ý mạch lạc, sử dụng các từ nối học thuật (Furthermore, In addition, Consequently)?",
+        "Trả lời trọn vẹn cả 3 câu hỏi follow-up?",
+        "Giữ phong thái tự tin, tốc độ nói tự nhiên trong 4-5 phút?"
+      ],
+      "source": "Đề mẫu VSTEP Bậc 3-5 CFLA — Đại học Cần Thơ (2015)"
+    }
+  ]
+}

@@ -62,7 +62,7 @@ function homePage(v){
     <div class="hero-copy">
       <div class="eyebrow" style="color:#d4e4d8">HỆ THỐNG LUYỆN THI VSTEP BẬC 3–5 CHUẨN XÁC</div>
       <h1>Mục tiêu đạt chuẩn C1<br><em>với kho đề mẫu & bài luyện.</em></h1>
-      <p>205 câu hỏi trắc nghiệm (170 Đọc hiểu + 35 Nghe hiểu có Transcript), 31 bài luận & thư cùng 33 nhiệm vụ nói thực tế. Phân tách rõ ràng từng thư mục B1, B2, C1.</p>
+      <p>245 câu hỏi trắc nghiệm (210 Đọc hiểu + 35 Nghe hiểu có Transcript), 33 bài luận & thư cùng 36 nhiệm vụ nói thực tế. Phân tách rõ ràng từng thư mục B1, B2, C1.</p>
       <div style="display:flex;gap:10px;margin-top:18px;flex-wrap:wrap">
         <button class="button" style="background:#f0d0ae;color:#1e3b2e;padding:12px 18px;font-size:13px" onclick="currentFolderLevel='C1';currentFolderTab='all';nav('practice')">
           🟣 Mở kho tài liệu Bậc C1 →
@@ -219,7 +219,7 @@ function practicePage(v) {
           📖 <span>Kỹ năng Đọc hiểu</span> <span class="tab-count">${readingCount} bài</span>
         </button>
         <button class="folder-tab ${currentFolderTab === 'exams' ? 'active' : ''}" data-tab="exams" onclick="setFolderTab('exams')">
-          🏛️ <span>Đề thi trọn bộ</span> <span class="tab-count">5 bộ</span>
+          🏛️ <span>Đề thi trọn bộ</span> <span class="tab-count">6 bộ</span>
         </button>
       </div>
 
@@ -280,7 +280,7 @@ function renderPracticeFolders() {
     if ((lvl === 'all' || lvl === 'B2') && lisB2.length) {
       html += renderListeningFolderSection(
         '🎧',
-        'Thư mục: Nghe Bậc B2 — Part 2: 3 Đoạn hội thoại thực tế (12 câu có Transcript)',
+        'Thư mục: Nghe Bậc B2 — Part 2: 3 hội thoại mô phỏng (12 câu có lời thoại)',
         'Luyện nghe hội thoại đời sống & học đường (Đăng ký tín chỉ, Đàm phán địa điểm hội thảo, Hợp đồng thuê nhà) với giọng đọc phân vai Nam/Nữ.',
         lisB2
       );
@@ -518,7 +518,7 @@ function renderReadingFolderSection(icon, title, desc, sets) {
       </div>
       <div class="folder-grid">
         ${sets.map(s => {
-          const isOfficial = s.id.includes('udn') || s.id.includes('qnu') || s.id.includes('official');
+          const isOfficial = s.id.includes('udn') || s.id.includes('qnu') || s.id.includes('ctu') || s.id.includes('official');
           const isMock = s.id.includes('zim') || s.id.includes('prep');
           const badgeText = isOfficial ? 'Đề mẫu chính thức' : (isMock ? 'Bài mẫu luyện thi' : 'Bài luyện C1 tổng hợp');
           const badgeClass = isOfficial ? 'badge-official' : (s.level === 'C1' ? 'badge-c1' : (s.level === 'B2' ? 'badge-b2' : 'badge-b1'));
@@ -563,6 +563,14 @@ function renderExamsFolderSection() {
       badge: 'Đề mẫu ĐH Quy Nhơn'
     },
     {
+      title: 'Đề mẫu chính thức CFLA Đại học Cần Thơ (2015)',
+      desc: 'Bộ đề thi mẫu chính thức VSTEP Bậc 3-5 do CFLA công bố: 40 câu hỏi Đọc hiểu có bảng đáp án gốc & giải thích chi tiết, 2 bài Viết (Jane & Du lịch cộng đồng) và 3 phần Nói kèm dàn ý C1.',
+      readingSets: ['ctu-sample-r1', 'ctu-sample-r2', 'ctu-sample-r3', 'ctu-sample-r4'],
+      packId: 'vstep-ctu-sample-2015',
+      packUrl: 'packs/vstep-ctu-reading.json',
+      badge: 'Đề mẫu ĐH Cần Thơ 2015'
+    },
+    {
       title: 'Bài mẫu luyện tập theo nguồn ZIM',
       desc: 'Gói luyện 4 kỹ năng, 40 câu Reading và nhiệm vụ Writing/Speaking; nguồn trang mô tả là bài mô phỏng để tham khảo.',
       readingSets: ['zim-sample-r1', 'zim-sample-r2', 'zim-sample-r3', 'zim-sample-r4'],
@@ -594,11 +602,11 @@ function renderExamsFolderSection() {
         <div class="folder-title-area">
           <div class="folder-icon-large">🏛️</div>
           <div>
-            <h2>Thư mục: 5 Bộ đề thi VSTEP hoàn chỉnh 4 kỹ năng</h2>
-            <p>Tuyển tập đầy đủ các bộ đề thi mẫu chính thức và đề thi thử chuẩn mực đã được nạp sẵn vào ứng dụng.</p>
+            <h2>Thư mục: 6 Bộ đề thi VSTEP hoàn chỉnh 4 kỹ năng</h2>
+            <p>Tuyển tập đầy đủ các bộ đề thi mẫu chính thức từ các trường Đại học và đề thi thử chuẩn mực đã được nạp sẵn vào ứng dụng.</p>
           </div>
         </div>
-        <span class="folder-count-badge">5 bộ đề hoàn chỉnh</span>
+        <span class="folder-count-badge">6 bộ đề hoàn chỉnh</span>
       </div>
       <div class="folder-grid">
         ${exams.map(e => `
@@ -802,10 +810,10 @@ function msEmptyTitle(){return state.mistakes.length?'Không tìm thấy câu ph
 function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eyebrow">ĐÍCH ĐẾN: C1 · KỲ THI CHUẨN ĐẦU RA ĐHĐN</div><h1>Học liệu & định dạng thi</h1><p>Đợt thi tại ĐH Sư phạm dự kiến ngày 29/11/2026. Dùng định dạng Bậc 3–5 làm khung luyện theo nguồn chính thức, đồng thời phân biệt rõ tài liệu tham khảo với ngân hàng đề riêng của kỳ thi.</p></div><div class="notice"><b>Mục tiêu C1:</b> Bài thi đánh giá chung B1–C1; điểm thi quyết định bậc đạt được. Cấu trúc dưới đây theo định dạng 729/QĐ-BGDĐT được trường công bố. Trang đợt thi xác nhận ngày thi và lệ phí, nhưng người học nên làm theo hướng dẫn dự thi mới nhất của trường nếu có thay đổi.</div><div class="section-head"><div><h2>Khung bài thi Bậc 3–5</h2><p>Bốn kỹ năng · đề đa bậc · thông số theo định dạng công bố</p></div><span class="set-badge">Nguồn: QĐ 729/QĐ-BGDĐT</span></div><div class="level-grid"><article class="level-card"><div class="level-top"><span class="level-tag">LISTENING</span></div><h3>Nghe · khoảng 40 phút</h3><p>35 câu, khoảng 40 phút. Đề mẫu 2025: Part 1 có 8 thông báo ngắn; Part 2 có 3 hội thoại, mỗi hội thoại 4 câu; Part 3 có 3 bài nói/bài giảng, mỗi bài 5 câu. Bản mẫu hướng dẫn nghe mỗi bản ghi một lần.</p><div class="level-meta"><span>Chi tiết · ý chính · suy luận</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">READING</span></div><h3>Đọc · 60 phút</h3><p>40 câu trắc nghiệm trên 4 bài đọc, 10 câu mỗi bài. Dạng trọng tâm: chi tiết, ý chính, thái độ/quan điểm, suy luận và từ vựng trong ngữ cảnh.</p><div class="level-meta"><span>4 bài · tăng dần độ khó</span></div></article><article class="level-card"><div class="level-top"><span class="level-tag">WRITING</span></div><h3>Viết · 60 phút</h3><p>60 phút: thư/email tối thiểu khoảng 120 từ, chiếm 1/3 điểm Viết; bài luận tối thiểu khoảng 250 từ, chiếm 2/3 điểm.</p><div class="level-meta"><span>Task 1 + Task 2</span></div></article></div><div class="quick-grid" style="margin-top:12px"><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · khoảng 12 phút</h3><p>12 phút: Part 1 tương tác xã hội, Part 2 chọn và bảo vệ giải pháp, Part 3 phát triển chủ đề và trả lời câu hỏi phụ. Đề mẫu chia thời gian lần lượt 3, 4 và 5 phút.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Quy đổi bậc tham khảo</h3><p>Điểm trung bình 4 kỹ năng được làm tròn theo bước 0,5: 4,0–5,5 = B1; 6,0–8,0 = B2; 8,5–10 = C1. Xác nhận quy tắc áp dụng với thông báo kỳ thi hiện hành.</p></article></div><div class="section-head"><div><h2>Cách luyện theo từng kỹ năng</h2><p>Chiến thuật tóm tắt cho bài đa bậc; đối chiếu chỉ dẫn trên đề thật</p></div></div><div class="resource-grid"><article class="resource-card"><div class="resource-icon">🎧</div><h3>Nghe · đọc trước, bắt ý rồi kiểm chứng</h3><p>Trước audio, lướt câu hỏi và gạch từ khóa. Khi nghe, ghi ý/quan hệ giữa người nói; tránh chọn đáp án chỉ vì nghe thấy một từ giống lựa chọn.</p></article><article class="resource-card"><div class="resource-icon">▤</div><h3>Đọc · xác định bằng chứng trong đoạn</h3><p>Đọc câu hỏi trước để định hướng, tìm vị trí thông tin, phân biệt chi tiết với suy luận. Với câu từ vựng, đọc cả câu và các câu lân cận.</p></article><article class="resource-card"><div class="resource-icon">✎</div><h3>Viết · lập dàn ý, trả lời đủ yêu cầu</h3><p>Task 1: xác định người nhận, mục đích và các ý bắt buộc. Task 2: nêu lập trường, phát triển luận điểm bằng giải thích/ví dụ và dành thời gian rà soát.</p></article><article class="resource-card"><div class="resource-icon">◉</div><h3>Nói · trả lời trực tiếp rồi mở rộng</h3><p>Part 1: trả lời và thêm lý do/ví dụ. Part 2: so sánh giải pháp, chọn và biện minh. Part 3: trình bày quan điểm có cấu trúc, liên kết ý và đáp câu hỏi mở rộng.</p></article></div><div class="section-head"><div><h2>Tính điểm mục tiêu</h2><p>Nhập điểm thử 4 kỹ năng để xem trung bình và bậc tham khảo</p></div></div><div class="result-card"><div class="filter-row"><label class="score-field">Nghe <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Đọc <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Viết <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label><label class="score-field">Nói <input class="filter-select skill-score" type="number" min="0" max="10" step="0.5" value="0"></label></div><div id="score-output" class="answer-feedback">Nhập điểm từng kỹ năng để tính kết quả tham khảo.</div></div><div class="section-head"><div><h2>Nguồn luyện tập & kho đề mẫu</h2><p>Đề mẫu chính thức, bài mẫu luyện thi và gói tự biên soạn; nạp trực tiếp để luyện</p></div><a class="button ghost small" href="content-pack-template.json" download>Tải mẫu JSON</a><button class="button secondary small" onclick="document.querySelector('#pack-file').click()">Nhập gói từ file JSON</button><input id="pack-file" type="file" accept=".json,application/json" hidden></div><div class="preset-banner" style="background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px;margin:14px 0">
   <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;margin-bottom:12px">
     <div>
-      <strong style="font-size:13px;color:var(--ink);display:block">⚡ Kho đề thi & bài luyện chuẩn hóa (205 câu Đọc/Nghe · 64 nhiệm vụ Viết/Nói)</strong>
-      <p style="font-size:11.5px;color:var(--muted);margin:3px 0 0">Tự động nạp 8 bộ đề chuẩn: đề mẫu ĐHĐN 2025, ĐH Quy Nhơn, ZIM, PREP, Gói C1 tổng hợp, Đề Nghe 35 câu có Transcript, 10 Đề thư Task 1 và 18 Đề Nói mở rộng:</p>
+      <strong style="font-size:13px;color:var(--ink);display:block">⚡ Kho đề thi & bài luyện chuẩn hóa (245 câu Đọc/Nghe · 69 nhiệm vụ Viết/Nói)</strong>
+      <p style="font-size:11.5px;color:var(--muted);margin:3px 0 0">Tự động nạp 9 bộ đề chuẩn: đề mẫu ĐHĐN 2025, ĐH Quy Nhơn, ZIM, PREP, Gói C1 tổng hợp, Đề Nghe 35 câu có Transcript, 10 Đề thư Task 1, 18 Đề Nói mở rộng và Đề mẫu ĐH Cần Thơ 2015:</p>
     </div>
-    <span class="set-badge" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0">Đã đồng bộ 8 bộ đề</span>
+    <span class="set-badge" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0">Đã đồng bộ 9 bộ đề</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:8px">
     <button class="button small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-official-sample-udn.json','Đề mẫu ĐHĐN 2025')">
@@ -813,6 +821,9 @@ function resourcesPage(v){v.innerHTML=`<div class="page-heading"><div class="eye
     </button>
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-official-sample-qnu.json','Đề mẫu ĐH Quy Nhơn')">
       📥 <strong>ĐH Quy Nhơn & ĐH Đồng Tháp</strong> · 40 Đọc + 5 Viết/Nói
+    </button>
+    <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-ctu-reading.json','Đề mẫu ĐH Cần Thơ 2015')">
+      📥 <strong>ĐH Cần Thơ (CFLA 2015)</strong> · 40 Đọc + 5 Viết/Nói
     </button>
     <button class="button secondary small" style="text-align:left;justify-content:flex-start" onclick="loadPresetPack('packs/vstep-sample-zim.json','Đề mẫu luyện tập ZIM')">
       📥 <strong>Đề mẫu luyện tập ZIM</strong> · 40 Đọc + 5 Viết/Nói
@@ -838,7 +849,7 @@ function calculateScore(){const vals=[...document.querySelectorAll('.skill-score
 function importPack(ev){const f=ev.target.files?.[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const pack=JSON.parse(r.result),qs=pack.questions||[],sets=pack.sets||[];if(!Array.isArray(qs)||!qs.length)throw Error('Gói không có danh sách questions.');const valid=qs.every(q=>q.id&&q.setId&&['B1','B2','C1'].includes(q.level)&&q.prompt&&Array.isArray(q.options)&&Number.isInteger(q.answer)&&q.answer>=0&&q.answer<q.options.length);if(!valid)throw Error('Một số câu thiếu ID, trình độ, lựa chọn hoặc đáp án hợp lệ.');state.customQuestions=[...(state.customQuestions||[]).filter(old=>!qs.some(q=>q.id===old.id)),...qs];state.customSets=[...(state.customSets||[]).filter(old=>!sets.some(q=>q.id===old.id)),...sets];save();toast(`Đã nhập ${qs.length} câu vào thiết bị này.`);setTimeout(()=>render(),250)}catch(e){toast('Không nhập được: '+e.message)}ev.target.value=''};r.readAsText(f)}
 function groupQuestionsByStimulus(questions){const groups=new Map();for(const q of questions){const key=`${q.skill||''}::${q.stimulusTitle||q.id}`;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(q)}return Array.from(groups.values()).flat()}function startSet(id,opts={}){const set=SETS.find(x=>x.id===id);if(!set)return;let questions=groupQuestionsByStimulus(QUESTIONS.filter(q=>q.setId===id));const resume=state.resume?.setId===id?state.resume:null;const shuffle=opts.shuffle??document.querySelector('#shuffle')?.checked??false;if(resume?.questionIds)questions=resume.questionIds.map(qid=>QUESTIONS.find(q=>q.id===qid)).filter(Boolean);else if(shuffle&&questions.every(q=>!q.stimulusText))questions.sort(()=>Math.random()-.5);else if(shuffle)toast('Câu hỏi trong cùng một bài đọc/nghe được giữ theo thứ tự.');session={set,questions,index:0,answers:{},started:Date.now(),timed:opts.timed??resume?.timed??document.querySelector('#timed')?.checked??false};if(resume&&resume.index<questions.length){session.index=resume.index;session.answers=resume.answers||{};session.started=Date.now()-((resume.elapsed||0)*1000)}history.replaceState(null,'','#practice');setPage('practice');renderSession()}
 function resumeSet(){if(state.resume)startSet(state.resume.setId,{shuffle:false,timed:state.resume.timed||false})}
-function renderSession(){clearTimeout(timerId);const v=document.querySelector('#view'),s=session,q=s.questions[s.index],answered=Object.keys(s.answers).length,elapsed=Math.floor((Date.now()-s.started)/1000);state.resume={setId:s.set.id,index:s.index,answers:s.answers,elapsed,timed:s.timed,questionIds:s.questions.map(x=>x.id)};save();v.innerHTML=`<div class="session"><div class="session-top"><span>${s.set.level} · ${s.set.title}</span><span>${s.index+1} / ${s.questions.length} câu ${s.timed?`· <b id="timer">${formatTime(elapsed)}</b>`:''}</span></div><div class="progress-track"><span style="width:${(s.index/s.questions.length)*100}%"></span></div><article class="question-card"><div class="question-kicker">${q.skill} · ${q.type}</div>${q.stimulusText?`<section class="stimulus"><h3>${esc(q.stimulusTitle||q.skill)}</h3>${q.skill==='Reading'?`<p>${esc(q.stimulusText)}</p>`:`<div style="background:#f0fdf4;border:1px solid #bbf7d0;padding:12px 14px;border-radius:8px;margin-bottom:12px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px"><div><strong style="color:#166534;font-size:13px;display:block">🎧 Bài nghe Audio (Giọng chuẩn Anh - Anh)</strong><span style="font-size:12px;color:#15803d">Bấm nút để nghe audio mô phỏng phòng thi.</span></div><div style="display:flex;gap:6px"><button class="button small" onclick="speakStimulus('${esc(q.id)}')">▶ Phát Audio</button><button class="button ghost small" onclick="window.speechSynthesis?.cancel()">⏹ Dừng</button></div></div><details class="review-explain" style="margin-top:10px"><summary>📜 Xem lời thoại (Transcript) sau khi làm bài</summary><p style="white-space:pre-line;line-height:1.7">${esc(q.stimulusText)}</p></details>`}</section>`:''}<h2>${esc(q.prompt)}</h2><div class="options">${q.options.map((o,j)=>`<button class="option ${s.answers[q.id]===j?'selected':''}" onclick="selectAnswer(${j})"><span class="option-letter">${String.fromCharCode(65+j)}</span>${esc(o)}</button>`).join('')}</div>${s.answers[q.id]!==undefined?`<div class="answer-feedback ${s.answers[q.id]===q.answer?'':'wrong-feedback'}"><strong>${s.answers[q.id]===q.answer?'Chính xác!':'Chưa đúng lần này.'}</strong> <details><summary>Xem giải thích</summary><p>${esc(q.explanation)}</p></details></div>`:''}<div class="session-actions"><button class="button ghost" onclick="prevQuestion()" ${s.index===0?'disabled':''}>← Trước</button>${s.index<s.questions.length-1?`<button class="button" onclick="nextQuestion()">Tiếp theo →</button>`:`<button class="button" onclick="submitSet()">Nộp bài →</button>`}</div></article><div class="filter-row" style="justify-content:center"><button class="text-link" onclick="if(confirm('Thoát lượt luyện? Tiến độ sẽ được lưu để bạn tiếp tục sau.'))nav('practice')">Thoát lượt luyện</button></div></div>`;if(s.timed)tickTimer()}
+function renderSession(){clearTimeout(timerId);const v=document.querySelector('#view'),s=session,q=s.questions[s.index],answered=Object.keys(s.answers).length,elapsed=Math.floor((Date.now()-s.started)/1000);state.resume={setId:s.set.id,index:s.index,answers:s.answers,elapsed,timed:s.timed,questionIds:s.questions.map(x=>x.id)};save();v.innerHTML=`<div class="session"><div class="session-top"><span>${s.set.level} · ${s.set.title}</span><span>${s.index+1} / ${s.questions.length} câu ${s.timed?`· <b id="timer">${formatTime(elapsed)}</b>`:''}</span></div><div class="progress-track"><span style="width:${(s.index/s.questions.length)*100}%"></span></div><article class="question-card"><div class="question-kicker">${q.skill} · ${q.type}</div>${q.stimulusText?`<section class="stimulus"><h3>${esc(q.stimulusTitle||q.skill)}</h3>${q.skill==='Reading'?`<p>${esc(q.stimulusText)}</p>`:`<div style="background:#f0fdf4;border:1px solid #bbf7d0;padding:12px 14px;border-radius:8px;margin-bottom:12px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px"><div><strong style="color:#166534;font-size:13px;display:block">🎧 Bài nghe mô phỏng (giọng đọc TTS)</strong><span style="font-size:12px;color:#15803d">Bấm nút để nghe văn bản bằng TTS; không phải audio đề thi thật.</span></div><div style="display:flex;gap:6px"><button class="button small" onclick="speakStimulus('${esc(q.id)}')">▶ Phát Audio</button><button class="button ghost small" onclick="window.speechSynthesis?.cancel()">⏹ Dừng</button></div></div><details class="review-explain" style="margin-top:10px"><summary>📜 Xem lời thoại (Transcript) sau khi làm bài</summary><p style="white-space:pre-line;line-height:1.7">${esc(q.stimulusText)}</p></details>`}</section>`:''}<h2>${esc(q.prompt)}</h2><div class="options">${q.options.map((o,j)=>`<button class="option ${s.answers[q.id]===j?'selected':''}" onclick="selectAnswer(${j})"><span class="option-letter">${String.fromCharCode(65+j)}</span>${esc(o)}</button>`).join('')}</div>${s.answers[q.id]!==undefined?`<div class="answer-feedback ${s.answers[q.id]===q.answer?'':'wrong-feedback'}"><strong>${s.answers[q.id]===q.answer?'Chính xác!':'Chưa đúng lần này.'}</strong> <details><summary>Xem giải thích</summary><p>${esc(q.explanation)}</p></details></div>`:''}<div class="session-actions"><button class="button ghost" onclick="prevQuestion()" ${s.index===0?'disabled':''}>← Trước</button>${s.index<s.questions.length-1?`<button class="button" onclick="nextQuestion()">Tiếp theo →</button>`:`<button class="button" onclick="submitSet()">Nộp bài →</button>`}</div></article><div class="filter-row" style="justify-content:center"><button class="text-link" onclick="if(confirm('Thoát lượt luyện? Tiến độ sẽ được lưu để bạn tiếp tục sau.'))nav('practice')">Thoát lượt luyện</button></div></div>`;if(s.timed)tickTimer()}
 function formatTime(sec){return `${Math.floor(sec/60).toString().padStart(2,'0')}:${(sec%60).toString().padStart(2,'0')}`}
 function tickTimer(){if(!session?.timed)return;const t=document.querySelector('#timer');if(t)t.textContent=formatTime(Math.floor((Date.now()-session.started)/1000));timerId=setTimeout(()=>{if(session&&currentPage==='practice')tickTimer()},1000)}
 function selectAnswer(j){const q=session.questions[session.index];session.answers[q.id]=j;if(state.daily.date!==today())state.daily={date:today(),count:0};state.daily.count++;save();renderSession()}
@@ -852,9 +863,10 @@ document.querySelector('#export-btn').addEventListener('click',()=>{const blob=n
   {id:'vstep-sample-zim',url:'packs/vstep-sample-zim.json',label:'ZIM · bài mẫu luyện tập'},
   {id:'vstep-sample-prep',url:'packs/vstep-sample-prep.json',label:'PREP · bài mẫu luyện tập'},
   {id:'lingua-vstep-hot-topics-c1-2026',url:'packs/vstep-hot-topics-c1.json',label:'Lingua · gói luyện C1 tổng hợp'},
-  {id:'vstep-listening-full',url:'packs/vstep-listening-full.json',label:'Đề Nghe Chuẩn Quốc Gia (35 câu có Transcript)'},
-  {id:'vstep-writing-task1-expanded',url:'packs/vstep-writing-task1-expanded.json',label:'10 Đề Viết Thư Task 1 Toàn Diện'},
-  {id:'vstep-speaking-expanded',url:'packs/vstep-speaking-expanded.json',label:'18 Đề Nói Mở Rộng Part 1 & 2'}
+  {id:'vstep-listening-simulated-2026-11',url:'packs/vstep-listening-full.json',label:'Đề Nghe Chuẩn Quốc Gia (35 câu có Transcript)'},
+  {id:'vstep-writing-task1-simulated-2026-11',url:'packs/vstep-writing-task1-expanded.json',label:'10 Đề Viết Thư Task 1 Toàn Diện'},
+  {id:'vstep-speaking-simulated-2026-11',url:'packs/vstep-speaking-expanded.json',label:'18 Đề Nói Mở Rộng Part 1 & 2'},
+  {id:'vstep-ctu-sample-2015',url:'packs/vstep-ctu-reading.json',label:'ĐH Cần Thơ 2015 (40 Đọc + 5 Viết/Nói)'}
 ];
 async function autoLoadPacks(){
   let anyNew=false;
@@ -862,9 +874,10 @@ async function autoLoadPacks(){
     const existing=(state.customPacks||[]).find(cp=>cp.pack_id===p.id);
     const needUpdate=!existing
       ||(p.id==='lingua-vstep-hot-topics-c1-2026'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-hot-topics-c1-ws').length<16)
-      ||(p.id==='vstep-listening-full'&&(state.customQuestions||[]).filter(q=>q.skill==='Listening').length<35)
-      ||(p.id==='vstep-writing-task1-expanded'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-task1-expanded-ws').length<10)
-      ||(p.id==='vstep-speaking-expanded'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-speaking-expanded-ws').length<18);
+      ||(p.id==='vstep-listening-simulated-2026-11'&&(state.customQuestions||[]).filter(q=>q.skill==='Listening').length<35)
+      ||(p.id==='vstep-writing-task1-simulated-2026-11'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-task1-expanded-ws').length<10)
+      ||(p.id==='vstep-speaking-simulated-2026-11'&&(state.customTasks||[]).filter(t=>t.set_id==='vstep-speaking-expanded-ws').length<18)
+      ||(p.id==='vstep-ctu-sample-2015'&&(state.customQuestions||[]).filter(q=>q.setId&&q.setId.startsWith('ctu-sample-r')).length<40);
     if(needUpdate){
       try{
         const res=await fetch(p.url);
@@ -893,3 +906,4 @@ function saveTaskResponse(id){const el=document.querySelector(`#response-${CSS.e
 function speakStimulus(id){const q=session?.questions.find(x=>x.id===id);if(!q?.stimulusText||!window.speechSynthesis){toast('Thiết bị này chưa hỗ trợ đọc văn bản.');return}window.speechSynthesis.cancel();const segments=q.stimulusText.split(/(?=\b(?:Woman|Man):\s*)/gi).map(s=>s.trim()).filter(Boolean);segments.forEach(segment=>{let clean=segment,pitch=1;if(/^Woman:\s*/i.test(segment)){clean=segment.replace(/^Woman:\s*/i,'');pitch=1.12}else if(/^Man:\s*/i.test(segment)){clean=segment.replace(/^Man:\s*/i,'');pitch=.9}const utterance=new SpeechSynthesisUtterance(clean);utterance.lang='en-GB';utterance.rate=.95;utterance.pitch=pitch;window.speechSynthesis.speak(utterance)})}
 function renderTaskPrompt(t){if(!t.topic_statement&&!t.mindmap&&!t.follow_up_questions)return `<h3>${esc(t.prompt)}</h3>`;return `${t.topic_statement?`<div class="topic-statement"><span>TOPIC</span><p>${esc(t.topic_statement)}</p></div>`:''}${Array.isArray(t.mindmap)?`<div class="mindmap-grid">${t.mindmap.map((idea,i)=>`<div class="mindmap-node"><span>${i===t.mindmap.length-1?'YOUR OWN IDEA':`IDEA ${i+1}`}</span><p>${esc(idea)}</p></div>`).join('')}</div>`:''}${t.prompt?`<p class="task-meta">${esc(t.prompt)}</p>`:''}${Array.isArray(t.follow_up_questions)?`<div class="followups"><strong>Follow-up questions</strong><ol>${t.follow_up_questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ol></div>`:''}`}
 function renderStimulus(q){return q.stimulusText?`<section class="stimulus"><h3>${esc(q.stimulusTitle||q.skill)}</h3><p>${esc(q.stimulusText)}</p></section>`:''}
+

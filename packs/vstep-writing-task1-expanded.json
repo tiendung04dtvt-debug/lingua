@@ -1,15 +1,19 @@
 {
   "schema_version": "1.1.0",
   "pack_metadata": {
-    "pack_id": "vstep-writing-task1-expanded",
-    "title": "Bộ 10 Đề Viết Thư VSTEP Task 1 Toàn Diện (B1–B2)",
-    "source": "Tổng hợp ngân hàng đề thi thật & đề mẫu VSTEP chuẩn Bộ GD&ĐT",
+    "pack_id": "vstep-writing-task1-simulated-2026-11",
+    "title": "Bài luyện Viết thư Task 1 mô phỏng VSTEP · 10 đề",
+    "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
     "version": "2026.1",
-    "description": "Bộ 10 đề thi viết thư Task 1 bao quát toàn diện các dạng: Phàn nàn (Complaint), Xin lỗi (Apology), Hỏi thông tin (Inquiry), Ứng tuyển (Job application), Cảm ơn (Thank-you), Mời diễn giả (Invitation), Xin hoãn hạn nộp (Extension), Chăm sóc khách hàng (Customer resolution), Từ chối lịch sự (Polite refusal) và Đòi hoàn tiền (Refund).",
+    "description": "Đề tình huống do Lingua biên soạn để luyện theo dạng thức VSTEP; không xác nhận là đề thi thật hay trích từ ngân hàng đề của đơn vị tổ chức.",
     "target_levels": [
       "B1",
       "B2"
-    ]
+    ],
+    "source_info": {
+      "classification": "original_simulated_practice",
+      "note": "Lingua practice content; not a verified live exam paper."
+    }
   },
   "sets": [
     {
@@ -17,7 +21,7 @@
       "set_id": "vstep-task1-expanded-ws",
       "level": "B2",
       "skill": "Writing",
-      "title": "Kho 10 Đề Viết Thư Task 1 Toàn Diện",
+      "title": "Bài luyện mô phỏng · 10 đề Viết thư Task 1",
       "subtitle": "10 dạng thư B1-B2 kèm dàn ý và từ vựng",
       "count": 10,
       "icon": "✍️"
@@ -47,7 +51,10 @@
         "Addressed all 3 compulsory prompt points?",
         "Maintained a respectful, assertive, and formal tone throughout?",
         "Word count >= 120 words with appropriate formal transitions (Furthermore, In light of these issues)?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-apology-wedding",
@@ -70,7 +77,10 @@
         "Appropriately heartfelt and affectionate informal tone?",
         "Clearly explained the obstacle preventing travel?",
         "Word count at least 120 words with natural conversational phrasing?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-inquiry-scholarship",
@@ -93,7 +103,10 @@
         "Formal polite language (I would be grateful if you could clarify, Could you please advise)?",
         "Covered scholarship, language test, and accommodation questions?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-application-internship",
@@ -116,7 +129,10 @@
         "Strong professional self-presentation without arrogance?",
         "Proper business letter formatting and vocabulary (relevant competencies, track record, curriculum vitae)?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-thankyou-supervisor",
@@ -139,7 +155,10 @@
         "Respectful and warm tone suitable for a senior supervisor?",
         "Highlighted specific learnings rather than generic thanks?",
         "Word count at least 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-invitation-speaker",
@@ -162,7 +181,10 @@
         "High level of courtesy and formal diplomatic invitations?",
         "Covered all logistical points (time, audience, arrangements)?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-extension-request",
@@ -185,7 +207,10 @@
         "Professional student-to-professor tone without sounding demanding?",
         "Provided proof and demonstrated previous diligence?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-customer-resolution",
@@ -208,7 +233,10 @@
         "Exemplary corporate empathy and accountability?",
         "Clearly presented the resolution and compensation terms?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-refusal-joboffer",
@@ -231,7 +259,10 @@
         "Diplomatic, gracious, and thoroughly professional?",
         "Declined clearly without burning industry bridges?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "task1-refund-flight",
@@ -254,7 +285,10 @@
         "Firm, polite, and unambiguous claim for full refund?",
         "All necessary transaction details included?",
         "Word count >= 120 words?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     }
   ]
 }

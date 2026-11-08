@@ -36,6 +36,13 @@
       label: 'Mở PDF đề mẫu'
     },
     {
+      icon: 'CTU',
+      title: 'ĐH Cần Thơ · CFLA',
+      detail: 'Đề mẫu tháng 5/2015 gồm Listening, Reading, Writing và Speaking; trang nguồn có đáp án Reading riêng. Mở tài liệu gốc để làm bài.',
+      link: 'https://cfla.ctu.edu.vn/tai-lieu',
+      label: 'Mở trang tài liệu chính thức'
+    },
+    {
       icon: 'UFM',
       title: 'ĐH Tài chính – Marketing',
       detail: 'Trang đề minh họa của Trung tâm Ngoại ngữ – Tin học UFM, có PDF xem trực tiếp.',

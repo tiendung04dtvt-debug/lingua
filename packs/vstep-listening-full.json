@@ -1,16 +1,20 @@
 {
   "schema_version": "1.1.0",
   "pack_metadata": {
-    "pack_id": "vstep-listening-full",
-    "title": "Đề thi VSTEP Listening Chuẩn Quốc gia (35 câu · 3 Phần có Transcript)",
-    "source": "Định dạng chuẩn VSTEP Bậc 3-5 theo QĐ 729/QĐ-BGDĐT",
+    "pack_id": "vstep-listening-simulated-2026-11",
+    "title": "Bài luyện Nghe mô phỏng VSTEP · 35 câu (TTS)",
+    "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)",
     "version": "2026.1",
-    "description": "Trọn bộ 35 câu hỏi Nghe hiểu: Part 1 (8 thông báo ngắn), Part 2 (3 hội thoại 12 câu), Part 3 (3 bài giảng học thuật C1 15 câu) kèm lời thoại Transcript đầy đủ và giải thích bẫy từ vựng chi tiết.",
+    "description": "Nội dung luyện tập mô phỏng do Lingua biên soạn, không phải câu hỏi lấy từ đề thi thật hay nguồn hội đồng thi. Văn bản được trình duyệt đọc bằng TTS; không có audio ghi âm đề thi.",
     "target_levels": [
       "B1",
       "B2",
       "C1"
-    ]
+    ],
+    "source_info": {
+      "classification": "original_simulated_practice",
+      "note": "Lingua practice content; not a verified live exam paper."
+    }
   },
   "sets": [
     {
@@ -81,7 +85,7 @@
     {
       "id": "lis-p1-q1",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -96,13 +100,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C (Gate 24): Loa thông báo rõ 'departure has been moved from Gate 12 to Gate 24'. Bẫy nghe: Gate 12 là cổng cũ trước khi chuyển.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q2",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -117,13 +121,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B (Small fishing boats): Bản tin nêu rõ 'Small fishing vessels are strictly advised to seek immediate shelter'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q3",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -138,13 +142,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C (Save their work locally): Người thông báo nhắc nhở 'Please save all documents locally before 21:45'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q4",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -159,13 +163,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: Thông báo nêu 'the reference section on the third floor will remain closed throughout this weekend'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q5",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -180,13 +184,13 @@
       ],
       "answer": 0,
       "explanation": "Đáp án A (At most two items): Điều kiện được nêu ở cuối thông báo: 'limited to two per customer'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q6",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -201,13 +205,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'Free shuttle buses are running between Central and North Terminus'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q7",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -222,13 +226,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'please notify our reception at least four hours in advance'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p1-q8",
       "setId": "lis-part-1-announcements",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -243,13 +247,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'Photography with flash is strictly prohibited throughout the historical exhibition halls'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q9",
       "setId": "lis-part-2-conv-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -264,13 +268,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: Sarah lo lắng vì 'Macroeconomics has lectures scheduled at 8 a.m. on Mondays and Thursdays' ngay sau ca làm tối chủ nhật.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q10",
       "setId": "lis-part-2-conv-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -285,13 +289,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: Mark nhắc: 'since you work late shifts at the language center on Sunday evenings'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q11",
       "setId": "lis-part-2-conv-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -306,13 +310,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C: Mark khẳng định: 'you learn far more real-world analytical skills'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q12",
       "setId": "lis-part-2-conv-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -327,13 +331,13 @@
       ],
       "answer": 0,
       "explanation": "Đáp án A: Sarah chốt: 'That settles it then. I’d rather tackle demanding coursework at reasonable hours' -> chọn Corporate Finance.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q13",
       "setId": "lis-part-2-conv-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -348,13 +352,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C: 'We’re expecting around 150 attendees this year'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q14",
       "setId": "lis-part-2-conv-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -369,13 +373,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'their parking capacity is quite limited, and parking downtown is a nightmare'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q15",
       "setId": "lis-part-2-conv-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -390,13 +394,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C: 'state-of-the-art interactive digital podiums' và 'complimentary shuttle service'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q16",
       "setId": "lis-part-2-conv-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -411,13 +415,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: Hai người thống nhất thương lượng hạ giá xuống $48 kèm tiệc tối: 'I’ll draft a revised proposal by this afternoon'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q17",
       "setId": "lis-part-2-conv-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -432,13 +436,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'the water heater is over ten years old and already making rattling noises'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q18",
       "setId": "lis-part-2-conv-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -453,13 +457,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'specifying that the boiler and core electrical circuits remain the owner's sole liability'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q19",
       "setId": "lis-part-2-conv-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -474,13 +478,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'The standard municipal guideline is usually 30 days' (thay vì 45 ngày).",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p2-q20",
       "setId": "lis-part-2-conv-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "B2",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -495,13 +499,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C: 'Once you email the revised copy, I’ll sign and wire the deposit'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q21",
       "setId": "lis-part-3-talk-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -516,13 +520,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'concrete, asphalt, and dark roofs absorb solar radiation during daylight and re-radiate this heat into the atmosphere'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q22",
       "setId": "lis-part-3-talk-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -537,13 +541,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'paradoxically exacerbates the problem by exhausting hot air onto city streets'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q23",
       "setId": "lis-part-3-talk-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -558,13 +562,13 @@
       ],
       "answer": 0,
       "explanation": "Đáp án A: 'mitigate heat through evapotranspiration—a natural biological process where plants absorb solar energy to evaporate water from leaves'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q24",
       "setId": "lis-part-3-talk-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -579,13 +583,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'By embedding reflective polymers and light-colored micro-aggregates into asphalt, pavements can reflect up to 40% of solar radiation'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q25",
       "setId": "lis-part-3-talk-1",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -600,13 +604,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'By arranging high-rise towers in staggered configurations... cool air is funneled through central business districts, flushing out accumulated hot air'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q26",
       "setId": "lis-part-3-talk-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -621,13 +625,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'When you first attempt a novel task... your prefrontal cortex—the seat of executive function... is operating at maximum metabolic capacity'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q27",
       "setId": "lis-part-3-talk-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -642,13 +646,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'The brain automates individual micro-behaviors into a single cohesive motor script'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q28",
       "setId": "lis-part-3-talk-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -663,13 +667,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'a three-phase neurological loop: the Cue, the Routine, and the Reward'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q29",
       "setId": "lis-part-3-talk-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -684,13 +688,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'the Reward provides a surge of the neurotransmitter dopamine, cementing the neural pathway'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q30",
       "setId": "lis-part-3-talk-2",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -705,13 +709,13 @@
       ],
       "answer": 2,
       "explanation": "Đáp án C: 'The only scientifically validated method to alter a habit is not extinction, but substitution—maintaining the identical cue and reward while deliberately rewiring the middle routine'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q31",
       "setId": "lis-part-3-talk-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -726,13 +730,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'Sumerian city-states flourished by constructing monumental canal systems. These intricate engineering works diverted glacial meltwaters'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q32",
       "setId": "lis-part-3-talk-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -747,13 +751,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'southern Mesopotamia features exceptionally flat topography and an extremely hot climate with minimal drainage'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q33",
       "setId": "lis-part-3-talk-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -768,13 +772,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'wheat possesses very low salt tolerance, whereas barley can tolerate moderately brackish soils. By 2500 BCE, wheat accounted for less than 15%'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q34",
       "setId": "lis-part-3-talk-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -789,13 +793,13 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'wheat had vanished entirely... and crop yields per hectare had plummeted by more than 60%'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     },
     {
       "id": "lis-p3-q35",
       "setId": "lis-part-3-talk-3",
-      "provider": "VSTEP National Benchmark",
+      "provider": "Lingua · bài luyện mô phỏng",
       "level": "C1",
       "skill": "Listening",
       "type": "Multiple choice",
@@ -810,8 +814,8 @@
       ],
       "answer": 1,
       "explanation": "Đáp án B: 'Sumerian civilization experienced chronic famines, political fragmentation, and ultimate geopolitical collapse, shifting power northward toward Babylon'.",
-      "reviewStatus": "reviewed",
-      "source": "Đề thi chuẩn VSTEP Nghe Bậc 3-5 (QĐ 729/BGDĐT)"
+      "reviewStatus": "practice-simulated",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (TTS Audio / Simulated)"
     }
   ],
   "open_tasks": []

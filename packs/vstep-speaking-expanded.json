@@ -1,15 +1,19 @@
 {
   "schema_version": "1.1.0",
   "pack_metadata": {
-    "pack_id": "vstep-speaking-expanded",
-    "title": "Bộ Ngân Hàng Đề Thi Nói Mở Rộng (10 Part 1 + 8 Part 2)",
-    "source": "Tổng hợp ngân hàng đề thi Nói VSTEP thực tế từ các hội đồng thi ĐHĐN, HUFLIS, ULIS",
+    "pack_id": "vstep-speaking-simulated-2026-11",
+    "title": "Bài luyện Nói Part 1–2 mô phỏng VSTEP · 18 đề",
+    "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
     "version": "2026.1",
-    "description": "Bộ đề Nói mở rộng bao quát 10 chủ đề giao tiếp phản xạ xã hội Part 1 (Thời tiết, Sở thích, Công nghệ, Đi lại, Mua sắm, Âm nhạc, Lễ hội, Tình bạn, Học ngoại ngữ, Giấc ngủ) và 8 tình huống biện hộ giải pháp Part 2 (Kỹ năng mềm, Đám cưới, Tiết kiệm năng lượng, Giải quyết xung đột, Kênh truyền thông, Quà tặng văn hóa, Thể thao học đường, Trại hè tình nguyện) có dàn ý lập luận chi tiết.",
+    "description": "Chủ đề và tình huống do Lingua biên soạn để luyện theo dạng thức VSTEP; không xác nhận là đề thi thật hay trích từ ngân hàng đề của đơn vị tổ chức.",
     "target_levels": [
       "B1",
       "B2"
-    ]
+    ],
+    "source_info": {
+      "classification": "original_simulated_practice",
+      "note": "Lingua practice content; not a verified live exam paper."
+    }
   },
   "sets": [
     {
@@ -17,7 +21,7 @@
       "set_id": "vstep-speaking-expanded-ws",
       "level": "B2",
       "skill": "Speaking",
-      "title": "Ngân Hàng 18 Đề Nói Mở Rộng Part 1 & Part 2",
+      "title": "Bài luyện mô phỏng · 18 đề Nói Part 1 & 2",
       "subtitle": "10 chủ đề Part 1 + 8 tình huống Part 2",
       "count": 18,
       "icon": "🎤"
@@ -43,7 +47,10 @@
       "self_review": [
         "Immediate, confident answers without long pauses?",
         "Rich descriptive adjectives (crisp, dreary, stifling, invigorating)?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-hobbies",
@@ -63,7 +70,10 @@
       "self_review": [
         "Natural past vs present verb tense switching?",
         "Variety of leisure terminology (unwind, recharge my batteries, pass the time)?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-technology",
@@ -83,7 +93,10 @@
       "self_review": [
         "Clear, modern digital vocabulary (streamline, ubiquitous, digital footprint)?",
         "Fluency maintained across all 4 questions?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-transport",
@@ -103,7 +116,10 @@
       "self_review": [
         "Transport collocations (rush hour gridlock, public transit network, pedestrian zone)?",
         "Balanced pros and cons analysis?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-shopping",
@@ -123,7 +139,10 @@
       "self_review": [
         "Idiomatic phrasing (impulse buying, price-sensitive consumer, buyer's remorse)?",
         "Clear conversational rhythm?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-music",
@@ -143,7 +162,10 @@
       "self_review": [
         "Musical vocabulary (acoustic melody, evocative lyrics, sensory atmosphere)?",
         "Varied sentence structures?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-festivals",
@@ -163,7 +185,10 @@
       "self_review": [
         "Culturally precise English terms (ancestral veneration, festive banquet, cultural heritage)?",
         "Warm and authentic delivery?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-friendship",
@@ -183,7 +208,10 @@
       "self_review": [
         "Interpersonal vocabulary (confidant, unconditional support, through thick and thin)?",
         "Spontaneous, expressive flow?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-languages",
@@ -203,7 +231,10 @@
       "self_review": [
         "Pedagogical language (lexical acquisition, phonetic articulation, cross-cultural competence)?",
         "Direct answers supported by personal evidence?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p1-relaxation",
@@ -223,7 +254,10 @@
       "self_review": [
         "Health and wellness lexicon (circadian rhythm, restorative sleep, digital detox, mental burnout)?",
         "Smooth transitional phrases?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-softskills",
@@ -244,7 +278,10 @@
       "self_review": [
         "Direct choice declared in first sentence?",
         "Robust comparative counter-arguments dismissing the other two options?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-wedding-venue",
@@ -265,7 +302,10 @@
       "self_review": [
         "Systematic evaluation of logistics, guest comfort, and aesthetic value?",
         "Clear comparative discourse markers (Whereas a beach presents unpredictable weather, a resort offers...)?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-office-energy",
@@ -286,7 +326,10 @@
       "self_review": [
         "Environmental and organizational vocabulary (carbon footprint, capital expenditure, operational efficiency)?",
         "Persuasive prioritization of benefits?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-team-conflict",
@@ -307,7 +350,10 @@
       "self_review": [
         "High emotional intelligence and teamwork analysis?",
         "Clear articulation of why temporary efficiency (voting) harms long-term group cohesion?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-event-promotion",
@@ -328,7 +374,10 @@
       "self_review": [
         "Contemporary marketing vocabulary (viral dissemination, conversion rate, demographic targeting, short-form video)?",
         "Decisive justification?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-foreign-gift",
@@ -350,7 +399,10 @@
       "self_review": [
         "Considered practical international travel constraints (weight, fragility)?",
         "Diplomatic protocol and cultural appreciation vocabulary?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-school-sport",
@@ -372,7 +424,10 @@
       "self_review": [
         "Passionate, evidence-backed justification of life preservation vs recreation?",
         "Clear, persuasive rhetorical structure?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     },
     {
       "task_id": "sp-p2-summer-activity",
@@ -394,7 +449,10 @@
       "self_review": [
         "Evaluates holistic character growth beyond purely academic or financial metrics?",
         "Compelling personal development vocabulary (civic responsibility, empathy, resilience, holistic maturity)?"
-      ]
+      ],
+      "provider": "Lingua · bài luyện mô phỏng",
+      "source": "Đề luyện tập chuẩn cấu trúc VSTEP (Simulated)",
+      "review_status": "practice-simulated"
     }
   ]
 }
