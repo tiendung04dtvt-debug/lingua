@@ -121,11 +121,11 @@
     const view = document.querySelector('#view');
     if (!view || view.querySelector('.source-library')) return;
     const heading = [...view.querySelectorAll('.section-head h2')]
-      .find((item) => item.textContent.trim() === 'Nguồn luyện tập đã kiểm tra');
+      .find((item) => ['Nguồn luyện tập đã kiểm tra', 'Nguồn luyện tập & kho đề mẫu'].includes(item.textContent.trim()));
     if (!heading) return;
-    const notice = heading.closest('.section-head')?.nextElementSibling;
-    if (!notice?.classList.contains('notice')) return;
-    notice.innerHTML = '<b>Đề mẫu công khai đã xác minh nguồn:</b> mình đã tìm được các bộ mẫu từ nhiều trường tổ chức VSTEP. Chúng giúp luyện đúng dạng bài; chưa xác minh được kho đề thật nội bộ UED theo từng đợt thi.';
+    let notice = heading.closest('.section-head')?.nextElementSibling;
+    while (notice && !notice.classList.contains('notice')) notice = notice.nextElementSibling;
+    if (!notice) return;
 
     const section = document.createElement('section');
     section.className = 'source-library-wrap';
