@@ -12,6 +12,7 @@
 | UFL, format under Decision 729/QĐ-BGDĐT | B1–C1 common 4-skill framework, task formats, timings, score conversion | Official format; confirm any UED-specific deviations from the current candidate instructions | [UFL format page](https://vstep.ufl.udn.vn/CDR/Dinhdang/2024/Dinh-dang-de-thi-danh-gia-nang-luc-su-dung-tieng-Anh-tu-bac-3-den-bac-5-theo-Khung-nang-luc-ngoai-ngu-6-bac-dung-cho-Viet-Nam--2024.12.33910) |
 | UFL VSTEP sample, Bậc 3–5 | Listening sample audio and exam-style reference | Official sample for the related national-format exam; not represented as a live UED exit-test paper | [UFL sample page](https://vstep.ufl.udn.vn/NLTA/Dinhdang/2025/De-thi-mau-Vstep-bac-3-52025.9.10067) |
 | ULIS-VNU VSTEP.3–5 format and sample | Full 4-skill format and an embedded sample-test link | Official VSTEP reference from another institution; practice reference only | [ULIS format page](https://vstep.vn/test-format/) |
+| ULIS-VNU B2 course-exit templates (2022) | Listening, Reading, Writing, and Speaking templates | Official institutional reference; not a UFL live paper or a confirmed UED paper | [ULIS template bundle](https://daotao.ulis.vnu.edu.vn/dinh-dang-de-thi-vstep-3-va-vstep-3-5/) |
 | Ministry of Education and Training, Decision 729/QĐ-BGDĐT (11 Mar 2015) | Basis for Bậc 3–5 structure and score mapping | Official decision; source copy hosted by Can Tho University | [Decision PDF](https://cfla.ctu.edu.vn/documents/20181/21345/Quy%E1%BA%BFt%2B%C4%91%E1%BB%8Bnh%2BBan%2Bh%C3%A0nh%2B%C4%90%E1%BB%8Bnh%2Bd%E1%BA%A1ng%2B%C4%91%E1%BB%81%2Bthi%2B%C4%91%C3%A1nh%2Bgi%C3%A1%2Bn%C4%83ng%2Bl%E1%BB%B1c%2Bs%E1%BB%AD%2Bd%E1%BB%A5ng%2Bti%E1%BA%BFng%2BAnh%2Bt%E1%BB%AB%2Bb%E1%BA%ADc%2B3%2B%C4%91%E1%BA%BFn%2Bb%E1%BA%ADc%2B5%2Btheo%2BKhung%2Bn%C4%83ng%2Bl%E1%BB%B1c%2Bngo%E1%BA%A1i%2Bng%E1%BB%AF%2B6%2Bb%E1%BA%ADc%2Bd%C3%B9ng%2Bcho%2BVi%E1%BB%87t%2BNam/1427dd4a-2f4c-43ce-becb-826a81e7eb9f) |
 
 ## Official supplementary practice by level
@@ -36,8 +37,23 @@ These are useful for English proficiency practice, but each provider has its own
 - Use consistent `content_origin_type` labels: `official_local`, `official_related_format`, `official_other_exam`, `original_practice`, `original_demo`, `personal_material`, or `unverified`. Never mark an item verified before checking its source and answer key.
 - Extra original practice variations such as reference, sentence insertion, and vocabulary-in-context are included to build transferable skills. Their presence does not claim that every UED paper uses a fixed count of each sub-type.
 
+## Materials collected and inspected on 8 November 2026
+
+| File kept locally | What it contains | Processing / limits |
+|---|---|---|
+| `packs/private/reference-materials/udn-vstep-sample-2025.pdf` | Official UFL (University of Danang) sample paper, 18 pages; four skills, instructions, and an answer key | Reviewed pages visually. It is a published sample, not a recovered live UED paper. Do not copy the full paper or answer key into the public app. |
+| `packs/private/reference-materials/sample-test-2-part-1.mp3` | UFL sample Listening Part 1 | Direct link to UFL retained in the app; local file is for the learner's private study. |
+| `packs/private/reference-materials/sample-test-2-part-2.mp3` | UFL sample Listening Part 2 | Same use and status as Part 1. |
+| `packs/private/reference-materials/sample-test-2-part-3.mp3` | UFL sample Listening Part 3 | Same use and status as Part 1. |
+
+The PDF presents a single Bậc 3–5 test, not separate B1, B2, and C1 papers. Its sample pages show Listening (8 short items, 3 conversations with 4 questions each, 3 talks/lectures with 5 questions each), Reading (4 passages with 10 questions each), Writing (email/letter and essay), and Speaking (social interaction, solution discussion, topic development). The answer key is in the closing pages. The official format assigns the result band from the rounded four-skill average; it does not label each sample item as B1, B2, or C1. Therefore the local 6-question-per-band diagnostic is original Lingua practice and its per-item level assignments are instructional estimates, not official classifications.
+
+The UFL page hosts the PDF and all three audio files: [official UFL sample paper and audio](https://vstep.ufl.udn.vn/NLTA/Dinhdang/2025/De-thi-mau-Vstep-bac-3-52025.9.10067). Copies remain under the ignored `packs/private/` folder and are not included in public Git commits. The 2024 UFL specification page describes the official four-skill format and score mapping: [UFL Bậc 3–5 format](https://vstep.ufl.udn.vn/CDR/Dinhdang/2024/Dinh-dang-de-thi-danh-gia-nang-luc-su-dung-tieng-Anh-tu-bac-3-den-bac-5-theo-Khung-nang-luc-ngoai-ngu-6-bac-dung-cho-Viet-Nam--2024.12.33910).
+
+A second official provider, ULIS-VNU, publishes a B2 course-exit template bundle for Listening, Reading, Writing, and Speaking. These templates have overlapping task forms but are institution/course-exit documents, not UFL live papers or confirmed UED exam papers; keep them categorized as supplementary institutional references. The official UFL 2024 format and the other provider's word-count descriptions are not identical, so this app follows UFL's published specification for the target format and defers to UED's latest candidate instructions for local rules.
+
 ## Remaining research gaps
 
-- Obtain and review the latest candidate instructions / exam-day guide for the 29 November UED sitting to confirm computer interface, section timings, and local adaptations.
-- Search UED/UFL public notices for additional authorized samples and rubrics. The local live question bank was not located in the public sources checked.
-- Review each selected sample's answer key and audio before assigning question-level feedback. Do not claim “all past papers” or completeness without a documented, bounded collection effort.
+- No public UED-specific past-paper bank or full UED sample was located; the UFL VSTEP sample is the closest verified official published paper found for the shared Bậc 3–5 format.
+- Confirm with UED candidate instructions whether the 29 November sitting uses the UFL format unchanged, including interface and section timing.
+- Search for additional freely published official sample papers from authorized providers; label each provider and format. Do not present unofficially claimed past questions as verified.
