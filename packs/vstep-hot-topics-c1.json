@@ -2,17 +2,16 @@
   "schema_version": "1.1.0",
   "pack_metadata": {
     "pack_id": "lingua-vstep-hot-topics-c1-2026",
-    "title": "VSTEP C1 · Đề thực chiến & Chủ đề trọng điểm 2025–2026",
-    "content_origin_type": "original_practice",
+    "title": "Lingua C1 · Gói luyện tổng hợp 2025–2026",
+    "content_origin_type": "compiled_practice_unverified",
     "source_info": {
-      "provider": "Lingua Exam Research Hub",
-      "original_exam": "VSTEP Bậc 3–5 High-Yield Community & Mock Exam Synthesis",
-      "source_url": "https://tiendung04dtvt-debug.github.io/lingua/#resources",
+      "provider": "Lingua · gói luyện tổng hợp",
+      "original_exam": "Không gắn với đề thi thật cụ thể",
       "accessed_date": "2026-11-08",
-      "reuse_notes": "Bộ đề thực chiến tổng hợp từ các dạng đề thi thử và chủ đề xuất hiện nhiều nhất trong các đợt thi VSTEP 2025-2026."
+      "reuse_notes": "Các bài đọc được ghi nguồn là nội dung tổng hợp theo dạng VSTEP. Các nhiệm vụ Writing/Speaking là nội dung luyện tập; chưa có nguồn sơ cấp xác nhận chúng xuất hiện trong kỳ thi thật 2025–2026."
     },
-    "review_status": "reviewed",
-    "description": "Bộ đề trọng điểm thực chiến VSTEP C1 (2025–2026): 10 câu hỏi đọc hiểu C1 phân tích sâu, 10 chủ đề viết luận Task 2 thi thật mới nhất kèm dàn ý C1 chuẩn mực, 3 đề thư Task 1 và 3 phần thi Nói hoàn chỉnh."
+    "review_status": "format_reviewed; provenance_unverified",
+    "description": "Gói luyện C1 gồm 10 câu Reading với bài đọc tổng hợp và 16 nhiệm vụ Writing/Speaking. Đây là nội dung luyện tập, không xác nhận là đề thi thật."
   },
   "sets": [
     {
@@ -370,7 +369,7 @@
       ]
     },
     {
-      "task_id": "real-w2-ai-education",
+      "task_id": "c1-practice-w2-ai-education",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Discussion & Opinion Essay",
@@ -393,7 +392,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-online-shopping",
+      "task_id": "c1-practice-w2-online-shopping",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Outweigh Essay",
@@ -415,7 +414,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-single-use-plastic",
+      "task_id": "c1-practice-w2-single-use-plastic",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Agree / Disagree Essay",
@@ -437,7 +436,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-youth-mental-health",
+      "task_id": "c1-practice-w2-youth-mental-health",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Causes and Solutions Essay",
@@ -459,7 +458,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-cashless-society",
+      "task_id": "c1-practice-w2-cashless-society",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Positive or Negative Development Essay",
@@ -481,7 +480,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-remote-hybrid-work",
+      "task_id": "c1-practice-w2-remote-hybrid-work",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Advantages & Disadvantages Essay",
@@ -503,7 +502,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-free-public-transport",
+      "task_id": "c1-practice-w2-free-public-transport",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Discussion & Opinion Essay",
@@ -526,7 +525,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-university-vs-vocational",
+      "task_id": "c1-practice-w2-university-vs-vocational",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Discussion & Opinion Essay",
@@ -549,7 +548,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-culture-globalization",
+      "task_id": "c1-practice-w2-culture-globalization",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Agree / Disagree Essay",
@@ -571,7 +570,7 @@
       "level": "C1"
     },
     {
-      "task_id": "real-w2-renewable-energy-responsibility",
+      "task_id": "c1-practice-w2-renewable-energy-responsibility",
       "set_id": "vstep-hot-topics-c1-ws",
       "skill": "Writing",
       "task_type": "Discussion & Opinion Essay",
