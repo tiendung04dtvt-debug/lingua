@@ -66,6 +66,8 @@ The Resources page now also links the learner's requested practice leads: ZIM, P
 
 The learner-provided Drive archive is stored only under the ignored `packs/private/reference-materials/`: one compilation PDF titled “7 Vstep Tests (B1-B2-C1) – Full Key”, seven MP3 files, and three separate MP3 files. The author, provenance, test/audio mapping, and reproduction permission remain unverified. It is excluded from the public repository and public question bank.
 
+For offline study, private copies were also saved from the PREP sample page and VSTEP.edu.vn's four-skill sample page, plus the PREP-linked answer PDF. The answer file was confirmed to be a PDF. The VSTEP.edu.vn page embeds YouTube audio; its attribution of the sample to ULIS is still treated as the aggregator's claim until matched to an ULIS-hosted copy. The PREP folder titled “20 tests” was not downloaded or counted as 20 reviewed papers.
+
 ## Remaining research gaps
 
 - No public UED-specific past-paper bank or full UED sample was located. Multiple official-provider samples are now collected; UFL remains the closest regional source for the shared Bậc 3–5 format.
